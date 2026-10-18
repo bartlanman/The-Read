@@ -1,5 +1,7 @@
 # STATION TRANSFORMATION REGISTER
 
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-078; 23 investigated windows, next 261–280 CE.** See [latest Window 23 entries](#window-23-241260-ce--2026-10-18). Earlier checkpoint notes below remain archival, not current state.
+
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
 **Do not confuse these different station types:**
@@ -171,3 +173,15 @@ Each record must include:
 - [ST-074 234/235 Roman Egyptian coinage and 235/238 Severan succession](ST-074_ALEXANDRIAN_COIN_234_235_AND_238_SUCCESSION.md)
 
 **Checkpoint: 74 comparative Station Transformation Records.** **Positive named *technical author***, NOT historically proven professional Alchemist. Ancient book fragment is not the same witness as geometric/music signs, and its date range extends far beyond this period.
+
+
+## Window 23 (241–260 CE) — 2026-10-18
+
+- [ST-075: Philip I's 248/249 issued metal — technique does not prove Alchemist](ST-075_ALEXANDRIA_248_249__ISSUED_METAL_NOT_ALCHEMY.md)
+- [ST-076: Two 250 CE original sacrifice certificates — public certification of ritual, not metallurgy](ST-076_EGYPT_250__TWO_SACRIFICE_CERTIFICATES_AND_OFFICIAL_WITNESS.md)
+- [ST-077: Valerian's pressure on bishops, and Gallienus restitution with date caveat](ST-077_VALERIAN_257_260__BISHOP_STATUS_COERCION_AND_RESTITUTION.md)
+- [ST-078: Dionysius's hostile “Egyptian Magi” label — polemic not profession](ST-078_EGYPTIAN_MAGI_257_260__POLEMICAL_LABEL_NOT_ALCHEMIST.md)
+
+**Verified checkpoint: 78 Station Transformation Records.** Window 23 identifies public certification of ritual and direct pressure on clergy, but **no 241–260 CE named Alchemist or demonstrable alchemical persecution**. The Gallienus rescript is a **260/after** witness, not securely dated 260. [Window 23](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0241-0260_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0241-0260__SOURCE_REGISTER.md).
+
+**Next deep-read:** 261–280 CE. Earlier “Current status” statements above are dated progress logs; this paragraph is the latest checkpoint.
