@@ -121,3 +121,18 @@ https://preview.wellcomecollection.org/works/mervmpw3
 - Check exact Latin 1144 translation author attribution/date and earliest manuscripts.
 - Record case where sources explicitly *publish* instructions: do not presume hidden codes everywhere.
 - Add direct manuscript witnesses for 1470s Renaissance texts and early printing.
+
+
+## Window 23 (241–260 CE) — original-period comparators vs later alchemical textual witnesses
+
+**Evidence-controlled detailed register:** [CE_0241-0260__SOURCE_REGISTER.md](CE_0241-0260__SOURCE_REGISTER.md). **Not a renumbering of the general H-series**; Window 23 references `W23-O01`, `W23-P01/P02`, `W23-T01–T05`, `W23-S01–S05` for exact witness/date distinctions.
+
+- [RPC VIII 3329](https://rpc.ashmus.ox.ac.uk/coins/8/3329): physical 248/249 **debased-silver** coin from Alexandria, Philip I year 6; not evidence of metal-to-gold transmutation or named maker.
+- [P.Oxy IV 658](https://papyri.info/ddbdp/p.oxy;4;658): **14 June 250**, Oxyrhynchus original Greek sacrifice certificate, **Yale P.CtYBR inv. 65**; a second catalog ID is **the same artifact**.
+- [P.Mich III 157](https://papyri.info/ddbdp/p.mich;3;157): **17 June 250**, Theadelphia, **distinct original Greek** sacrifice certificate with named applicants and official witnesses.
+- [Cyprian Ep.80.1–2](https://presbytersproject.ihuw.pl/index.php?SourceID=1108&id=6): **258** contemporary letter preserved later, reporting Valerian sanctions against Christian officials, not the emperor's original rescript; called **Ep.81** in some English editions.
+- [Eusebius HE VI.39 and VII.10–13](https://www.newadvent.org/fathers/250107.htm): **early-fourth-century** Christian historian quotes or retells Dionysius, Egyptian “Magi” polemic, Bishop's examination, and Gallienus's **translated** restoration instructions; dates and interests must be kept distinct. Gallienus order **260/after**, not securely located within the twenty years.
+- [Martelli (2022)](https://cris.unibo.it/retrieve/e80dea99-da60-40df-a5a5-589724690433/Martelli_2022%20%28Transmuting%20Tinctures%29.pdf): Leiden/Stockholm **third-to-fourth-century** manuscript context; a recipe family is not a documented 250 alchemical workshop.
+- [Dufault (2019)](https://escholarship.org/uc/item/2ks0g83x): Zosimos **approximately 300**, while named earlier specialist Maria has uncertain biographical dates; modern synthesis does **not** prove either active 241–260.
+
+**Station outcome:** `NO SECURE ALCHEMIST IDENTIFIED`; comparisons concern monetary office, sacrifice certification, actual persecution of Christian clergy, and unreliable outsider designation `magoi`. [Window 23 dossier](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0241-0260_CE__WINDOW.md).
