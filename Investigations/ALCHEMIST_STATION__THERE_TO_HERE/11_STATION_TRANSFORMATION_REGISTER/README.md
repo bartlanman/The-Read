@@ -87,3 +87,9 @@ Each record must include:
 - [ST-030: Roman Egypt's temples, institutional continuity and land-source dispute](ST-030_ROMAN_EGYPT__1_20_CE_TEMPLE_CONTINUITY_AUDIT.md)
 
 **Checkpoint:** 30 station transformation / comparison records. Both new cases have no attested Alchemist title.
+
+## Window 12 — 21–40 CE records (2026-10-18)
+- [ST-031: Du Shi and the 31 CE water-powered iron bellows](ST-031_DU_SHI__31_CE_WATER_BELLOWS.md)
+- [ST-032: The 38 CE Alexandrian civic crisis (not alchemical persecution)](ST-032_ALEXANDRIA_38_CE__CIVIC_STATUS_NOT_ALCHEMY.md)
+
+**Checkpoint:** 32 records. Du Shi is a concrete case of *production skill, institutional sponsorship and historical attribution* that need not coincide in one person. The Alexandrian comparator is explicitly restricted to civic status, not evidence of an alchemical profession.
