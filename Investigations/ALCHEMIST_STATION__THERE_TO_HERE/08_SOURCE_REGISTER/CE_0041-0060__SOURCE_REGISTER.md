@@ -58,3 +58,8 @@
 - **Edict Greek text:** https://droitromain.univ-grenoble-alpes.fr/Edicta/Aegypti33_.gr.html — prefect explains that a first public reading could not be attended by all and therefore orders display so each person may read.
 - **Translated ancient text:** https://attalus.org/docs/select2/p212.html — P.Lond. VI 1912 and the public-edict paragraph.
 - **Important:** the dated edict and copied imperial letter are the **opposite of a purported secret alchemical book**, and their shared century does not establish any historical connection.
+
+## [W13-H01] Rafe de Crespigny, *To Establish Peace: Being the Chronicle of the Later Han dynasty*
+- Australian National University scholarly source (chronological table): https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/fcf6cff2-9d85-4b28-add3-f9b4baddc9fd/content
+- Guangwu dies **29 March 57 CE**; his son Ming (Liu Zhuang) succeeds the same day (reigns 57–75 CE). Recorded here only as a **separate Han political station succession**.
+- **Warrant limit:** no indication of Greek alchemical textual transmission, Ostanes or the *Four Books* in the 57 CE court.
