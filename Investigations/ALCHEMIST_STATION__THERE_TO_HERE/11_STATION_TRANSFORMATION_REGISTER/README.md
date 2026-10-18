@@ -1,6 +1,6 @@
 # STATION TRANSFORMATION REGISTER
 
-**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-089; 26 investigated windows, next 321–340 CE.** See latest Window 26 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-094; 27 investigated windows, next 341–360 CE.** See latest Window 27 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
 
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
@@ -216,3 +216,14 @@ Each record must include:
 - [ST-089: Licinius's 13 June 313 Nicomedia letter on worship choice and restitution](ST-089_LICINIUS_313__NICOMEDIA_RESTITUTION_NOT_ALCHEMY.md)
 
 **Latest checkpoint: 89 Station Transformation Records; 26 deep-researched chronological windows through 320 CE; next 321–340 CE.** Goldworkers' public economic station in a genuine 301 original inscription **is not** proof they were Alchemists; near-contemporary testimonies concerning **Christian** scriptures burned 303 do not authenticate the **seventh-century Suda** story of Diocletian's destruction of **gold/silver** treatises. Zosimos's c.300 technical commentary/patronage world remains **cross-window undated** and ST-085 is **not duplicated**. [Window 26](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0301-0320_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0301-0320__SOURCE_REGISTER.md) · [Language/Outside audit](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0301-0320__GOLDWORKERS_SCRIPTURES_AND_AUTHORITY.md).
+
+
+## Window 27 (321–340 CE) — latest checkpoint 2026-10-18
+
+- [ST-090: 30 June 331 Orkistos original municipal status/cult-payment rescript](ST-090_ORKISTOS_331__CITY_AUTHORITY_CULT_CONTRIBUTION.md)
+- [ST-091: Hispellum c.333–337 original conditional imperial-cult/priestly grant](ST-091_HISPELLUM_333_337__IMPERIAL_CULT_PRIEST_CONDITIONAL_AUTHORITY.md)
+- [ST-092: 334 law CTh XIII.4.1 on supporting scarce architects' education](ST-092_AFRICA_334__ARCHITECT_LEARNING_IMMUNITY.md)
+- [ST-093: 2 Aug 337 craft immunity to improve/teach sons; attribution conflict because Constantine died 22 May](ST-093_ARTISANS_337__GOLDSMITHS_TEACH_SONS_CONTESTED_ATTRIBUTION.md)
+- [ST-094: actual 335 gold solidus, Nicomedia—mint product not elemental transmutation](ST-094_NICOMEDIA_335__ORIGINAL_GOLD_SOLIDUS_NOT_CHRYSOPOEIA.md)
+
+**Latest checkpoint: 94 station records, 27 deep-researched windows, NEXT Window 28 (341–360 CE)**. The major positive comparator is **actual protected technical teaching**: the legal tradition deliberately excuses `aurifices` and other artisans from `munera` to improve expertise and **educate sons**, though no named alchemical specialist is protected under this title. Preserve original legal-source dates versus compilation and **posthumous Constantine attribution conflict**. Orkistos and Hispellum are original civic inscriptions, while the two craft laws are later codified texts. [Window 27](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0321-0340_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0321-0340__SOURCE_REGISTER.md) · [Language](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0321-0340__CRAFT_TRAINING_POSTHUMOUS_AUTHORITY.md).
