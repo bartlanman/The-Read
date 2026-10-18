@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — STRUCTURE CREATED 2026-10-18.**
+Status: **OPEN INVESTIGATION — 23 deep-researched historical windows through 260 CE, 78 Station Transformation Records; next window 261–280 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -267,3 +267,15 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Station Transformation Register ST-070–ST-074](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
 
 **Central threshold:** Africanus is a named third-century author of technical procedures, some subsequently cited in Greek alchemy. Symbolic ingredient substitutions are documented in transmitted *Kestoi* fragments, but may be learned puzzles rather than effective encryption. **British Library Papyrus 2040** preserves **Book 18**, not this particular notation; copy was made **225–275/276** and reused for a legal will **276**, so the object does not establish an exact 230 CE text. **No formal 221–240 Greek Alchemist office or successful gold transmutation demonstrated.**
+
+
+## Window 23 deep-read checkpoint — 241–260 CE (2026-10-18)
+
+- [Full ten-layer investigation: original 248/249 Alexandria coin, June 250 religious certificates, 257–260/after contested clerical pressure](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0241-0260_CE__WINDOW.md)
+- [Window 23 historical source register: original papyri versus Cyprian, Dionysius, Eusebius, Zosimos dating](08_SOURCE_REGISTER/CE_0241-0260__SOURCE_REGISTER.md)
+- [Language, technique, allegory and access: observable actions versus authorized judgments](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0241-0260__LANGUAGE_TECHNIQUE_AND_ACCESS.md)
+- [Station Transformation Register ST-075–ST-078; 78 records total](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Strongest witnesses:** original **RPC VIII 3329 (248/249)** and distinct original **P.Oxy. IV 658 (14 June 250)** / **P.Mich. III 157 (17 June 250)**. These establish material issue and institutional certification of public ritual, not certified gold-transmutation. The late-antique “Egyptian Magi” accusation is a transmitted polemical label, not evidence of an actual 250s alchemical guild or persecution. **NO SECURE 241–260 CE ALCHEMIST FOUND**; the later Greek alchemical manuscript tradition must not be backdated. Gallienus's post-Valerian religious restitution is **260/after**, not confidently pinned within this twenty-year interval.
+
+**NEXT WINDOW 24 — 261–280 CE:** prioritize the 276 verso will on Africanus's broadly dated papyrus and investigate the earliest independently dateable witnesses connecting a named alchemical writer, actual operation, teaching and recognized social station. Preserve China's separate lineage and the remainder.
