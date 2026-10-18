@@ -165,3 +165,16 @@ https://preview.wellcomecollection.org/works/mervmpw3
 - **Different legal matter:** possible Diocletian anti-Manichaean rescript in *Collatio legum* 15.3 debated **297 vs 302**, must not be conflated with Suda narrative or 303 Christian persecution (next window).
 
 **Status:** The revolt's public station ATTESTED; claimed Diocletianic suppression of alchemical books RETROSPECTIVE/UNVERIFIED; Zosimos named alchemical-commentary station c.300 SOURCE-SUPPORTED, precise window chronology UNKNOWN.
+
+
+## Window 26 — 301–320 CE: authentic 301 craft law vs 303 Christian scripture destruction
+
+**Full source register:** [CE_0301-0320__SOURCE_REGISTER.md](CE_0301-0320__SOURCE_REGISTER.md) with `W26-O01/O02`, `W26-T01–T05`, `W26-S01–S03`, and `W26-N01`.
+
+- **Original state public craft regulation:** **AD 301** [Aphrodisias Civil Basilica inscription](https://aphrodisias.classics.ox.ac.uk/inscriptions.html); [Crawford et al. 2023 complete edited composite](https://doi.org/10.29091/9783752002362); [source-critical 2024 review](https://bmcr.brynmawr.edu/2024/2024.07.21/). Maximum price/wages and goldworking **do not prove state recognition of successful chrysopoeia**. Distinct **Currency Dossier** also original stone.
+- **303 targeted religious documents:** [Lactantius `De mortibus persecutorum` XII–XIII Latin](https://www.ancienttexts.org/library/latinlibrary/lactantius.html) dates **23 Feb** Nicomedia church wrecking/burning **Christian Scriptures** and next-day edict posting. [Eusebius *HE* VIII.2](https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers%3A_Series_II/Volume_I/Church_History_of_Eusebius/Book_VIII/Chapter_2) supports religious target with its own voice/calendar. **No original Roman order to burn alchemical recipes in 303** identified.
+- **Public change of Christian station:** [Galerius 311 edict as quoted](https://www.church.mcgill.ca/source/galerius-edict_of_toleration.shtml) (Lactantius DMP34; posting **30 April** in DMP35). [Licinius 313 circular quoted by Lactantius DMP48, Eusebius HE X.5](https://sourcebooks.web.fordham.edu/source/edict-milan.asp); **posted Nicomedia 13 June**, not a surviving signed Milan original.
+- **Zosimos of Panopolis:** [Dufault 2019](https://escholarship.org/uc/item/2ks0g83x); [Dufault 2022, religious identity test](https://e-revistas.uc3m.es/index.php/ARYS/en/article/download/6795/5727/12978); commentary/patronage c.300 **BROAD**, no exact 307 teaching or persecution event. Earlier ST-085 is a cross-window positive author, not a date-local new ST.
+- **Excluded false bridge:** [John of Antioch → Suda claim](CE_0281-0300__SOURCE_REGISTER.md) about book-burning following Egyptian rebellion is **seventh–tenth-century later testimony**, not the same policy or witness as the 303 Christian scripture case.
+
+**Verdict:** Craft/economic regulation **ATTESTED ORIGINAL**, persecution of Christian textual/religious station **near-contemporary report**, Christian institutional authorization changes **through later-transmitted Latin/Greek legal quotes**. **No named 301–320 credentialed alchemist or validated elemental conversion**.
