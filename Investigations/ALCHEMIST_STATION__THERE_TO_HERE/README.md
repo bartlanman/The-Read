@@ -111,3 +111,13 @@ New strongly documented (within a retrospective historical narrative) distinctio
 - [Source register](08_SOURCE_REGISTER/0100-0081_BCE__SOURCE_REGISTER.md)
 
 **Verified caution:** 89 BCE *fangshi* dismissal is a contested **later chronicle** claim, not an explicit clause of the *Hanshu* Luntai edict. Real salt and iron production controversy is not proof of ancient gold transmutation.
+
+
+## Window 07 — 80–61 BCE completed (2026-10-18)
+
+- [Ten-layer inquiry and conclusions](02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0080-0061_BCE__WINDOW.md)
+- [Station Transformation Register ST-014–ST-017](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Comparative language and technique](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/WINDOW_07__CAPTURED_MEDICINE_AND_TRANSLATION.md)
+- [Source register](08_SOURCE_REGISTER/0080-0061_BCE__SOURCE_REGISTER.md)
+
+**Status:** documented politically contested sovereign stations and later reports of technical-text translation, but **no independently documented distinct Alchemist's station** in this interval.

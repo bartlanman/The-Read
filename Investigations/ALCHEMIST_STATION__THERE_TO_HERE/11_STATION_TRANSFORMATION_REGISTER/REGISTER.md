@@ -19,6 +19,10 @@
 | [ST-011](ST-011_LUNTAI_89_BCE_SOURCE_CONFLICT.md) | Han China, 89 BCE | Sovereign / policy advisers; older fangshi patronage | War failures, fiscal strain, disputed late narrative | Luntai proposal rejected; later story of total fangshi dismissal CONTESTED | **No secure anti-alchemy edict** |
 | [ST-012](ST-012_SALT_IRON_81_BCE.md) | Han China, 81 BCE | State/private iron and salt producers, literati and officials | Debate over state industry, product quality, public welfare | Court debate represented in later dialogue | **Production jurisdiction contested, not alchemist status** |
 | [ST-013](ST-013_PTOLEMAIC_88_BCE.md) | Ptolemaic Egypt, c.88 BCE | Competing kings and temple-related authority | Dynastic overthrow | Ptolemy IX restored after Ptolemy X removed | **No documented Egyptian alchemical station** |
+| [ST-014](ST-014_EGYPT_80_65_BCE__CONTESTED_SOVEREIGNTY.md) | Egypt/Rome, 80–63 BCE | Ptolemy XII and royal priestly standing | Alexandrian succession and Roman proposals to own Egypt | Royal station survives but legally contested abroad | **Political station, not alchemical expertise** |
+| [ST-015](ST-015_PONTUS_63_BCE__CAPTURED_MEDICAL_ARCHIVE.md) | Pontus/Rome, c.63 BCE and later | Mithridates' royal medicinal research collection | Roman conquest and court destruction | Pliny later reports library capture and Latin translation | **Medicinal comparison, not a recorded Alchemist** |
+| [ST-016](ST-016_HAN_74_66_BCE__HUO_REGENT_STATION.md) | Han China, 74–66 BCE | Regent Huo Guang and court appointments | Death of regent and political conspiracy | Huo family loses influence and is destroyed | **Administrative station, not chemical study** |
+| [ST-017](ST-017_HUAN_KUAN__TEXTUAL_STATION.md) | Han China, text c.74–49 BCE | Retrospective interpreter of 81 BCE policy debate | Change in political discourse and imperial regime | Compiles influential later account of salt–iron debate; exact date broad | **Text lineage, not an Alchemist** |
 
 ## Interpretative pattern at this stage
 - **Authority can be institutionally assigned, revised or defended without creating an alchemical profession.**
@@ -45,3 +49,8 @@ A historically attributable practitioner **who undertakes or claims material tra
 ## Window 06 audit — 100–81 BCE
 
 [Read Window 06](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0100-0081_BCE__WINDOW.md): **judging dangerous claims**, **a contested account of dismissal**, and **a public debate on the control of manufacturing** are different mechanisms. Critical distinction: the alleged 89 BCE expulsion of fangshi is in the much later *Zizhi tongjian*, not the *Hanshu*'s Luntai edict; avoid turning a historical narrative of the end of a station into evidence of its actual disappearance.
+
+
+## Window 07 — 80–61 BCE
+
+The distinctive new comparative mechanism is **political destruction or foreign conquest → seizure/possession of an expert's private knowledge → linguistic translation → reauthorization by a different audience**, visible in Pliny's **much later** account of Mithridates/Pompey/Lenaeus. Both historical and textual transmission dates must be kept separate. **Pliny himself** critiques secret-keeping for prestige and the inadequacy of copied images to carry practical botanical competence, but this **late first-century CE voice** is not direct testimony from 63 BCE. [Window 07](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0080-0061_BCE__WINDOW.md).

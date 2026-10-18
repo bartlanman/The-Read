@@ -50,3 +50,11 @@ Each record must include:
 - [ST-013: Egyptian succession c.88 BCE](ST-013_PTOLEMAIC_88_BCE.md)
 
 **Next individual alchemical authority candidates:** Pseudo-Democritus and Zosimos after detailed re-dating, tentatively ST-014 onward. Do not assign numbers that conflict with real deposited records.
+
+## Window 07 register additions (2026-10-18)
+- [ST-014: Ptolemy XII and Roman pressure on Egypt](ST-014_EGYPT_80_65_BCE__CONTESTED_SOVEREIGNTY.md)
+- [ST-015: Mithridatic medicine, seizure and Latin translation](ST-015_PONTUS_63_BCE__CAPTURED_MEDICAL_ARCHIVE.md)
+- [ST-016: Han imperial and Huo regent station](ST-016_HAN_74_66_BCE__HUO_REGENT_STATION.md)
+- [ST-017: Huan Kuan's later account of a former manufacturing dispute](ST-017_HUAN_KUAN__TEXTUAL_STATION.md)
+
+**Next window:** 60–41 BCE. Professional alchemist authority not documented for Window 07.
