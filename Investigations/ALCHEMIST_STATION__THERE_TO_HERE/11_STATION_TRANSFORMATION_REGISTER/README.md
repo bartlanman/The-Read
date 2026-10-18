@@ -66,3 +66,11 @@ Each record must include:
 - [ST-021: Later alchemical Cleopatra name, not contemporary queen's authored text](ST-021_RECEPTION_CLEOPATRA_ALCHEMIST__NOT_QUEEN.md)
 
 **Caution:** ST-021 is explicitly **retrospective reception**, not a 60–41 BCE historical encounter. The period's major early alchemical technical account is Chinese, not an Egypt–China transmission.
+
+## Window 09 additions (2026-10-18)
+- [ST-022: End of royal station; Augustus' prefecture](ST-022_EGYPT_30_BCE__CONQUEST_PREFECTURE.md)
+- [ST-023: Gallus's trilingual public authority and political fall](ST-023_GALLUS_PHILAE_29_BCE__TRILINGUAL_AUTHORITY.md)
+- [ST-024: Strabo, continuity of Mouseion priest / Heliopolis learned tradition](ST-024_STRABO_MOUSEION_HELIOPOLIS_25_BCE.md)
+- [ST-025: Liu Xiang becomes textual-collation authority in 26 BCE](ST-025_HAN_LIU_XIANG__26_BCE_BOOK_AUTHORITY.md)
+
+**Research status:** Ancient sources make public authority visible and contestable, yet not a specific Egyptian alchemical profession.

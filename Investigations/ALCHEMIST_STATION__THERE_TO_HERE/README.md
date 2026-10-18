@@ -131,3 +131,13 @@ New strongly documented (within a retrospective historical narrative) distinctio
 - [Sources and dating conflicts](08_SOURCE_REGISTER/0060-0041_BCE__SOURCE_REGISTER.md)
 
 **New strongest direct-to-practice source claim:** *Hanshu* 36 connects Liu Xiang's restricted textual access, imperial workshop commission, failed attempt and legal consequence. **Not proved:** any successful goldmaking or queen Cleopatra VII's authorship of later Greek alchemical texts.
+
+
+## Current deep-read checkpoint — Window 09, 40–21 BCE
+
+- [Window 09 historical read](02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0040-0021_BCE__WINDOW.md)
+- [Station Transformation Register ST-022–ST-025](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Language, knowledge and station transfer](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/WINDOW_09__MULTILINGUAL_STATION_AND_GUARDED_LEARNING.md)
+- [Source register](08_SOURCE_REGISTER/0040-0021_BCE__SOURCE_REGISTER.md)
+
+**Key finding:** Egyptian royal authority is replaced but Strabo reports the **Mouseion priest's office surviving with Augustus as appointer**. Gallus's 29 BCE stele adapts different official messages to three scripts. In **26 BCE** the Han court honors Liu Xiang's scholarship after an earlier failed gold-making claim, while physician **Li Zhuguo**, not Liu, handles the technical/medical `fangji` books. **No specific alchemical metal-transmutation station is confirmed for Egypt in this window.**
