@@ -162,3 +162,12 @@ Each record must include:
 - [ST-069: Local 203 martyrdom versus controversial generalized Severan conversion edict](ST-069_SEVERAN_CONVERSION_EDICT_202__PERSECUTION_CAUSAL_GUARD.md)
 
 **Checkpoint: 69 comparative Station Transformation Records.** The local restriction in P.Giss.40 does not retract citizenship generally; legal terms and exceptions remain subject to damaged manuscript and scholarly dispute. No original 201–220 CE alchemical professional record.
+
+## Window 22 records — 221–240 CE (2026-10-18)
+- [ST-070 Julius Africanus, identifiable author of *Kestoi*, dedicated to Alexander Severus](ST-070_JULIUS_AFRICANUS_222_235__NAMED_TECHNICAL_AUTHOR.md)
+- [ST-071 Oxyrhynchus Book 18 fragment and 276 legal will on the reverse](ST-071_KETOI_BOOK_18_OXYRHYNCHUS__PAPYRUS_AND_276_WILL.md)
+- [ST-072 Geometry/music references to recipe ingredients and now-lost explanatory appendix](ST-072_AFRICANUS_SYMBOLS__CODE_LOST_APPENDIX_AND_PAIDEIA.md)
+- [ST-073 Civic and imperial patronage: court library and Emmaus/ Nicopolis attribution guard](ST-073_AFRICANUS_EMMAUS_AND_EMPEROR__PATRONAGE_CLAIM_WATCH.md)
+- [ST-074 234/235 Roman Egyptian coinage and 235/238 Severan succession](ST-074_ALEXANDRIAN_COIN_234_235_AND_238_SUCCESSION.md)
+
+**Checkpoint: 74 comparative Station Transformation Records.** **Positive named *technical author***, NOT historically proven professional Alchemist. Ancient book fragment is not the same witness as geometric/music signs, and its date range extends far beyond this period.

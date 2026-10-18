@@ -257,3 +257,13 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Language analysis: one damaged papyrus, two competing operations of status](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0201-0220__ONE_PAPYRUS_TWO_OPERATIONS.md)
 
 **Historical guard:** 212/213 citizenship grant is transmitted in **c.215 original-period Greek papyrus**, not 212 Latin autograph; `dediticii` restoration and genre of second order are debated. Exempted occupations are state-designated useful services, **not Alchemist certifications**. Clement reports a priestly book division, does NOT demonstrate recovered forty-two texts or a real 210 CE goldmaking guild. Physical 203 Roman arch retains marks of Geta's deletion after 211.
+
+
+## Window 22 deep-read checkpoint — 221–240 CE
+
+- [Full ten-layer investigation: Sextus Julius Africanus and the *Kestoi*](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0221-0240_CE__WINDOW.md)
+- [Source register: British Library original papyrus, Dufault source critique, Alexandrian coin](08_SOURCE_REGISTER/CE_0221-0240__SOURCE_REGISTER.md)
+- [Language and secrecy: geometric/music notation and the lost key](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0221-0240__THE_LOST_KEY_AND_LEARNED_TECHNIQUE.md)
+- [Station Transformation Register ST-070–ST-074](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Central threshold:** Africanus is a named third-century author of technical procedures, some subsequently cited in Greek alchemy. Symbolic ingredient substitutions are documented in transmitted *Kestoi* fragments, but may be learned puzzles rather than effective encryption. **British Library Papyrus 2040** preserves **Book 18**, not this particular notation; copy was made **225–275/276** and reused for a legal will **276**, so the object does not establish an exact 230 CE text. **No formal 221–240 Greek Alchemist office or successful gold transmutation demonstrated.**
