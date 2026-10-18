@@ -36,3 +36,7 @@ A body of recipe writing gains durable literary authority in later alchemical re
 Real author, exact date, original Greek four-book text, technical results, actual named pupils, whether a deliberate coded ingredient lexicon existed, relation to late-antique reception and exact Ostanes narrative witnesses.
 
 [Window 13](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0041-0060_CE__WINDOW.md) · [Source-critical register](../08_SOURCE_REGISTER/CE_0041-0060__SOURCE_REGISTER.md) · [Language analysis](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0041-0060__THE_HIDDEN_BOOKS_AND_THE_PUBLIC_LETTER.md).
+
+
+## Cross-window audit (61–80 CE; 2026-10-18)
+This record is **not** converted from candidate to certain event. Critical chronology allowing composition under Nero (**54–68 CE**) overlaps **both** 41–60 and 61–80 CE. Pliny's *Naturalis Historia* book 30 was written by c.77 and names Democritus/Osthanes as magical authorities, but the *specific magical treatises Pliny debates* cannot securely be equated with the surviving Greek `Four Books` textual descendants. His own acceptance of Democritean authenticity should not be adopted as modern philological proof. [Window 14](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0061-0080_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0061-0080__SOURCE_REGISTER.md).

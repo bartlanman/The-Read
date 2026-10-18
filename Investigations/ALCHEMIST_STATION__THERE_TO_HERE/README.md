@@ -183,3 +183,15 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Source register](08_SOURCE_REGISTER/CE_0041-0060__SOURCE_REGISTER.md)
 
 **Historical warrant:** no original Pseudo-Democritus manuscript or independently named Greek Alchemist is secured in 41–60 CE. Critical dating points broadly to the later first century, **possibly within Nero 54–68**, spanning this and the **61–80 CE** window. The temple column containing Ostanes' alleged books is a **later preserved literary story** of secret transmission, not an excavated fact. The original-period 41 CE papyrus is a strong contrasting example of an institution authorizing *public* dissemination of a document.
+
+
+## Window 14 — 61–80 CE deep-read checkpoint
+
+- [Historical Window 14: appearance, substance, tests, Greek alchemical dating](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0061-0080_CE__WINDOW.md)
+- [ST-035 Pliny and the station of material judgment](11_STATION_TRANSFORMATION_REGISTER/ST-035_PLINY__77_CE_METAL_TESTING_AND_ATTRIBUTION.md)
+- [ST-036 Dioscorides mineral processing (c.50–70 CE)](11_STATION_TRANSFORMATION_REGISTER/ST-036_DIOSCORIDES__50_70_CE_MEDICAL_MATTER.md)
+- [ST-037 Vespasian miracle narrative, not technical proof](11_STATION_TRANSFORMATION_REGISTER/ST-037_VESPASIAN_ALEXANDRIA__70_CE_HEALING_CLAIM.md)
+- [Technique and allegory: gold appearance, testing and authorial names](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0061-0080__APPEARANCE_SUBSTANCE_AND_WARRANT.md)
+- [Source register](08_SOURCE_REGISTER/CE_0061-0080__SOURCE_REGISTER.md)
+
+**Bounded result:** Pliny was composing in this window and discussed real testing and disputed claims to old textual authority; pseudo-Democritus may have written under Nero but is **not exactly dated, independently named or demonstrably the text attacked by Pliny**. No successful elemental transmutation or formal Alchemist's office is established.

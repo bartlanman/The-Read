@@ -99,3 +99,10 @@ Each record must include:
 - [ST-034: Pseudo-Democritus and the possible Greek alchemical textual station](ST-034_PSEUDO_DEMOCRITUS__DATING_THRESHOLD.md)
 
 **Checkpoint:** 34 comparative records, including a *candidate* (ST-034), not a demonstrably located 41–60 CE individual occupation. The public papyrus (original-period) and the alleged temple-hidden books (later-written narrative) have fundamentally different witness status. Continue the corpus dating in **61–80 CE**.
+
+## Window 14 records — 61–80 CE (2026-10-18)
+- [ST-035: Pliny's material testing, imitation and authorial authenticity](ST-035_PLINY__77_CE_METAL_TESTING_AND_ATTRIBUTION.md)
+- [ST-036: Dioscorides and mineral processing in first-century medicine](ST-036_DIOSCORIDES__50_70_CE_MEDICAL_MATTER.md)
+- [ST-037: Vespasian's alleged Alexandria healings and political recognition](ST-037_VESPASIAN_ALEXANDRIA__70_CE_HEALING_CLAIM.md)
+
+**Checkpoint: 37 records.** Pseudo-Democritus' original composition remains unresolved, not a separately proven practitioner. ST-036 spans two windows by its broad date.
