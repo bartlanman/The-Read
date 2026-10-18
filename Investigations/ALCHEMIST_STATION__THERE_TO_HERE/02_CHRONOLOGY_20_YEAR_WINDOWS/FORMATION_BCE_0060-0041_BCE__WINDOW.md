@@ -34,7 +34,7 @@ Ptolemaic temples and royal facilities involved material crafts, coinage, taxati
 
 ## 03 — LANGUAGE, ALLEGORY AND TECHNIQUE
 ### A surprising original-language anchor: `枕中鴻寶苑祕書`
-The **Hanshu** calls the writings something like 'Hongbao / Yuan secret writing(s) stored in a pillow'. Modern short titles often combine the words as **Hongbao yuanbi shu**, but early commentary by Yan Shigu glosses **Hongbao** and **Yuan mِي / Yuanmi** as **two titles of arts texts**, not necessarily a single book. [W08-P01–P02]
+The **Hanshu** calls the writings something like 'Hongbao / Yuan secret writing(s) stored in a pillow'. Modern short titles often combine the words as **Hongbao yuanbi shu**, but early commentary by Yan Shigu glosses **Hongbao** and **Yuanmi** as **two titles of arts texts**, not necessarily a single book. [W08-P01–P02]
 
 - **枕中** (*zhen zhong*): kept *in a pillow*; a narrative of intimate custody and restricted circulation.
 - **鴻寶 / 苑祕書** (*Hongbao / Yuan mishu*): names of guarded texts; exact segmentation and reading require textual witnesses.
