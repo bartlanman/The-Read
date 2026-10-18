@@ -33,3 +33,8 @@ See [Window 03](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0160-0141_BCE__WI
 The earliest relatively detailed historical narrative of a **named court-recognized transformative specialist** describes Li Shaojun as a **fangshi**. *Shiji* 28 (a work compiled later than the reported encounter) says he concealed his origins and age, drew gifts and patronage, connected stove rituals with changing cinnabar to gold and longevity, and was honored by the emperor. After Li's ordinary death, Emperor Wu allegedly viewed it as transformed departure and arranged transmission of the man's methods. Neither an executable original formula nor successful gold production survives in that account. **Allegory and ritual are not automatically encrypted chemistry.**
 
 See [Window 04](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0140-0121_BCE__WINDOW.md), [ST-004](../11_STATION_TRANSFORMATION_REGISTER/ST-004_HAN_LI_SHAOJUN__CIRCA_133_BCE.md), [language analysis](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/LI_SHAOJUN__CLAIM_AND_LANGUAGE.md).
+
+
+## Window 05 — Court danger, rank and restricted methods (c.113–110 BCE)
+
+Shiji 28 reports that Luan Da argued other fangshi would fall silent if they met the execution suffered by Shaoweng. He demanded recognized guest status, seals and elite ties to become a credible envoy of extraordinary methods. Emperor Wu granted privileges, later investigated his claims and had him executed. After Luan's rise numerous people reportedly claimed secret arts. **This is evidence for a social and political *use of secrecy language*, not for verified transmutation.** See [Window 05](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0120-0101_BCE__WINDOW.md) and [ST-007](../11_STATION_TRANSFORMATION_REGISTER/ST-007_HAN_LUAN_DA__113_112_BCE.md).

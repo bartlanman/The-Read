@@ -93,3 +93,12 @@ In each interval, trace a witnessed station through **THERE → CAPACITY → PER
 - [ST-005: Liu An's princely scholarship and textual authority](11_STATION_TRANSFORMATION_REGISTER/ST-005_HAN_LIU_AN__139_TO_122_BCE.md)
 
 **Warrant:** a recognizable Chinese court-practitioner station of methods and patronage is evidenced by a later historical narrative. **Not warranted:** proven cinnabar-to-gold, a formal credential called 'Alchemist,' secret chemical code, or genealogical connection to Greco-Egyptian alchemy.
+
+
+## Window 05 complete — 120–101 BCE
+
+New strongly documented (within a retrospective historical narrative) distinction: **courtly station built by patronage → threat of silencing following punishment → verification of claimed methods → punishment and loss of office**. [Shiji 28](https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7028) reports a named shared-master claim, new government honors for fangshi, explicit fear of execution, and secret royal rites. These do **not** validate the claimed production of gold.
+
+- [Deep read: Window 05](02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0120-0101_BCE__WINDOW.md)
+- [Station records ST-006–ST-009](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Source register](08_SOURCE_REGISTER/0120-0101_BCE__SOURCE_REGISTER.md)

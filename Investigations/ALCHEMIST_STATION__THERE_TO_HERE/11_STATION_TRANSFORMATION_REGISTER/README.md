@@ -34,5 +34,11 @@ Each record must include:
 - [ST-003: 144 BCE Han counterfeit gold law](ST-003_HAN_144_BCE__COUNTERFEIT_GOLD.md)
 - [ST-004: Li Shaojun and Emperor Wu](ST-004_HAN_LI_SHAOJUN__CIRCA_133_BCE.md)
 - [ST-005: Liu An, Huainanzi and patronage](ST-005_HAN_LIU_AN__139_TO_122_BCE.md)
+- [ST-006: Shaoweng, a prestigious specialist executed](ST-006_HAN_SHAOWENG__COURT_SECRET.md)
+- [ST-007: Luan Da, station granted and withdrawn](ST-007_HAN_LUAN_DA__113_112_BCE.md)
+- [ST-008: Gongsun Qing and survival after failure](ST-008_HAN_GONGSUN_QING__STATION_SURVIVAL.md)
+- [ST-009: Cleopatra III's eponymous priesthood](ST-009_EGYPT_CLEOPATRA_III__105_BCE.md)
 
 **Current status:** ST-004 Li Shaojun (c.133 BCE) now has a source-critical record showing socially recognized transformative claims but *no proven goldmaking*. ST-005 Liu An (139–122 BCE) tracks separate elite patronage and the limits of lost textual attributions. **Next window:** 120–101 BCE.
+
+**Window 05 completed (2026-10-18):** Shaoweng, Luan Da, and Gongsun Qing provide narrative evidence of danger, self-protective language, patron-created status, verification, executions, and continuing demand for specialists. Cleopatra III independently demonstrates an institutional station's altered eligibility in Ptolemaic Egypt. Do not confuse these two lineages or claim that the alchemical promise succeeded.
