@@ -1,47 +1,53 @@
-# 21–40 CE — Historical window 12
+# 21–40 CE — Window 12: Water-Powered Iron Production and Contested Authority
 
-**Status:** FIRST-PASS SOURCED LEADS; not closed  
-**Scope:** Formation and antecedents of Greek alchemical station; parallel cultures explicitly marked.  
-**Window:** 21–40 CE, exactly 20 inclusive years; all cross-window claims remain BROAD.  
-**Reference standard:** [source register](../08_SOURCE_REGISTER/STACK_20_YEAR_MASTER_SOURCES.md), [methods](../00_METHOD_AND_EVIDENCE/STACK_FIELD_PROTOCOL.md).
+**Status:** Source-anchored ten-layer deep pass. China and Roman Egypt remain separate histories. **No securely identified Alchemist's office or gold-transmutation recipe** in this window.
 
-## 01 — THERE: documented or inherited conditions
-Roman Egypt: inherited craft practices, Greek-language learning, religious and philosophical cultures, and circulation of technical texts. A century-wide dating of a Greek alchemical treatise is not a 20-year composition date.
+## 01 — THERE
+**23 CE:** Xin ruler Wang Mang's regime collapses. **25 CE:** Liu Xiu establishes Eastern Han as Emperor Guangwu, with political consolidation extending through 36 CE. [C01]
 
-## 02 — Material technique, workshop, apparatus
-The following evidence-bearing or broadly dated anchors inform this layer. A named anchor is not proof that the entire range shares its techniques.
+**31 CE:** Eastern Han governor Du Shi becomes Administrator of Nanyang in the seventh Jianwu year. [P01]
 
-## 03 — Language, lexicon, allegory and translation
-Test original terms, homonym/polysemy, cover-names, myth, rhetoric, diagram, allegory and late copying. A modern obscurity is **not automatically an ancient intentional secret**. Compare [language protocol](../00_METHOD_AND_EVIDENCE/ALLEGORY_AND_TECHNIQUE_AUDIT.md).
+**38 CE:** Roman Egypt experiences an Alexandrian civic and religious crisis, recorded in Philo's near-contemporary *In Flaccum* (c.39–40 CE). It is not evidence of a metalmaking guild's suppression. [E01]
 
-## 04 — Secrecy, custody, value, capacity, hazard
-Rate separately: **institutional monopoly / practitioner fear / commercial value / tacit skilled competence / physical or claimed spiritual danger / authority performance / accidental textual loss**. No general secrecy motive is proven by the period name. Compare [secrecy protocol](../00_METHOD_AND_EVIDENCE/SECRECY_AUDIT_PROTOCOL.md).
+## 02 — CAPACITY
+`後漢書` credits Du Shi with `造作水排，鑄為農器，用力少，見功多，百姓便之`: water-powered bellows assisting casting of agricultural implements, requiring less labor and reportedly yielding greater benefit. [P01] Later gloss `冶鑄者為排以吹炭，今激水以鼓之也` explains bellows pushing air into charcoal fires by the force of moving water. **No original 31 CE device, construction drawing, measured efficiency or named workers have been verified.**
 
-## 05 — Perception
-Ask what contemporary observers actually said about transformation, alteration, imitation, divine revelation, nature or the legitimacy of a craft. Distinguish source voice from our inference.
+## 03 — LANGUAGE
+`水排` names a functional hydraulic blower, **not a concealed chemical ingredient**. `太守` denotes administrative office, not a professional alchemical credential. The Greek pseudo-Democritean *Four Books* are broadly first-century CE but critically dated **after midcentury, perhaps under Nero (54–68)**: not securely an event in 21–40 CE. [G01]
 
-## 06 — Station
-Do sources show a **craftworker**, **ritual official**, **patron**, **writer**, **teacher**, **authorized specialist**, or **named alchemist**? Never collapse the categories. No specific named station is inferred without direct evidence.
+## 04 — SECRECY
+No source establishes a secret formula, formal initiation, safety-driven code or persecution of alchemists. Different power relations exist: government authorization for furnace work; craftspeople's practical skill; and Roman power over civic recognition in Alexandria. The latter must not be conflated with an alchemical profession.
 
-## 07 — Practitioners, institutions and lineage
-Link a person to another only through actual contact, citation, translation or plausible textual reception; pseudonymous authority is not a real apprenticeship.
+## 05 — PERCEPTION
+Du Shi is named in a fifth-century historical biography. The ironworkers who constructed and ran the apparatus are unnamed. The actual contribution of Du Shi versus artisans remains unknown. Philo is much nearer his 38 CE events but writes from an explicitly situated Jewish perspective. [P01,E01]
 
-## 08 — Texts and dated historical anchors
-- **BROADLY DATED — overlaps window, NOT located precisely:** Pseudo-Democritean Four Books / Physika kai Mystika: broadly first-century CE composition [H01, H03, H04, H19]. **Type:** BROAD RANGE: exact 20-year window UNKNOWN.
-  - **Technique:** Coloration of metals, stones, and textiles; experimentation and recipes.
-  - **Language:** Pseudonymous Democritus authority; divine/sulfur water lexical ambiguity [H02].
-  - **Access/danger:** Secrecy/initiatory stories may authorize teaching; deliberate concealment must be evidenced locally.
+## 06 — STATION
+Attested: Wang Mang's sovereign office ended, Guangwu's began; Du Shi held Nanyang's governorship and received retrospective credit for productive innovation; Flaccus held Roman prefecture. **No named professional Alchemist.**
 
-**References present here:** [H01], [H03], [H04], [H19]
+## 07 — LINEAGE
+Xin → Eastern Han is political succession, not proof of a master–pupil craft chain. Du Shi → foundry workers is an institutional/workshop association, not a traceable apprenticeship. Egypt–China technical transmission is unproven.
 
-## 09 — HERE: transition, provisional synthesis and remainder
-**Provisional HERE:** The above evidence or broad date candidates constrain this time interval, but the actual creation, maintenance or shift of the station must be demonstrated through dated relationships.
+## 08 — TEXTS AND DATES
+- `Hou Hanshu` Du Shi biography: **31 CE episode**, **fifth-century CE composition**. [P01]
+- Philo's `In Flaccum`: **38 CE events**, composed c.39–40 CE; subject is civic and religious rights, not alchemy. [E01]
+- Martelli, pseudo-Democritus: later-first-century Greek alchemy lead, not a present-window source. [G01]
 
-**REMAINDER:** Additional primary editions, datable manuscripts, contemporary lexica, workshop records, economic documents and hostile/official legal evidence are required. Absence of a source in this first pass is never an assertion of historical absence.
+## 09 — HERE
+A named administrator can receive public recognition for a material innovation that likely needed skilled labor and organizational resources. The historian's assignment of credit is not independent proof of the named official's sole inventorship. The reported output is agricultural ironwork, not goldmaking or immortality.
 
-### Research checklist
-- [ ] Validate actual period wording against primary witness and earliest copy.
-- [ ] Distinguish composition / copy / attribution / later translation.
-- [ ] Test intentional concealment against explicit disclosure and open recipes.
-- [ ] Compare institutional custody, independent protection, trade value, training, hazard and prestige.
-- [ ] Determine social source of the practitioner's recognized station.
+## 10 — OUTSIDE PRESSURE
+- 23–25 CE dynastic turnover changes authorization of official crafts and appointments; workshop-by-workshop outcomes unknown.
+- 31 CE demand for productive agriculture and reduced labor coincides with the reported water-blower innovation.
+- 38 CE Alexandrian conflict raises separate questions about official control of civic rights, without any established alchemical connection.
+
+**Most profound question:** Who inherits the standing of an innovation—the ruler funding it, the official credited with it, or the workers able to reproduce it?
+
+**Next window:** **41–60 CE**; begin full source dating of pseudo-Democritus.
+
+[Sources](../08_SOURCE_REGISTER/CE_0021-0040__SOURCE_REGISTER.md) · [Register](../11_STATION_TRANSFORMATION_REGISTER/REGISTER.md).
+
+### Reference keys
+[P01] https://www.njmuseum.org.cn/files/wshl/rbbook/gb/25/houhanshu/hhs35.html
+[C01] https://backendstaging.chinesereferenceshelf.brillonline.com/dictionary-qin-and-han/prelims/sim-200005
+[E01] https://www.posenlibrary.com/entry/riots-alexandria-38-ce
+[G01] https://brill.com/previewpdf/journals/esm/21/4/article-p354_5.xml
