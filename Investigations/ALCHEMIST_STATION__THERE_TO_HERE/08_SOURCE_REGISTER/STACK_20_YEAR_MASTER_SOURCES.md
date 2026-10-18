@@ -178,3 +178,18 @@ https://preview.wellcomecollection.org/works/mervmpw3
 - **Excluded false bridge:** [John of Antioch → Suda claim](CE_0281-0300__SOURCE_REGISTER.md) about book-burning following Egyptian rebellion is **seventh–tenth-century later testimony**, not the same policy or witness as the 303 Christian scripture case.
 
 **Verdict:** Craft/economic regulation **ATTESTED ORIGINAL**, persecution of Christian textual/religious station **near-contemporary report**, Christian institutional authorization changes **through later-transmitted Latin/Greek legal quotes**. **No named 301–320 credentialed alchemist or validated elemental conversion**.
+
+
+## Window 27 — 321–340 CE: legal protection of teaching, original civic grants, and disputed issuer
+
+**Full register:** [CE_0321-0340__SOURCE_REGISTER.md](CE_0321-0340__SOURCE_REGISTER.md), sources `W27-P01/P02`, `W27-T01/T02`, `W27-O01`, `W27-S01/S02`.
+
+- **Original Orkistos pillar**: CIL III 352/7000 = ILS 6091 = MAMA VII 305, containing **different earlier petitions/rulings and 30 June 331 second rescript** rejecting Nacoleia's cult levy. [Treccani epigraphy analysis](https://www.treccani.it/enciclopedia/l-epigrafia-costantiniana-la-figura-di-costantino-e-la-propaganda-imperiale_%28Enciclopedia-Costantiniana%29/); [Chastagnol 1981](https://www.persee.fr/doc/ktema_0221-5896_1981_num_6_1_1858).
+- **Original Hispellum/Spello CIL XI 5265** rescript **c.333–337**: [Latin transcription](https://droitromain.univ-grenoble-alpes.fr/Constitutiones/Hispellates_CIL.htm), Flavian temple/festival/annual priests with disputed `superstitio` restriction.
+- **CTh XIII.4.1 dated 334**: [Latin original in later codification](https://la.wikisource.org/wiki/Codex_Theodosianus/Liber_XIII), sparse architects and public training incentives.
+- **CTh XIII.4.2 / CJ X.66.1 dated 2 Aug 337**: [full detailed artisan categories in CJ](https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ10.htm), `aurifices`, `deauratores`, `argentarii`, `fusores`, `vitrearii`, and other crafts, exemption from public burdens to improve/train sons. **CONTESTED `Constantinus` attribution** after Constantine's **22 May 337 death**: posthumous naming vs transmitted editorial heading; [Burgess 2008](https://constantinethegreatcoins.com/articles/Burgess_THE_SUMMER_OF_BLOOD_The_Great_Massacre_of_337_and_the_Promotion_of_the_Sons_of_Constantine.pdf), Lenski (2016).
+- **Original 335 gold**, [Berlin Münzkabinett solidus 18200650](https://ikmk.smb.museum/object?id=18200650), [different BM example](https://www.britishmuseum.org/collection/object/C_1844-1015-310): money from gold, **NOT gold formed from another element**.
+- [Dufault 2019 Greek alchemical scholarship](https://escholarship.org/uc/item/2ks0g83x): Zosimos **c.300**, no 330s license, guild or apprenticeship/dated autograph; Leiden X/Stockholm broad, not a provable 337 original recipe.
+- **Station verdict:** direct evidence of public civic/religious authority and legal **training-protection**; **NO SECURE ALCHEMIST IDENTIFIED 321–340**. China remains a separate tradition.
+
+**Next Window 28 341–360:** test 344 art training law and specific legal interventions concerning divination, sacrifices, and occupations separately.
