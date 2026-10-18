@@ -32,5 +32,7 @@ Each record must include:
 - [ST-001: 196 BCE priestly authority](ST-001_EGYPT_196_BCE__PUBLIC_STATION.md)
 - [ST-002: 145 BCE Ptolemaic royal succession](ST-002_EGYPT_145_BCE__ROYAL_SUCCESSION.md)
 - [ST-003: 144 BCE Han counterfeit gold law](ST-003_HAN_144_BCE__COUNTERFEIT_GOLD.md)
+- [ST-004: Li Shaojun and Emperor Wu](ST-004_HAN_LI_SHAOJUN__CIRCA_133_BCE.md)
+- [ST-005: Liu An, Huainanzi and patronage](ST-005_HAN_LIU_AN__139_TO_122_BCE.md)
 
-**Next high-value candidate:** ST-004 — Li Shaojun with Emperor Wu circa 133 BCE, to be investigated in Window 04 (140–121 BCE), *not yet claimed as a verified case*.
+**Current status:** ST-004 Li Shaojun (c.133 BCE) now has a source-critical record showing socially recognized transformative claims but *no proven goldmaking*. ST-005 Liu An (139–122 BCE) tracks separate elite patronage and the limits of lost textual attributions. **Next window:** 120–101 BCE.

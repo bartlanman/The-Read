@@ -26,3 +26,10 @@ Chinese categories of waidan, fangshi, elixir and Daoist revelation require thei
 **The 144 BCE edict is not an edict prohibiting alchemy as such.** Pregadio's detailed reading of *Hanshu* Jingdi ji distinguishes private minting/counterfeit gold from alchemical elixir preparation and spiritual/ritual practices. Earlier readings by Dubs inferred an anti-alchemy ban; that inference is not supported by the statute's wording. **Li Shaojun's 133 BCE court episode belongs to the following 140–121 BCE window.** [Primary Chinese](https://ctext.org/han-shu/jing-di-ji/ens); [Pregadio 2006](https://doi.org/10.11126/stanford/9780804751773.003.0002); [Oxford project chronology](https://www.cabinet.ox.ac.uk/chinese-alchemy).
 
 See [Window 03](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0160-0141_BCE__WINDOW.md) and [Station record ST-003](../11_STATION_TRANSFORMATION_REGISTER/ST-003_HAN_144_BCE__COUNTERFEIT_GOLD.md).
+
+
+## Window 04 — Li Shaojun and emperor Wu (c.133 BCE)
+
+The earliest relatively detailed historical narrative of a **named court-recognized transformative specialist** describes Li Shaojun as a **fangshi**. *Shiji* 28 (a work compiled later than the reported encounter) says he concealed his origins and age, drew gifts and patronage, connected stove rituals with changing cinnabar to gold and longevity, and was honored by the emperor. After Li's ordinary death, Emperor Wu allegedly viewed it as transformed departure and arranged transmission of the man's methods. Neither an executable original formula nor successful gold production survives in that account. **Allegory and ritual are not automatically encrypted chemistry.**
+
+See [Window 04](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0140-0121_BCE__WINDOW.md), [ST-004](../11_STATION_TRANSFORMATION_REGISTER/ST-004_HAN_LI_SHAOJUN__CIRCA_133_BCE.md), [language analysis](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/LI_SHAOJUN__CLAIM_AND_LANGUAGE.md).

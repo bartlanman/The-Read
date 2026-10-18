@@ -17,7 +17,7 @@ There are two different evidentiary stages:
 | 1 | [200–181 BCE](0200-0181_BCE__PTOLEMAIC_EGYPT.md) | NO SECURELY ASSIGNED EVENT YET |
 | 2 | [180–161 BCE](FORMATION_BCE_0180-0161_BCE__WINDOW.md) | **161 BCE Memphite decree:** Ptolemy VI priestly station, disputed re-coronation interpretation, and later erasure of royal cartouches. Alchemical station **NOT ATTESTED**. |
 | 3 | [160–141 BCE](./FORMATION_BCE_0160-0141_BCE__WINDOW.md) | **145 BCE Egypt royal succession; 144 BCE Han legal penalty for currency forgery/counterfeit gold. This does NOT demonstrate a ban on alchemy.** Lost Chinese alchemical text only broadly dated; Li Shaojun c.133 BCE belongs to next window. [Window 03 source register](../08_SOURCE_REGISTER/0160-0141_BCE__SOURCE_REGISTER.md) |
-| 4 | [140–121 BCE](FORMATION_BCE_0140-0121_BCE__WINDOW.md) | China: early Han court alchemical activity and Li Shaojun context (broad mid-second-century placement) |
+| 4 | [140–121 BCE](./FORMATION_BCE_0140-0121_BCE__WINDOW.md) | **Li Shaojun c.133 BCE**: named fangshi, cinnabar→gold claim, exceptional biographical secrecy, imperial recognition and method transfer after death. **Liu An / Huainanzi**: princely collective scholarship; 139 BCE presentation conventional but debated, political station ends 122 BCE. Chinese parallel only, not proof of successful transmutation. [Source register](../08_SOURCE_REGISTER/0140-0121_BCE__SOURCE_REGISTER.md) |
 | 5 | [120–101 BCE](FORMATION_BCE_0120-0101_BCE__WINDOW.md) | NO SECURELY ASSIGNED EVENT YET |
 | 6 | [100–81 BCE](FORMATION_BCE_0100-0081_BCE__WINDOW.md) | NO SECURELY ASSIGNED EVENT YET |
 | 7 | [80–61 BCE](FORMATION_BCE_0080-0061_BCE__WINDOW.md) | NO SECURELY ASSIGNED EVENT YET |

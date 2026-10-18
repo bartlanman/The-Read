@@ -84,3 +84,12 @@ In each interval, trace a witnessed station through **THERE → CAPACITY → PER
 - [Window 03 Primary/Specialist Source Register](08_SOURCE_REGISTER/0160-0141_BCE__SOURCE_REGISTER.md)
 
 **Next empirical practitioner candidate:** Li Shaojun c. 133 BCE, investigated in Window 04, 140–121 BCE, with attention to the retrospective *Shiji* witness and the limits of exact dating.
+
+
+## Current deep-read checkpoint — Window 04
+
+- [140–121 BCE: Li Shaojun, court-recognized method specialist](02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0140-0121_BCE__WINDOW.md)
+- [ST-004: Exceptional claim, concealed biography, and posthumous method custody](11_STATION_TRANSFORMATION_REGISTER/ST-004_HAN_LI_SHAOJUN__CIRCA_133_BCE.md)
+- [ST-005: Liu An's princely scholarship and textual authority](11_STATION_TRANSFORMATION_REGISTER/ST-005_HAN_LIU_AN__139_TO_122_BCE.md)
+
+**Warrant:** a recognizable Chinese court-practitioner station of methods and patronage is evidenced by a later historical narrative. **Not warranted:** proven cinnabar-to-gold, a formal credential called 'Alchemist,' secret chemical code, or genealogical connection to Greco-Egyptian alchemy.
