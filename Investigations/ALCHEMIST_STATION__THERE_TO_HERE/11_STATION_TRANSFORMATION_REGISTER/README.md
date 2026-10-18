@@ -1,6 +1,6 @@
 # STATION TRANSFORMATION REGISTER
 
-**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-081; 24 investigated windows, next 281–300 CE.** See [latest Window 23 entries](#window-23-241260-ce--2026-10-18). Earlier checkpoint notes below remain archival, not current state.
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-085; 25 investigated windows, next 301–320 CE.** See [latest Window 23 entries](#window-23-241260-ce--2026-10-18). Earlier checkpoint notes below remain archival, not current state.
 
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
@@ -196,3 +196,13 @@ Each record must include:
 **Checkpoint: 81 station comparison records.** The 276 will occurs on one actual papyrus previously bearing part of `Kestoi` (ST-071 continuity, **not** two new literary fragments). The coin type `L E` (year five) is **not** refuted by altered HCR32033 `L Δ`; [RPC 75758](https://rpc.ashmus.ox.ac.uk/type/75758) explicitly records `rev. tooled, Ɛ erased and Δ cut`. The altered numeral's date/motive **UNKNOWN**. **NO SECURE NAMED ALCHEMIST in 261–280**. [Ten-layer dossier](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0261-0280_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0261-0280__SOURCE_REGISTER.md).
 
 **Next to research:** 281–300 CE; existing older checkpoint text retained below/above as archival stage logs.
+
+
+## Window 25 (281–300 CE) — 2026-10-18 current checkpoint
+
+- [ST-082: 297 original Egyptian papyri naming Domitius Domitianus](ST-082_EGYPT_297__DOMITIUS_DOCUMENTS_AND_REGNAL_STATION.md)
+- [ST-083: 297/298 original Alexandrian coins proving monetary—not alchemical—authority](ST-083_ALEXANDRIA_297_298__DOMITIUS_COIN_AND_REAL_METAL.md)
+- [ST-084: alleged Diocletian book-burning known through John of Antioch → Suda centuries later](ST-084_DIOCLETIAN_ALCHEMY_BOOK_BURNING__SIXTH_TO_TENTH_CENTURY_WITNESS.md)
+- [ST-085: Zosimos around 300 — named alchemical commentary in competitive patronage, no exact 299 date](ST-085_ZOSIMOS_300__SCHOLARLY_COMMENTARY_PATRONAGE_BOUNDARY.md)
+
+**Current total 85 records; 25 deep-researched historical windows.** **The 297 rebellion is independently material/documentary; the alchemy-book-burning story is retrospective and UNVERIFIED.** Zosimos is a **c.300 cross-window positive commentary-station candidate**, not an authenticated 297 state-licensed Alchemist. [Window 25](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0281-0300_CE__WINDOW.md) · [Source register](../08_SOURCE_REGISTER/CE_0281-0300__SOURCE_REGISTER.md) · [Language and access](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0281-0300__LANGUAGE_BOOKS_AND_AUTHORITY.md). **Next 301–320 CE**.
