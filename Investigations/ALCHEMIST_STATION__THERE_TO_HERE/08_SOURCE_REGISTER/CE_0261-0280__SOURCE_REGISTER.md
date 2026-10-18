@@ -13,6 +13,12 @@
 - **Modern discussions:** [British Library catalog reference list](https://searcharchives.bl.uk/catalog/040-002105408), esp. R.S. Bagnall, “An Owner of Literary Papyri,” *Classical Philology* **87** (1992), 137–140. Associations between literary manuscript ownership and a named family are **scholarly reconstructions**, not a colophon naming a third-century Alchemist. Current audit does not inspect Bagnall's full text; exact identity of original roll owner remains **UNVERIFIED**.
 - **Analytic role:** secure **legal office, inheritance, material reuse** and **dated later terminus** for a written artifact, *not* an alchemical guild. [ST-081]
 
+## [W24-O00] Gallienus, Alexandria year eleven (263/264 CE) — original coin
+
+- **Actual Ashmolean museum specimen:** https://hcr.ashmus.ox.ac.uk/coin/hcr31547 (HCR31547) and [RPC X type 75488](https://rpc.ashmus.ox.ac.uk/type/75488). Museum explicitly dates **AD 263/4**, lists Alexandria, **billon tetradrachm**, **struck**, **9.35 g**, **24.3 mm**.
+- **Legends:** obverse `ΑΥΤ Κ Π ΛΙΚ ΓΑΛΛΙΗΝΟϹ ϹƐΒ`; reverse `L ΙΑ` (year **11**). Reverse shows **Ares (or Gallienus or soldier)** holding spear/shield with trophy and captives. **Identity of reverse human figure is cataloged as alternatives, not settled**.
+- **ATTESTED:** material operation, minted official political image and an issue centered in **263/264**. **NOT SHOWN:** maker's name, alchemical occupational title, coin-production recipe or precious-metal transmutation. Original object adds a **261–269** date anchor independent of the later Palmyrene episode. [ST-079]
+
 ## [W24-O01] Aurelian/Vaballathus joint coin — Alexandria AD 270/271
 
 - **Actual museum specimen:** https://hcr.ashmus.ox.ac.uk/coin/hcr31960 (**Ashmolean HCR31960**, former Milne 4304); source links to Roman Provincial Coinage X type **ID 75751** https://rpc.ashmus.ox.ac.uk/type/75751 .
