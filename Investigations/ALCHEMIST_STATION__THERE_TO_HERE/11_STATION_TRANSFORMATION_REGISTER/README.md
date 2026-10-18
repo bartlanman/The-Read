@@ -152,3 +152,13 @@ Each record must include:
 - [ST-063 193 succession and actual 193/194 Severan Alexandrian coin](ST-063_193_194__SUCCESSION_AND_SEVERAN_ALEXANDRIAN_COIN.md)
 
 **Checkpoint: 63 Station Transformation Records.** The fire is **not** evidence of anti-alchemical persecution; the manuscript identified in 2005 is not the burnt 192 library. Some original manuscripts and specialized materials may never have been recovered.
+
+## Window 21 — 201–220 CE (2026-10-18)
+- [ST-064: Geta's name erased from a 203 Roman arch after 211](ST-064_SEVERAN_ARCH_203_211__GETA_ERASURE.md)
+- [ST-065: 212/213 Roman citizenship in c.215 damaged P.Giss.40](ST-065_CARACALLA_212_215__CITIZENSHIP_GRANT_PGISS40.md)
+- [ST-066: c.215 Alexandria exclusions and occupation carve-outs](ST-066_ALEXANDRIA_215__RURAL_MIGRANT_EXCLUSION_AND_USEFUL_TRADES.md)
+- [ST-067: Clement's c.198–203 reported Egyptian Hermetic/priestly books](ST-067_CLEMENT_EGYPTIAN_PRIESTLY_BOOKS__CROSS_WINDOW_198_203.md)
+- [ST-068: Dio's account of Caracalla withdrawing Alexandrian philosopher benefits](ST-068_CARACALLA_ALEXANDRIA_215__PHILOSOPHER_PRIVILEGES.md)
+- [ST-069: Local 203 martyrdom versus controversial generalized Severan conversion edict](ST-069_SEVERAN_CONVERSION_EDICT_202__PERSECUTION_CAUSAL_GUARD.md)
+
+**Checkpoint: 69 comparative Station Transformation Records.** The local restriction in P.Giss.40 does not retract citizenship generally; legal terms and exceptions remain subject to damaged manuscript and scholarly dispute. No original 201–220 CE alchemical professional record.

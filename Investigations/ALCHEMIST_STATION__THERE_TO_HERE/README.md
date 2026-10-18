@@ -247,3 +247,13 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Window 20 historical sources](08_SOURCE_REGISTER/CE_0181-0200__SOURCE_REGISTER.md)
 
 **Critical source distinction:** Galen reports a spring **192 CE** fire in a text likely composed **early 193 CE**; complete surviving Greek copy is **15th-century Vlatadon 14**, recognized by scholars in **2005**. That is later manuscript survival, not recovered destroyed 192 exemplars. Dio's c.189 poison-needle report is an unverified ancient accusation. Genuine 192 Commodus-Hercules coins and 193/194 Severan Alexandrian coins make imperial claims materially visible. **No attested alchemical persecution or professional station in 181–200 CE.**
+
+
+## Window 21 deep-read — 201–220 CE
+
+- [Window 21: Caracalla citizenship and Alexandrian exclusions on a Greek papyrus](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0201-0220_CE__WINDOW.md)
+- [Station Transformation Register: ST-064–ST-069](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Source-critical law, inscriptions and Egyptian priestly corpus register](08_SOURCE_REGISTER/CE_0201-0220__SOURCE_REGISTER.md)
+- [Language analysis: one damaged papyrus, two competing operations of status](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0201-0220__ONE_PAPYRUS_TWO_OPERATIONS.md)
+
+**Historical guard:** 212/213 citizenship grant is transmitted in **c.215 original-period Greek papyrus**, not 212 Latin autograph; `dediticii` restoration and genre of second order are debated. Exempted occupations are state-designated useful services, **not Alchemist certifications**. Clement reports a priestly book division, does NOT demonstrate recovered forty-two texts or a real 210 CE goldmaking guild. Physical 203 Roman arch retains marks of Geta's deletion after 211.
