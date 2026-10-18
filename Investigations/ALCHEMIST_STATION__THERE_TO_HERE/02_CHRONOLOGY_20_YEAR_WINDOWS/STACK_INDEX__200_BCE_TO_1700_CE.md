@@ -12,7 +12,7 @@ The **nine-layer stack** is [defined here](../00_METHOD_AND_EVIDENCE/STACK_FIELD
 | # | Twenty-year window | Anchored content (or research gap) |
 |---|---|---|
 | 1 | [200–181 BCE](0200-0181_BCE__PTOLEMAIC_EGYPT.md) | NO SECURELY ASSIGNED EVENT YET |
-| 2 | [180–161 BCE](./FORMATION_BCE_0180-0161_BCE__WINDOW.md) | NO SECURELY ASSIGNED EVENT YET |
+| 2 | [180–161 BCE](./FORMATION_BCE_0180-0161_BCE__WINDOW.md) | **161 BCE Memphite decree:** Ptolemy VI priestly station, disputed re-coronation interpretation, and later erasure of royal cartouches. Alchemical station **NOT ATTESTED**. |
 | 3 | [160–141 BCE](./FORMATION_BCE_0160-0141_BCE__WINDOW.md) | China: Han Jingdi's edict prohibiting counterfeit gold; China: early Han court alchemical activity and Li Shaojun context (broad mid-second-century placement) |
 | 4 | [140–121 BCE](./FORMATION_BCE_0140-0121_BCE__WINDOW.md) | China: early Han court alchemical activity and Li Shaojun context (broad mid-second-century placement) |
 | 5 | [120–101 BCE](./FORMATION_BCE_0120-0101_BCE__WINDOW.md) | NO SECURELY ASSIGNED EVENT YET |
