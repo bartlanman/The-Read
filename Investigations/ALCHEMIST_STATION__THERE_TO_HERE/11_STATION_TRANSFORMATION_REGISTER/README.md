@@ -1,6 +1,6 @@
 # STATION TRANSFORMATION REGISTER
 
-**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-078; 23 investigated windows, next 261–280 CE.** See [latest Window 23 entries](#window-23-241260-ce--2026-10-18). Earlier checkpoint notes below remain archival, not current state.
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-081; 24 investigated windows, next 281–300 CE.** See [latest Window 23 entries](#window-23-241260-ce--2026-10-18). Earlier checkpoint notes below remain archival, not current state.
 
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
@@ -185,3 +185,14 @@ Each record must include:
 **Verified checkpoint: 78 Station Transformation Records.** Window 23 identifies public certification of ritual and direct pressure on clergy, but **no 241–260 CE named Alchemist or demonstrable alchemical persecution**. The Gallienus rescript is a **260/after** witness, not securely dated 260. [Window 23](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0241-0260_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0241-0260__SOURCE_REGISTER.md).
 
 **Next deep-read:** 261–280 CE. Earlier “Current status” statements above are dated progress logs; this paragraph is the latest checkpoint.
+
+
+## Window 24 (261–280 CE) — latest checkpoint 2026-10-18
+
+- [ST-079: Gallienus mint 263/264 → Aurelian/Vaballathus issue 270/271](ST-079_ALEXANDRIA_263_271__GALLIENUS_TO_DUAL_AUTHORITY_MINT.md)
+- [ST-080: Zenobia Augusta 272 → Aurelian 273/274, with an undated tooled numeral on an altered specimen](ST-080_ZENOBIA_272_TO_AURELIAN_274__RETOOLED_DATE_AND_AUTHORITY.md)
+- [ST-081: 276 Hermogenes's will reuses Africanus's earlier Book 18 manuscript reverse](ST-081_OXYRHYNCHUS_276__AFRICANUS_ROLL_REUSED_AS_WILL.md)
+
+**Checkpoint: 81 station comparison records.** The 276 will occurs on one actual papyrus previously bearing part of `Kestoi` (ST-071 continuity, **not** two new literary fragments). The coin type `L E` (year five) is **not** refuted by altered HCR32033 `L Δ`; [RPC 75758](https://rpc.ashmus.ox.ac.uk/type/75758) explicitly records `rev. tooled, Ɛ erased and Δ cut`. The altered numeral's date/motive **UNKNOWN**. **NO SECURE NAMED ALCHEMIST in 261–280**. [Ten-layer dossier](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0261-0280_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0261-0280__SOURCE_REGISTER.md).
+
+**Next to research:** 281–300 CE; existing older checkpoint text retained below/above as archival stage logs.
