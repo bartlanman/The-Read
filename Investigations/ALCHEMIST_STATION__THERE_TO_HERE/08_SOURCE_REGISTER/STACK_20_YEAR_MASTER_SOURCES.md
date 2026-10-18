@@ -193,3 +193,16 @@ https://preview.wellcomecollection.org/works/mervmpw3
 - **Station verdict:** direct evidence of public civic/religious authority and legal **training-protection**; **NO SECURE ALCHEMIST IDENTIFIED 321–340**. China remains a separate tradition.
 
 **Next Window 28 341–360:** test 344 art training law and specific legal interventions concerning divination, sacrifices, and occupations separately.
+
+
+## Window 28 — 341–360 CE: protected technical instructors, constrained divination
+
+**Full source register:** [CE_0341-0360__SOURCE_REGISTER.md](CE_0341-0360__SOURCE_REGISTER.md), identifiers `W28-T01–T05`, `W28-O01`, `W28-S01/S02`.
+
+- **344 legal protection for mechanical/surveying engineers:** [CTh XIII.4.3 Latin](https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh13.html), issue **6 July 344**; `mechanicos et geometras et architectos`, aqueduct surveying, `docendi adque discendi`, `inmunitates`; transmitted **438** code, not an original 344 tablet.
+- **341 to 356 rituals/temples:** [CTh XVI.10.2–6](https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh16.html) includes **341** prohibition, temple conservation **346/[342]**, closure **346/[354?]** contested chronology, **353** nocturnal rite, **356** further prohibitions. Penal language does not document actual prosecution of Alchemists.
+- **357–358 stigmatized divination:** [CTh IX.16.4–6](https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh09.html); `mathematici` = **astrologers in divination context**, not 344 `geometras` for engineering; `magi` and `elementa turbare` claims do not certify literal elemental conversion of metals.
+- **Original physical material comparator:** [British Museum B.13591](https://www.britishmuseum.org/collection/object/C_B-13591), Alexandrian copper-alloy nummus **351–355**, **1.41g**, **18mm**, Constantius Gallus portrait; NOT documented goldmaking.
+- [Dufault 2019](https://escholarship.org/uc/item/2ks0g83x) **Zosimos** broadly c.300, cannot be placed in a specifically dated 350s incident; Leiden X/Stockholm broad, Themistius **367** lies in next 361–380 window.
+
+**Source verdict:** **Legislative classification and technical-learning protection ATTESTED in later codified ancient law; independent original coin material ATTESTED; NO SECURELY NAMED 341–360 PROFESSIONAL ALCHEMIST or anti-alchemy repression.** ST-095–099 comparison records each identify a different station/Outside mechanism. Next ST-100.
