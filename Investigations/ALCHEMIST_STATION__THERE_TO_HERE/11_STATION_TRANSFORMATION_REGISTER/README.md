@@ -93,3 +93,9 @@ Each record must include:
 - [ST-032: The 38 CE Alexandrian civic crisis (not alchemical persecution)](ST-032_ALEXANDRIA_38_CE__CIVIC_STATUS_NOT_ALCHEMY.md)
 
 **Checkpoint:** 32 records. Du Shi is a concrete case of *production skill, institutional sponsorship and historical attribution* that need not coincide in one person. The Alexandrian comparator is explicitly restricted to civic status, not evidence of an alchemical profession.
+
+## Window 13 (41–60 CE) — added 2026-10-18
+- [ST-033: Claudius’ dated 41 CE public Alexandrian letter](ST-033_CLAUDIUS_41_CE__PUBLIC_LETTER.md)
+- [ST-034: Pseudo-Democritus and the possible Greek alchemical textual station](ST-034_PSEUDO_DEMOCRITUS__DATING_THRESHOLD.md)
+
+**Checkpoint:** 34 comparative records, including a *candidate* (ST-034), not a demonstrably located 41–60 CE individual occupation. The public papyrus (original-period) and the alleged temple-hidden books (later-written narrative) have fundamentally different witness status. Continue the corpus dating in **61–80 CE**.
