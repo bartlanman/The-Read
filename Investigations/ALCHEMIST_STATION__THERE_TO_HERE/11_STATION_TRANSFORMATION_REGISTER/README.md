@@ -143,3 +143,12 @@ Each record must include:
 - [ST-058: Boukoloi uprising, not alchemical repression](ST-058_BOUKOLOI_172_173__REVOLT_NOT_ALCHEMY.md)
 
 **Checkpoint: 58 Station Transformation Records.** All comparative, not evidence of a professionally named 161–180 Alchemist. Ancient epidemic pathogen unverified.
+
+## Window 20 (181–200 CE) — added 2026-10-18
+- [ST-059 Galen: The 192 fire destroys books, medical instruments and preparations](ST-059_GALEN_192__FIRE_MATERIAL_KNOWLEDGE_CUSTODY.md)
+- [ST-060 Galen: Early-193 work survives in fifteenth-century codex, recognized 2005](ST-060_GALEN_193__AVOIDING_DISTRESS_VLATADON_2005.md)
+- [ST-061 Commodus as Hercules, real 191–192 coins and medallions](ST-061_COMMODUS_192__HERCULES_MINTED_IDENTITY.md)
+- [ST-062 189 epidemic, Cassius Dio and unverified poison-needle claims](ST-062_ROMAN_EPIDEMIC_189__DIO_NEEDLE_POISON_RUMOR.md)
+- [ST-063 193 succession and actual 193/194 Severan Alexandrian coin](ST-063_193_194__SUCCESSION_AND_SEVERAN_ALEXANDRIAN_COIN.md)
+
+**Checkpoint: 63 Station Transformation Records.** The fire is **not** evidence of anti-alchemical persecution; the manuscript identified in 2005 is not the burnt 192 library. Some original manuscripts and specialized materials may never have been recovered.

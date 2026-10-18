@@ -237,3 +237,13 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Historical source register](08_SOURCE_REGISTER/CE_0161-0180__SOURCE_REGISTER.md)
 
 **Warrant:** a demonstrable bodily effect is different from its narrator's whole theory; an epidemic is real even if its precise pathogen remains unknown; a professionally mixed antidote is not proof of universal efficacy; a prefect can publicly proclaim an emperor whose reign ends within months. **No 161–180 Greek Alchemist office proved.**
+
+
+## Window 20 deep-read checkpoint — 181–200 CE
+
+- [Window 20: 192 Roman fire and the fragility of Galen's material knowledge](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0181-0200_CE__WINDOW.md)
+- [Station Transformation Register ST-059–ST-063](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Language and knowledge-custody audit: manuscript, tool, medicines, and independent copies](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0181-0200__THE_FIRE_BOOKS_AND_MATERIAL_CUSTODY.md)
+- [Window 20 historical sources](08_SOURCE_REGISTER/CE_0181-0200__SOURCE_REGISTER.md)
+
+**Critical source distinction:** Galen reports a spring **192 CE** fire in a text likely composed **early 193 CE**; complete surviving Greek copy is **15th-century Vlatadon 14**, recognized by scholars in **2005**. That is later manuscript survival, not recovered destroyed 192 exemplars. Dio's c.189 poison-needle report is an unverified ancient accusation. Genuine 192 Commodus-Hercules coins and 193/194 Severan Alexandrian coins make imperial claims materially visible. **No attested alchemical persecution or professional station in 181–200 CE.**

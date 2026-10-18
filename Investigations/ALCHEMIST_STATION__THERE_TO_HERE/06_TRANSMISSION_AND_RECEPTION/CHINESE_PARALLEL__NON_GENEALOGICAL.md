@@ -73,3 +73,8 @@ The *Hou Hanshu* (fifth-century compilation of earlier events) says **Ban Chao s
 ## Window 17 — 132 CE Zhang Heng seismoscope: technical station, no alchemical ancestry
 
 **Zhang Heng** was credited by a much later `Hou Hanshu` narrative with creating a bronze `候風地動儀` earthquake-indicating device in **132 CE**. The original machine is missing; modern mechanical designs vary. Anecdotes of subsequent confirmation, often attached to a **134 CE Longxi earthquake**, must remain retrospective rather than an independently preserved operation log. This is a **Han technical authority** story, not a document showing Greek–Chinese alchemical teaching. [Window 17](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0121-0140_CE__WINDOW.md) · [ST-048](../11_STATION_TRANSFORMATION_REGISTER/ST-048_ZHANG_HENG_132__SEISMOSCOPE_DESCRIPTION_VS_OBJECT.md).
+
+
+## Window 20 (181–200 CE) — no demonstrated Han–Greek technical bridge
+
+Original Roman coins and Alexandrian provincial money demonstrate imperial political identity and the metalworkers needed to issue it. Galen's **192 CE** fire demonstrates fragility of medical tools, ingredients and copying networks; these events do **NOT** establish the arrival, destruction or transfer of Chinese `fangshi`, metallurgical recipes or an alchemical lineage in Rome/Egypt. A geographically and politically connected Roman world is not evidence of a named technical instructor or translated Han treatise. [Window 20](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0181-0200_CE__WINDOW.md).
