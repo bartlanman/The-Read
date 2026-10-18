@@ -73,3 +73,14 @@ Secrecy is not presumed intrinsic to alchemy. For every 20-year window investiga
 - [Outside source register](08_SOURCE_REGISTER/OUTSIDE_PRESSURE__SOURCE_REGISTER.md)
 
 **Evidence limitation:** the pre-1701 windows inherit a new required audit, not automatic historically validated results. The post-1700 entries are first-pass pressure scaffolds with sourced dated anchors where available. The current 2021–2040 container contains no asserted future events.
+
+
+## Active Station Transformation Register
+
+In each interval, trace a witnessed station through **THERE → CAPACITY → PERCEPTION → AUTHORITY → SECRECY/LANGUAGE → OUTSIDE PRESSURE → RESPONSE → HERE → REMAINDER**. A change of king or law governing counterfeit gold is *not* itself the creation of an Alchemist's office.
+
+- [Station Transformation Register](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Window 03 — 160–141 BCE: law and station](02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0160-0141_BCE__WINDOW.md)
+- [Window 03 Primary/Specialist Source Register](08_SOURCE_REGISTER/0160-0141_BCE__SOURCE_REGISTER.md)
+
+**Next empirical practitioner candidate:** Li Shaojun c. 133 BCE, investigated in Window 04, 140–121 BCE, with attention to the retrospective *Shiji* witness and the limits of exact dating.

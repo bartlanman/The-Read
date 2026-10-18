@@ -19,3 +19,10 @@ Chinese categories of waidan, fangshi, elixir and Daoist revelation require thei
 [144 BCE in the 160–141 BCE window](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0160-0141_BCE__WINDOW.md)
 
 **Source:** [H06] https://doi.org/10.11126/stanford/9780804751773.003.0002
+
+
+## Important correction deposited in Window 03 (2026-10-18)
+
+**The 144 BCE edict is not an edict prohibiting alchemy as such.** Pregadio's detailed reading of *Hanshu* Jingdi ji distinguishes private minting/counterfeit gold from alchemical elixir preparation and spiritual/ritual practices. Earlier readings by Dubs inferred an anti-alchemy ban; that inference is not supported by the statute's wording. **Li Shaojun's 133 BCE court episode belongs to the following 140–121 BCE window.** [Primary Chinese](https://ctext.org/han-shu/jing-di-ji/ens); [Pregadio 2006](https://doi.org/10.11126/stanford/9780804751773.003.0002); [Oxford project chronology](https://www.cabinet.ox.ac.uk/chinese-alchemy).
+
+See [Window 03](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0160-0141_BCE__WINDOW.md) and [Station record ST-003](../11_STATION_TRANSFORMATION_REGISTER/ST-003_HAN_144_BCE__COUNTERFEIT_GOLD.md).
