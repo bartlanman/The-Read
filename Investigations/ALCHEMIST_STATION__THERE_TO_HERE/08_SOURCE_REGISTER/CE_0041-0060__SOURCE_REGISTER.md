@@ -52,3 +52,9 @@
 3. Read Greek papyrus P.Lond. VI 1912 and its prefectural promulgation in full, distinguishing date of text, physical copy and later publishing history.
 4. Identify specific chemical recipes that are demonstrably recoverable from ancient witnesses, and compare with the later legendary hidden-book narrative rather than assuming a common technique.
 5. Preserve China–Greek Egypt non-genealogical relationship and do not treat the Egyptian imperial papyrus as an alchemical technical artifact.
+
+## Primary papyrus catalog verification (2026-10-18)
+- **British Library official catalog:** https://searcharchives.bl.uk/catalog/040-002105459 — Papyrus 2248, recto *tax register* from **37/38 CE**, verso **Claudius' letter plus prefect Rectus' publication edict dated 10 November 41 CE**. The catalog specifies columns 2 (edict) and 3–6 (emperor's letter), ancient Greek writing on papyrus, original place of the earlier register Philadelpheia in Arsinoite nome. **This is the preferred authoritative current catalog URI**, superseding older `bl.uk/manuscripts/FullDisplay.aspx` references which may be retired.
+- **Edict Greek text:** https://droitromain.univ-grenoble-alpes.fr/Edicta/Aegypti33_.gr.html — prefect explains that a first public reading could not be attended by all and therefore orders display so each person may read.
+- **Translated ancient text:** https://attalus.org/docs/select2/p212.html — P.Lond. VI 1912 and the public-edict paragraph.
+- **Important:** the dated edict and copied imperial letter are the **opposite of a purported secret alchemical book**, and their shared century does not establish any historical connection.
