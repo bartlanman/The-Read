@@ -267,3 +267,8 @@ The **203 Arch of Septimius Severus** and post-211 **physical erasure of Geta** 
 [Window 27 complete ten-layer dossier](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0321-0340_CE__WINDOW.md) · [Original inscription/legal source register](../08_SOURCE_REGISTER/CE_0321-0340__SOURCE_REGISTER.md) · [Language/secrecy/capacity transmission](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0321-0340__CRAFT_TRAINING_POSTHUMOUS_AUTHORITY.md).
 
 **NEXT Window 28 — 341–360 CE:** test 344 Roman state support for engineering/technical training and distinct 340s–350s laws policing divination/ritual, while requiring specific practitioner linkage before any alchemical-persecution claim.
+
+
+### Window 27 parallel-file provenance
+
+**ST-090–ST-094 were each deposited in two independent Markdown files** during the same research work; the five indexed versions above remain the **canonical choices for counting and navigation**, and the five additional write-ups are preserved, **not extra station transformations**. A second Window 27 language audit is also preserved as a parallel analysis. See [Window 27 provenance/alias manifest](../WINDOW_27__CANONICAL_AND_PARALLEL_DEPOSIT_MANIFEST.md). **Verified distinct station count is 94, and the next available ID is ST-095**. Do not delete, merge or rename these copies without deliberate provenance review.
