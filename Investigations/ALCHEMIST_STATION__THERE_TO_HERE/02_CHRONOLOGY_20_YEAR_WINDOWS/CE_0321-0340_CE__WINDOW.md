@@ -1,135 +1,124 @@
-# Window 27 — 321–340 CE: A City Regains Its Name; the State Protects Apprenticeship; a Law Outlives Its Emperor
+# Window 27 — 321–340 CE: The State Protects Learning, Names Crafts, and Grants Civic/Ritual Authority
 
-**Status:** TEN-LAYER SOURCE-CRITICAL DEEP PASS (2026-10-18). **Central verdict: NO SECURE 321–340 CE ALCHYMIST / ALCHEMIST IDENTIFIED.** The Roman state explicitly protected the **learning/transmission of technical crafts** in fourth-century laws, yet did not name an Alchemist. **A 2 August 337 artisan exemption is attributed to Constantine in later codes even though he died 22 May 337: its issuer remains CONTESTED.** The original epigraphic civic petitions and actual gold coins must be separated from these later manuscript copies of legislation.
+**Status:** TEN-LAYER SOURCE-CRITICAL DEEP PASS (2026-10-18), with **original inscriptions and a dated gold coin** distinguished from **later codifications of laws**. **Alchemist station verdict:** **NO SECURELY DATED 321–340 CE PERSON TITLED OR INSTITUTIONALLY AUTHORIZED AS AN ALCHEMIST** and no demonstrated elemental conversion of base metal to gold. More positively, the Roman government **recognizes skilled trades, affords exemptions intended to foster technical learning, and authorizes or limits specific civic/religious offices by documented petition and rescript**. The date and issuer of a key 337 law remain disputed because **Constantine died before its surviving subscription**.
 
-**Geography:** Phrygian **Orkistos**; Umbria's **Hispellum/Spello**; African provinces (architect training law); Nicomedia gold mint; empire-wide artisan craft list in transmitted codes. **Outside boundaries:** Constantine's rule ends 337; no precise date can be borrowed for Zosimos merely because c.300 Greek alchemical commentaries survived in later manuscripts. **China separate unless documentary transmission is found.**
+**Geography:** Orkistos (Phrygia, Asia Minor); Hispellum/Spello (Italy); Africa in 334 architectural education law; 335 Nicomedia mint; wider Roman legal codification. **NOT documented:** an Egyptian alchemical guild participating in these events. [Previous Window 26](CE_0301-0320_CE__WINDOW.md) · [Window 27 source register](../08_SOURCE_REGISTER/CE_0321-0340__SOURCE_REGISTER.md) · [Language/technique/access audit](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0321-0340__CRAFT_CAPACITY_LEGAL_LANGUAGE_AND_AUTHORITY.md) · [ST-090–ST-094](../11_STATION_TRANSFORMATION_REGISTER/REGISTER.md).
 
-[Previous Window 26](CE_0301-0320_CE__WINDOW.md) · [W27 source register](../08_SOURCE_REGISTER/CE_0321-0340__SOURCE_REGISTER.md) · [Language/access dossier](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0321-0340__CRAFT_TRAINING_POSTHUMOUS_AUTHORITY.md) · [Station records ST-090–ST-094](../11_STATION_TRANSFORMATION_REGISTER/REGISTER.md).
+## 01 — THERE: dated political, social and administrative conditions
 
-## 01 — THERE: original historical conditions, actors and dates
+- **321/324 ambiguous date:** *Codex Theodosianus* **13.3.1** (later transmission) accords **physicians, grammarians and teachers of letters** protections from burdens/harassment and provision for fees or salaries. The code's given year is uncertain between **321 and 324**; do not invent an exact date. This shows an additional occupation/teaching status but not an Alchemist medical certificate. [Theodosian Code XIII](https://www.thelatinlibrary.com/theodosius/theod13.shtml).
+- **Orkistos:** a single original **inscribed dossier** on a marble pillar reconstructs **324–326 first petition**, a favorable **329/330 civic decision**, and specifically **30 June 331** a second rescript responding to later petition about payments associated with civic cults to Nacoleia. The place is granted or confirmed **`civitas`** standing; published monument possibly carved **late 331/332**. Do not turn the earlier petition into a wholly new event in 331. [W27-P01]
+- **Hispellum/Spello c.333–337:** original rescript **CIL XI 5265** authorizes a dynastic Flavian temple, local festivals, annual priests and the civic name **Flavia Constans**, subject to avoiding contaminating `superstitio`; annual observances at Volsinii are to continue. No safely isolated single year; no universal explicit blanket prohibition on all traditional temples. [W27-P02]
+- **334:** law in transmitted *CTh* **13.4.1** explicitly says architects are too scarce in **African provinces**. Recommends literate youths about eighteen enter training, grants relief from burdens to the students and parents, and an allowance for those learning. Its official date is given as **27 August 334** (edition signals uncertainty around exact date). [W27-T01]
+- **335:** preserved **original struck gold solidus**, minted at **Nicomedia**, 4.54g, **Berlin Münzkabinett 18200650**, RIC VII Nicomedia 179, celebrates Constantine and VOT XXX. Demonstrates real metal output and the name of the political issuer—not chemical creation of gold or named individual goldworker. [W27-O01]
+- **22 May 337:** Emperor Constantine dies. **2 August 337** law as transmitted by *CTh 13.4.2* and *CJ 10.66.1* exempts many skilled artisans from certain public `munera` so they can improve and **teach their sons**. Yet the **transmitted authorizing name is Constantine**, who cannot literally have signed it while alive on 2 August. Burgess argues **posthumous issuance under his name**, with later codification or dating variants also worth testing. **Original 337 autograph is NOT extant.** [W27-T02]
+- **After 337:** Constantine's sons' imperial promotions and power contests complicate precisely whose authority stood behind legal measures. Do not infer the implementation date or who benefited from city-by-city records not discovered here.
+- **340 boundary:** No historical source with a reliably fixed **340 year** documents a new named Greek Alchemist in this audit. Zosimos **c.300** and Leiden/Stockholm copied broadly **late third/early fourth century** remain separate comparison horizons, not dated workshop events. [W27-S02]
 
-- **324–326 (past context):** residents of Orkistos petition Constantine and his sons for renewed independent **city status** after subordination to Nacoleia. The event precedes this window: it survives copied on one later engraved monument. **c.329/330:** first imperial approval. **30 June 331:** an **original inscribed second rescript** confirms Orkistos's status and rejects continued assessment of money for neighboring civic cult expenses. **These are different petition/action dates recorded on one monument** (MAMA VII 305 = CIL III 352/7000 = ILS 6091). [W27-P01]
-- **c.333–337:** original **CIL XI 5265** from Hispellum/Spello transmits imperial agreement to a local Flavian dynastic temple, annual priests and festivals/games, with an explicit condition against objectionable **superstitio** at the temple. The new designation **Flavia Constans** is granted. The priests and continuing games at Volsinii are separately mentioned; **this is not a universal anti-traditional-religion ban, nor a permission to conduct chemical work**. The full year remains disputed. [W27-P02]
-- **27 August 334 (transmitted subscription):** **CTh 13.4.1** reports Constantine's response to a shortage of architects in Africa, encouraging educated young people to train, exempting them and parents from some civic duties, and extending financial support. These instructions are preserved in the **later Theodosian Code** rather than on an original 334 inscription. **Specific effects on named architectural apprentices are UNVERIFIED.** [W27-T01]
-- **335:** Berlin Münzkabinett **18200650**, a genuine struck **Nicomedia gold solidus** of Constantine (4.54 g, 22 mm), records imperial victory/jubilee iconography, `VOT / XXX`; British Museum **1844,1015.310** is another actual related year **335** specimen but a distinct RIC sub-type. The coins attest handling of gold and legitimate mint activity, not gold synthesized from base metal. [W27-O01]
-- **22 May 337:** Constantine dies, triggering succession. **2 August 337:** **CTh 13.4.2 / CJ 10.66.1** transmit law granting **listed artisans exemption from `munera` to learn more skillfully and teach their sons**, with goldsmiths, gilders, silversmiths, founders, glassworkers and many others. Yet its later heading calls issuer `Constantinus`, who was already dead; it may have been issued in his name during the transition or the code header may reflect editorial/displaced attribution. **No uncontested living emperor as sender can be inferred**. [W27-T02]
-- **337–340:** Constantine's sons govern and consolidate power, with further political changes, including conflict among them in **340**. Broad regime context has no document here tying conflict to a named alchemist. Do not invent persecution/technical change at each accession.
-- **No 321–340 original alchemical date:** the extant **Leiden X and Stockholm** recipe papyri are broadly assigned late third/early fourth century, **not securely 333**. Zosimos of Panopolis c.300 is known from later manuscript compilations, with no identified **321–340 autograph, apprentice contract, title, dated publication or persecution**; see ST-085 as **cross-window**. [W27-S02]
+## 02 — MATERIAL TECHNIQUE: gold metal and named crafts
 
-## 02 — MATERIAL TECHNIQUE: what work and output are actually documented?
+**335 original coin:** manufactured solidus is real **gold** and demonstrates striking/inscribing the material with political signs. It **does not** tell us if a minter knew alchemical theory, nor attest gold produced from copper. The emperor on obverse is the **issuer**, not an identified artisan. [W27-O01]
 
-**Mint product:** the Berlin and British Museum struck **solidus** specimens are physical gold products. Minting, striking and goldworking are attested in an institutional sense, but exact ore/mining/refining/gold-creation processes and identities of individual artisans cannot be recovered from the coin portraits. A genuine gold coin ≠ successful **elemental gold transmutation**. [W27-O01]
+**337 occupational list** in *CJ* **10.66.1**, reproducing a later transmitted legal form of artisans' exemption, expressly includes **`aurifices`** (goldsmiths), **`deauratores`** (gilders), **`argentarii`** (silversmiths), **`aerarii`** (bronze workers), **`fusores`** (casters), **`vitrearii`** (glassworkers), and other trades. **Craft capacities** comprise refining, handling, casting, gilding, shaping and imitating material appearances depending on trade; the specific **method carried out by any named beneficiary** is not recorded by the code. The roster is a **policy classification**, not original workshop output. [W27-T02]
 
-**Municipal infrastructure:** the original Orkistos dossier mentions civic roads, stations, water, mills, baths, and commercial resources. These are evidence that a city used **technically built infrastructures** as arguments for its standing; nothing describes a gold-making laboratory or technical gold recipe. [W27-P01]
+**334 architectural training** involves knowledge of buildings, measurement, materials and other disciplines, a stated public need for competence. The law does not name an apprentice's completed project nor license an alchemical laboratory. [W27-T01]
 
-**Artisan classes:** **CTh 13.4.2 / CJ 10.66.1** recognizes **`aurifices` goldsmiths; `deauratores` gilders; `argentarii` silversmiths; `fusores` founders; `aerarii` bronze-workers; `vitrearii` glassworkers; `fullones` fullers; architects, doctors, painters, builders and other skills.** This is a governmental occupational **roster**, NOT an inventory of named active shops or a direct chemical production record. The two later codes preserve overlapping traditions, not two independent 337 inscribed original objects. [W27-T02]
+**Ancient recipe horizon:** Leiden X and Stockholm papyri document copied procedures for dyes, coloring metals and imitating precious materials. Their **broad physical dating** cannot be pinned to **335** by mere overlap. **Gold-colored imitation, alloying, gilding or stamping an existing gold solidus** are categorically different from independently verified elemental gold conversion.
 
-**Craft capacity and formation:** **334** identifies a shortage of architects and encourages formal training; **337** explicitly values artisan **time to become more competent** and the ability to **educate sons**. The expected output is preservation/improvement of practical skill, not verified experimental precious-metal conversion.
+## 03 — LANGUAGE AND ALLEGORY: occupation is not transformation
 
-**Alchemical-technique comparison only:** metal-coloring, alloying, gilding, silver-looking preparations, stone imitation and wool dyeing exist in recipe literature but their physical manuscript ranges are broad, while Zosimos's transmitted treatises concern interpretation, apparatus and furnaces. No original specifically **327** experiment connected to a named alchemical teacher identified.
+- **Civic and cult language (original inscriptions):** Orkistos asks for and gets `civitas` recognition and freedom from certain cult payments. Hispellum records **`sacerdotes`** (priests) conducting festivals and `ne ... contagiosae superstitionis fraudibus polluatur` (the temple must not be polluted by the frauds of a contagious superstition). The latter **does not define** a chemically prohibited practice or an alchemical priest.
+- **334 educational language (later transmitted law):** `architectis quam plurimis opus est; sed quia non sunt`—many architects are needed but lacking; `liberales litteras` education and a learner's `salarium` are explicit. The law acknowledges a *shortage of capacity and need to cultivate it*, not a mysterious proprietary recipe. [W27-T01]
+- **337 artisan learning text:** `artifices ... ab universis muneribus`; **`peritiores fieri et suos filios erudire`** = become more skillful and educate their sons. **`Munera`** means mandated civic obligations in this context, not all taxes in any situation. **`Aurifices`** are persons working existing gold, **not** a contemporary occupational name for “Alchemists.” [W27-T02]
+- **The name that outlives death:** The *Code* labels the **2 August 337** law as issued in Constantine's name although he died **22 May**. A **later surviving authorization formula can preserve prestige beyond the actor's lifetime** or reflect editorial attribution. No authority to claim he personally decreed it alive in August. This is a source-control lesson relevant by analogy to pseudonymous alchemical master names, **not demonstrated transmission from civic law to chrysopoeia**.
+- **335 gold coin:** `VICTORIA CONSTANTINI AVG` and `VOT XXX` express political jubilee/victory; gold as material is no coded ingredient.
+- No correctly dated 321–340 source examined uses a public class equivalent to **“licensed `chēmeutēs` / Alchemist.”**
 
-## 03 — LANGUAGE, ALLEGORY AND TRANSMISSION GATES
+## 04 — SECRECY AND ACCESS: individual causes separately tested
 
-**Orkistos (`civitas`):** a town seeks legal autonomy, while `pecunia pro cultis` refers to money taken for **civic cults** under Nacoleia. The **331** imperial response is a material original inscription, but the earlier grants embedded in the same stone retain earlier event dates. Title `civitas` does not imply a mystery workshop. [W27-P01]
-
-**Hispellum (`sacerdotes`, `Flavia Constans`, `superstitio`):** names recognized priestly/civic roles, a new official city label, and a conditional religious practice restriction. Literal prohibition of every old rite is **not** visible in the stone. `Superstitio` is not the specific 330s word for alchemical transmutation. [W27-P02]
-
-**334 `Architectis quam plurimis opus est; sed quia non sunt`:** explicitly states demand exceeding supply and extends conditions for training. The Latin is transmitted by later code, not a physically excavated 334 technical manual. [W27-T01]
-
-**337 `quo magis cupiant et ipsi peritiores fieri et suos filios erudire`:** the recognized purpose is **improving expertise and teaching sons**. This is powerful evidence that state-authorized occupational capacity can include **protection for transmitting practice**. It does not demonstrate an actual named master teaching an apprentice, let alone initiation into alchemical secrecy. [W27-T02]
-
-**The posthumous heading:** a law dated **2 August 337** transmitted as `Constantinus` conflicts with **22 May 337 death**. **SOURCE-SUPPORTED hypotheses** include posthumous name during interregnum (Burgess), or codex heading/attribution error (Lenski cautions). It does NOT prove an actual deceased ruler enacted legislation; the surviving legal text and the authority of its label are different questions. [W27-T02]
-
-**Alchemical names:** Zosimos and traditional Democritus/Maria/Hermes names appear in later copies. The fourth-century legal category `aurifex` **does not license rewriting such ancient names as 'professional alchemists'**. Likewise `VOT/XXX` is anniversary sign on gold coin, not ingredient key.
-
-## 04 — SECRECY AND ACCESS: mechanisms audited independently
-
-| Proposed reason for opacity/protection | Historical witness | Verdict |
+| Candidate mechanism | Source | Evidentiary grade |
 |---|---|---|
-| **Public civic authorization** | Orkistos original 331 and Hispellum original c.333–337 | **ATTESTED**, but for named towns / ritual offices |
-| **Economic craft value / protection** | laws 334 and 337 on occupational training/civic exemptions | **ATTESTED IN LATER CODE TEXT**, practice/beneficiary unknown |
-| **Specific state licensing of Alchemists** | no title `alchemist` or transmuter in dated legal list | **NO SECURE EVIDENCE** |
-| **Economic guild trade-secret defense** | skills presumed, no guild contract/oath in actual W27 witnesses | **NO SECURE EVIDENCE** for secret chemical lineage |
-| **Religious fear/persecution** | conditional Flavian temple cult, Orkistos cult-finance exemption | **ATTESTED RELIGIOUS/CIVIC DIFFERENCE**, no named alchemical target |
-| **Training/capacity requirement** | government explicitly encourages architects' and artisans' learning | **ATTESTED REGULATORY PURPOSE**, unverified implementation |
-| **Hazard-controlled secrecy** | no 330s alchemical safety instrument | **NO SECURE EVIDENCE** |
-| **Symbolic/learned language** | Zosimos broader c.300, Roman public titulature in 330s | **BROAD COMPARISON**, no newly dated 332 cipher |
-| **Copy-loss/retroactive prestige** | later alchemical manuscripts; posthumous Constantine heading | **COPY-CHAIN & ATTRIBUTION ISSUES REAL**, causal lineage not proven |
+| **State economic/occupational recognition** | 334 and 337 later-codified laws | **ATTESTED AS TRANSMITTED LEGAL POLICIES**, not individual licenses |
+| **Active pedagogical protection** | exemptions, salaries, sons' learning | **LAW'S EXPLICIT PURPOSE**, individual education results unknown |
+| **Civic / temple restricted participation** | 331 Orkistos, 333–337 Hispellum **original inscriptions** | **ATTESTED local authorization**, unrelated to named Alchemist |
+| **Trade exclusivity/economic value** | roster includes valuable crafts | professional economic distinction, **NO dated secret guild oath** |
+| **Persecution-driven chemical cipher** | no specific alchemical actor/edict | **NO SECURE EVIDENCE** |
+| **Hazards restrict knowledge** | metals/glass processing can pose risks | **NO SECURE EVIDENCE** hazards produced a 337 secrecy rule |
+| **Learned symbolic opacity** | Africanus's earlier music/geometry recipe forms; Zosimos broadly c.300 | known outside this exact episode, **NOT documented 337 response** |
+| **Loss/misattribution** | fifth/sixth-century legal transmission, posthumous imperial name; alchemy manuscripts later | **ATTESTED WITNESS PROBLEM**, intent unknown |
 
-Do not turn a **father–son educational encouragement** into proof of a hereditary secret alchemical guild; the text's purpose is **public rather than concealed**.
+A government's **encouragement of teaching** could imply it believed particular trades needed retained expertise. It does not prove that teaching was secret, effective in transmutation, or reserved for an alchemical guild.
 
-## 05 — PERCEPTION: audiences and named legitimators
+## 05 — PERCEPTION AND SOCIAL AUTHORITY
 
-The **Orkistans** presented themselves as worthy of independent municipal authority; the original imperial response validates it and rejects Nacoleia's financial claim. Their reported Christian identity is part of a **petition's self-presentation**, not proof of uniformly Christian practice or chemistry expertise. [W27-P01]
+**Orkistos:** local petitioners and imperial administration treat **municipal identity** as a claim that can be formally requested, accepted, and publicly commemorated; exact circumstances and earlier document chronology matter.
 
-The **Hispellates** petition for local festival and a temple; the surviving rescript grants what was sought, **with conditions**. A government can recognize an annual priest and stage festival while restricting what practices are acceptable; no universal pagan annihilation follows solely from that text. [W27-P02]
+**Hispellum:** a city presents religious-civic festival arrangements to the emperor, gains permission and a prestigious name subject to a moral/religious clause. **A recognized traditional religious role may survive into a Christian emperor's rule with conditions**. This is incompatible with an overly simple “all priestly stations were totally abolished,” but it proves nothing about an Alchemist priesthood.
 
-**334/337** state legal voice prizes recognized **specialist learning** as socially valuable. Whether artisans used exemption to teach sons is **not tracked** by the law alone. Its preserved sender's name may not identify living author at the date in its subscription. [W27-T01–T02]
+**Architects and artisans:** Roman authority expressly esteems **learning, specialist competence and teaching children**, going beyond monetizing craft outputs. The text is normative: **what government wanted**, not a census of actual successful apprentices.
 
-**Gold solidus users:** coin with named emperor and jubilee shows public monetary authority, not public endorsement of a personal craftsman's transformation theory. [W27-O01]
+**Alchemical readers:** Zosimos's theoretical/technical authority in later transmitted works offers a near-c.300 **writer/patron/interpretive station**, without a dated 334 payroll, relationship to Orkistos/Hispellum or named provincial official.
 
-**Zosimos's later readers:** recognized a named alchemical author/commentator; no proof a 330s regional government addressed him or a titled school. [W27-S02]
+## 06 — THE STATION: DO WE HAVE AN ALCHEMIST?
 
-## 06 — STATION: who demonstrably receives permission?
-
-| Actor / source | Warranted station | Alchemist evidence absent |
+| Attested role | Actual social mechanism | Missing alchemical bridge |
 |---|---|---|
-| Orkistos original 331 rescript | **Municipality as autonomous `civitas`**, freed from neighbor's cult payment | no trained goldmaker or licensing |
-| Hispellum original c.333–337 | **Named civic/imperial priestly and festival station** with conditions | no alchemical rite or persecution |
-| 334 architect law | **Technical profession** deemed scarce and worth financially supported learning | no 334 alchemical education program |
-| 337 artisan list | **Listed practical specialisms**, public obligation exemptions for learning/sons' training | no `chēmeutēs` or proven gold transmutation |
-| 335 original gold solidus | **Emperor/mint authority and actual precious-metal fabrication** | no specific worker identity or gold creation |
-| Zosimos (cross-window c.300) | **Identifiable alchemical scholarly commentator**, later manuscript transmission | no 321–340 secured life/work/job title |
-| Later attributed 'Constantine' law of Aug 337 | **Legislative text's claimed sender**, posthumous attribution contested | neither authorship certainty nor Alchemist credential |
+| Orkistos city council / citizens | restored recognized **municipal station** via 331 inscribed rescript | no demonstrated chemical specialist |
+| Hispellum priest/festival organizers | local traditional/imperial cult **authorized and constrained** c.333–337 | no proof priest practiced metal recipes |
+| Architects / training youths | imperial encouragement, relief, stipend in 334 law | architecture ≠ elemental transmutation |
+| Goldsmiths/gilders/casters/glassworkers | protected **craft categories** for skill teaching under disputed-issuer Aug 337 transmitted law | no officially listed Alchemist profession or chemical assay |
+| Mint and Constantine gold solidus | authentic material production, issuer publicly named | no named worker or evidence of gold synthesis |
+| Zosimos of Panopolis | **alchemical commentator c.300**, text/patron rivalry reconstructed from later copies | not date-pinned 321–340; no state credential, performed transmutation |
 
-**Station verdict:** **NO NAMED ALCHEMIST SECURELY ATTESTED AS A 321–340 CE LEGALLY OR SOCIALLY RECOGNIZED OCCUPATION.** This does not prove absence of real private or technical practice.
+**Conclusion:** No independent securely dated **321–340** record identifies a practicing Alchemist as **socially recognized profession**, though this window proves important *forms that legally recognized specialized capacity could take*.
 
-## 07 — LINEAGE AND INSTITUTIONAL TRANSMISSION
+## 07 — LINEAGE, MANUSCRIPT AND PHYSICAL WITNESS CHAINS
 
-1. **Orkistos:** petition **324–326**, first rescript ~**329–330**, second **30 June 331** → original public inscribed single dossier. Multiple text stages, **one physical inscription**. No Greek alchemical text-citation chain.
-2. **Hispellum:** civic petition and imperial approval **c.333–337**, carved on **CIL XI 5265**. Original contemporary grant for annual priests, with condition. Distinct region, no genealogical transfer established to Orkistos or Egypt.
-3. **334 architectural study law** → fifth-century **Theodosian Code** → medieval surviving manuscripts/printed text; an ancient legal act **transmitted through later material**.
-4. **337 artisan exemption**, heading attributed `Constantinus` → **CTh 13.4.2** and **CJ 10.66.1** compilations → later manuscripts/critical editions; **attribution issue** requires an unresolved origin branch, not a fictive “Constantine signed after death” event.
-5. **335 gold coin** is original struck metal → modern museum object/catalog. Public issuer attribution ≠ maker identity.
-6. **Zosimos c.300** and Greek metal-coloring papyri are **separate broadly dated manuscript traditions**. No direct personal teacher/student link to civic rescripts or guild lists.
-7. **Chinese lineages** not merged into Roman legal artisan register.
+1. **Orkistos** original inscribed dossier contains **multiple official texts from different years**; the **331 second rescript** is securely dated, while its first petition/first favorable resolution belong earlier. Composite inscription ≠ three independent 331 events. [W27-P01]
+2. **Hispellum** original local inscription of **c.333–337** directly states permission and limits; later modern interpretation of `superstitio` is contested. [W27-P02]
+3. **334 and 337 laws** as transmitted through **Theodosian Code in 438**; **337 craft roster** preserved via later **Justinianic Code**. These later manuscripts preserve ancient text but do **not** turn its headings into a fourth-century autograph. [W27-T01–T02]
+4. **335 Nicomedia solidus** exists as actual ancient gold coin, with modern museum provenance. Physical mint product is not a workshop recipe. [W27-O01]
+5. **Zosimos** c.300 authorial corpus → chiefly medieval Greek copies/commentary → critical modern reconstruction. No new dated contact with a 337 listed goldsmith; cited earlier Maria/Hermes/Democritus names do not create personal teacher lineage.
+6. **China:** independent Chinese material traditions; no newly documented Chinese–Roman/Graeco-Egyptian transfer.
 
-## 08 — HISTORICAL WITNESS TABLE
+## 08 — HISTORICAL WITNESS MATRIX
 
-| Evidence | Historical event/claim | Original surviving witness | What may NOT be assigned |
+| Claimed dated event/text | Original event/issue | Material document/witness | Warrant / limit |
 |---|---|---|---|
-| **Orkistos petition/grants** | 324–326 petition; 329/330 grant; **331** second rescript | one 331-ish engraved stone dossier CIL III 352/7000; MAMA VII 305 | no independent multiple original autographs or alchemical monastery |
-| **Hispellum rescript** | **333–337 range** | original CIL XI 5265 stone | unproven single exact 335; all pagan sacrifice banned |
-| **CTh 13.4.1** | **334**, training for architects | **fifth-century Theodosian legal compilation in later copies** | original 334 stone, alchemical teacher |
-| **Nicomedia gold solidus** | **335** struck imperial gold | actual Berlin 18200650, BM related specimen | base-metal-to-gold transmutation |
-| **CTh 13.4.2 / CJ 10.66.1** | **2 Aug 337** artisan exemptions | fifth- and sixth-century legal codes in later manuscript transmission | living Constantine signature post-22 May death |
-| **Constantine death** | **22 May 337** | convergent late-antique narrative/calendar evidence | personal issuance of August law |
-| **Zosimos** | c.300 / possible early fourth century | principally **medieval Greek compilations**, undated within 321–340 | made-up 330s workshop, patron, alchemy license |
-| **Leiden X / Stockholm** | broadly late third/early fourth | actual ancient papyri, **palaeographic broad dates** | claim dated 337 copy or particular practitioner |
-| **Olympiodorus alchemical literature** | late antique disputed | later texts, namesake/dating debate | positive 330s event without direct witness |
+| CTh 13.3.1, medics/teachers | **321 or 324**, uncertain | fifth-century code/later copies | protected professional status; not Alchemist |
+| Orkistos municipal petition | **324–326**, earlier | referenced within one original carved dossier | preceding window/period, not anew 331 |
+| Orkistos initial status decision | **329/330** | original inscribed dossier's earlier rescript | first recognition; not 331 second answer |
+| Orkistos cult-payment rescript | **30 Jun 331** | **original inscribed civic dossier**, carved c.331–332 | public reauthorization |
+| Hispellum dynastic temple | **c.333–337** | original Latin rescript CIL XI 5265 | restricted temple/festival authorization |
+| Architects' educational support | **27 Aug 334** conventional date | *CTh* 13.4.1, later code | stated goal to train, no actual named graduate |
+| Gold imperial solidus | **335** | **Berlin original struck coin 18200650**, gold 4.54g | gold money not transmutation |
+| Constantine's death | **22 May 337** | late antique historical testimony, accepted | incompatible with living issuance 2 Aug |
+| Artisan exemptions and son's teaching | **2 Aug 337** transmitted subscription | *CTh* 13.4.2 & *CJ* 10.66.1, later codices | craft protection; **issuer CONTESTED**, no Alchemist |
+| Zosimos and Theosebeia | **around 300**, exact period unresolved | later alchemical manuscripts | genuine named commentator, no new 330 event |
+| Leiden/Stockholm recipe papyri | broad **late 3rd–early 4th** | surviving papyri, approximate palaeography | no 335 recipe composition |
 
 ## 09 — HERE AND REMAINDER
 
-**Here—demonstrated:** the state had ways to reauthorize an identifiable civic station via petition, conditionally permit named ritual offices, and explicitly support **skills being improved and passed to another generation** through statutory exemptions. A gold coin demonstrates precious-metal material fabrication, and **a law attributed to a deceased emperor demonstrates an unresolved layer of legal textual authority**, not ghostly action.
+**HERE shown:** a local government can be formally reconstituted; a temple and traditional sacerdotal ceremonies can be selectively permitted; and the Roman state can **actively protect time and incentives to learn particular crafts**, including precious-metal and other material trades. A real original gold coin shows workmanship under imperial title. This supports a framework for how technical expertise can gain **intergenerational, economic and legal** standing without changing substances.
 
-**What the evidence does NOT show:** a 334 chemistry academy, official 337 Alchemist title, inventor converting copper into elemental gold, a nameable goldworker who passed a secret method to son, a government hunt for chemical teaching in these events, precise Zosimos activity in this twenty-year span, or proof that legislation reached named craftsmen in Egypt.
+**NOT shown:** an Alchemist title in the 337 list, a Zosimos–Constantine connection, suppression of alchemical priests as part of Hispellum's condition, element-changing gold technology, personal signature by a living Constantine on **2 Aug 337**, independently verified training completion or craft-guild secrecy.
 
-**Unknown:** actual implementation/beneficiaries of 337 privileges; exact issuer/subscription genesis; Hispellum precise year and semantics of prohibition; Orkistos regional application; Greek manuscript copy dates; artisan informal teaching rules; actual gold refining/assaying of 335 coin metals; independently attested alchemical institutions.
+**Unknown:** what exactly the inherited `superstitio` prohibition excluded, individual beneficiaries, practical effect of immunities, identity and original author of the August 337 law, dates of Zosimos's works and how a Greek alchemist's authorial authority was recognized by a community beyond his surviving literary voice.
 
-**Single most profound finding:** **A state can protect a practitioner's capacity to become more skilled and teach another person, without itself being able to perform or verify the craft.** The 337 artisan law is explicit about freeing **time to learn and educate sons**. That is a comparatively direct structure of **capacity → institutional protection → transmission**. But the Alchemist remains outside the list, so the **socially recognized station** of alchemy cannot be asserted from the same privilege. The conflicting 337 name further shows how a document's authority can survive under a name after its bearer is gone, while authentic legal provenance remains disputed.
+**Single most profound finding:** **An institution can authorize not only the work of a specialist but the *continuation of the capacity itself*—protecting leisure and incentives for the specialist to learn and teach heirs.** Yet the law intended to do so retains the name of an emperor after his death, warning that **attributed authority and actual contemporaneous agency must be separated**. This is the strongest local evidence for protected transmission as a station mechanism, and it is emphatically **not** evidence that such a law established a licensed Alchemist profession.
 
-## 10 — THE OUTSIDE: force, encounter, response, survival
+## 10 — THE OUTSIDE: forces, encounters, responses and remainders
 
-| Outside force | Documented encounter | Actual response | Alchemist limit |
+| Outside force | Actual encounter | Response evidenced | Alchemist implication |
 |---|---|---|---|
-| Neighboring city extracts civic-cult payments | **Orkistos 30 Jun 331** original inscribed imperial ruling | town's restored municipal rights affirmed; financial obligation denied | civic/priestly economy, no alchemist |
-| Competition over place/festival/patron cult | **Hispellum c.333–337** original inscription | local temple and annual festivals granted with `superstitio` condition | local religious office, not chemical suppression |
-| Shortage of specialized workforce | **334 CTh 13.4.1** transmitted architect training law | youth/parents' exemptions and learner allowance prescribed | actual architects not listed; no chemical school |
-| Burden of civic duties on craft instruction | **2 Aug 337 CTh 13.4.2 / CJ 10.66.1** | exemptions ordered for listed artisans to hone skills and instruct sons | craft roster excludes alchemist; no observed individual trainee |
-| Imperial death and attribution drift | Constantine **22 May 337** vs `Constantinus` August 337 header | posthumous naming/editorial explanation **CONTESTED**, no observed artisan response | do not infer miraculous signature, or pseudonymous alchemy lineage |
-| Public monetary legitimacy | **335 Nicomedia gold solidus** | issuer depicted with gold in public money | no elemental conversion |
-| Greek alchemical textual authority | Zosimos c.300, later transmitted commentary | transmitted interpretive/patronage arguments | no 321–340 specific response identified |
+| Disputed municipal standing/economic burdens | Orkistos **331** original public rescript | imperial confirmation of city status and relief | no documented alchemical actors |
+| City identity / dynastic devotion / ritual limits | Hispellum **c.333–337** original rescript | temple, priest/festival rights granted conditionally | religious station permitted, not metal-guild initiation |
+| Scarcity of architectural expertise | **334** later-codified law addressed to Felix in Africa | exemptions/allowances for architectural learning | protected competence, NOT alchemical training |
+| Shortage / need to retain artisans' expertise | **2 Aug 337** later-codified policy | `munera` exemption intended to improve skills and teach sons | roster includes goldsmiths etc, **not Alchemist** |
+| Imperial mortality & succession ambiguity | Constantine dies **22 May**, craft law dated **2 Aug** in his name | legal attribution persists or is editorially transmitted despite death | do not assign agency to a dead patron |
+| Imperial wealth/victory in actual gold | **335 Nicomedia solidus** | struck coin carries Constantine's titles/jubilee | real gold processing, no chrysopoeia |
+| Alchemical pedagogical/interpretive discourse | Zosimos c.300, manuscripts preserved much later | textual rivalry and correspondence reported | **cross-window**; no dated 330 response to these laws |
 
-**Completion level:** ten-layer **SOURCE-CRITICAL DEEP PASS**, not **CROSSING VERIFIED** Alchemist office. The material witnesses are strongest for civic authorization, legal teaching privileges and publicly minted gold. [Full source register](../08_SOURCE_REGISTER/CE_0321-0340__SOURCE_REGISTER.md) · [language/secrecy audit](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0321-0340__CRAFT_TRAINING_POSTHUMOUS_AUTHORITY.md).
+**Completion grade:** ten layers completed with original physical civic/ritual/monetary comparators and later-transmitted dated legal provisions. **NO CROSSING-VERIFIED 321–340 Alchemist profession.**
 
-**NEXT Window 28 — 341–360 CE:** investigate **344–350s** late Roman technical education and anti-divination laws, with independently dated original inscription/numismatic evidence. Ask whether privilege to teach craft and later policing of ritual creates *actual* documented pressure on named alchemical commentators. Do NOT manufacture an Alchemist station from coincident legislation.
+**NEXT Window 28 — 341–360 CE:** test **CTh 13.4.3 of 6 July 344** on mechanics/geometrists/architects and legal privileges, plus actual independent alchemical manuscripts or personnel; do not backdate a post-340 law into this interval.
