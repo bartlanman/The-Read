@@ -7,6 +7,9 @@
 ## 01 — THERE: Roman Egypt under Claudius and Nero
 **41 CE:** Claudius becomes emperor. Egypt is an imperial province with Greek civic and Egyptian temple/craft cultures. Following the violence in Alexandria in 38 CE, Greek civic envoys request intervention. On **10 November 41 CE**, prefect Lucius Aemilius Rectus authorizes public circulation of Claudius's letter. An actual Greek papyrus **P.Lond. VI 1912 / British Library Papyrus 2248** survives. [W13-P01–P03]
 **54 CE:** Nero succeeds Claudius. The reign **54–68 CE** is significant only because a modern scholar proposes it as a possible composition range for an early Greek alchemical work. It does **not** prove an alchemist performed or published anything during **54–60 CE**. [W13-S01–S03]
+### Independent Chinese continuity — do not invent a Greek connection
+**57 CE:** Emperor Guangwu died and his son **Ming (Liu Zhuang)** succeeded as Eastern Han emperor on **29 March 57 CE**. This is a securely dateable change in Chinese dynastic recognition. It does **not** establish that an alchemical guild rose, fell or influenced Greek recipe writers. The early-century Chinese metalworking and book-custody cases therefore remain a **parallel line**, not a supposed source of the Greek alchemical corpus. [W13-H01]
+
 **41–60 CE:** neither a specifically named, independently dated Greek-Egyptian alchemical workshop operator nor an extant 41–60 CE alchemical original manuscript has been verified.
 
 ## 02 — CAPACITY: a body of four related material crafts
