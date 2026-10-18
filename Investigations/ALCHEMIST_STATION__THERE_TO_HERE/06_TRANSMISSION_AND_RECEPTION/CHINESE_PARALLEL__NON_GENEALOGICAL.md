@@ -58,3 +58,8 @@ The *Hanshu*'s 91 BCE witchcraft affair concerns court accusations and destructi
 ## Window 11 (1–20 CE) — The metal does not change when its legal value changes
 
 Wang Mang's **7 CE bronze knife coin with gold inlay** and **14 CE copper-alloy huoquan** survive in the British Museum. Currency reforms in **7, 9, 10, 14 and 20 CE** redefined how money was named, valued, issued and restricted; `一刀平五千` assigned **face value**, not chemical composition. Later *Hanshu* describes penalties for `私鑄` unauthorized coin casting. **Craft capability, sovereign permission to issue, and true transmutation must be kept distinct.** No evidence of a licensed or persecuted Alchemist's profession follows from monetary regulation. [Window 11](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0001-0020_CE__WINDOW.md).
+
+
+## Window 12 — 21–40 CE: real metallurgy, credited administrative station
+
+Wang Mang's Xin rule ended in **23 CE**; Eastern Han was established in **25 CE**. A fifth-century `Hou Hanshu` account dates **Du Shi's governorship at Nanyang to 31 CE** and credits him with `水排`: a water-driven bellows for iron-foundry work producing farm tools. The report claims savings of human effort and higher benefit. **Named official ≠ proven sole machine inventor;** the identity of operating artisans is absent. No original mechanism or precisely measured output is recovered. This practical metal-fabrication story is **not** an elixir or gold transmutation and does not create an Egyptian genealogy. [Window 12](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0021-0040_CE__WINDOW.md) · [ST-031](../11_STATION_TRANSFORMATION_REGISTER/ST-031_DU_SHI__31_CE_WATER_BELLOWS.md).
