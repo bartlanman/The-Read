@@ -1,34 +1,38 @@
-# Window 27 — Canonical Deposit and Parallel-File Provenance Manifest
+# Window 27 — Canonical Deposit and Provenance/Reconciliation Manifest
 
-**Recorded:** 2026-10-18, after verifying `main` following Window 27 deposits. **Purpose:** preserve all source-critical research and avoid mistakenly treating multiple files bearing **ST-090–ST-094** as ten different historical cases. **Status:** CANONICAL FILE SET SELECTED BY CURRENT REGISTER; PARALLEL RESEARCH FILES PRESERVED; NO DELETION OR REWRITE.
+**Updated:** 2026-10-18. **Branch:** `main`. **Window:** 321–340 CE. **Purpose:** record that two overlapping deposition paths briefly created more than one file per ST number and explain the deliberate cleanup. **Current state:** ONE CANONICAL FILE PER ST-090–ST-094; alternate drafts preserved in **Git commit history**, not active project files.
 
-## Verified checkpoint
+## Canonical files retained in main
 
-- **Completed ten-layer dossier:** [Window 27, 321–340](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0321-0340_CE__WINDOW.md). It was separately updated in a parallel pass on `main`, then verified; current version retains all ten evidence-controlled layers.
-- **Critical original/compilation sources:** [321–340 source register](08_SOURCE_REGISTER/CE_0321-0340__SOURCE_REGISTER.md). Original Orkistos and Hispellum inscriptions and 335 gold solidus vs later 334/337 law compilations are distinguished.
-- **Canonical language audit linked by current index:** [CRAFT_TRAINING_POSTHUMOUS_AUTHORITY](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0321-0340__CRAFT_TRAINING_POSTHUMOUS_AUTHORITY.md).
-- **Parallel language audit, retained:** [CRAFT_CAPACITY_LEGAL_LANGUAGE_AND_AUTHORITY](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0321-0340__CRAFT_CAPACITY_LEGAL_LANGUAGE_AND_AUTHORITY.md). Same research window, another coherent write-up, **not a second historical window or an independent ancient witness**.
+- [Complete ten-layer Window 27 dossier](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0321-0340_CE__WINDOW.md).
+- [Primary and scholarly source register](08_SOURCE_REGISTER/CE_0321-0340__SOURCE_REGISTER.md): original Orkistos/Spello inscriptions, original 335 coin, later-codified 334/337 texts, disputed 337 issuer.
+- [Canonical language/access audit](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0321-0340__CRAFT_TRAINING_POSTHUMOUS_AUTHORITY.md).
+- [Station register matrix and index](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md), with 94 rows ST-001–ST-094 and no duplicate IDs.
+- Canonical individual records (these EXACT files are linked in the register):
+  - [ST-090 Orkistos civic status](11_STATION_TRANSFORMATION_REGISTER/ST-090_ORKISTOS_331__CITY_AUTHORITY_CULT_CONTRIBUTION.md)
+  - [ST-091 Hispellum priests/festivals](11_STATION_TRANSFORMATION_REGISTER/ST-091_HISPELLUM_333_337__IMPERIAL_CULT_PRIEST_CONDITIONAL_AUTHORITY.md)
+  - [ST-092 Africa 334 architecture training](11_STATION_TRANSFORMATION_REGISTER/ST-092_AFRICA_334__ARCHITECT_LEARNING_IMMUNITY.md)
+  - [ST-093 August 337 artisan relief, disputed issuer](11_STATION_TRANSFORMATION_REGISTER/ST-093_ARTISANS_337__GOLDSMITHS_TEACH_SONS_CONTESTED_ATTRIBUTION.md)
+  - [ST-094 original 335 gold solidus](11_STATION_TRANSFORMATION_REGISTER/ST-094_NICOMEDIA_335__ORIGINAL_GOLD_SOLIDUS_NOT_CHRYSOPOEIA.md)
 
-## ST-090–ST-094—one historical case per number, two text files each
+## Parallel-file creation and reconciliation
 
-| ID | Canonical path selected by current register | Preserved parallel path (alternative writing, not a new numbered case) |
-|---|---|---|
-| ST-090 | [Orkistos 331, civic authority](11_STATION_TRANSFORMATION_REGISTER/ST-090_ORKISTOS_331__CITY_AUTHORITY_CULT_CONTRIBUTION.md) | [Orkistos 331, alternate text](11_STATION_TRANSFORMATION_REGISTER/ST-090_ORKISTOS_331__CIVIC_RECOGNITION_CULT_PAYMENT.md) |
-| ST-091 | [Hispellum conditional priest role](11_STATION_TRANSFORMATION_REGISTER/ST-091_HISPELLUM_333_337__IMPERIAL_CULT_PRIEST_CONDITIONAL_AUTHORITY.md) | [Hispellum alternate text](11_STATION_TRANSFORMATION_REGISTER/ST-091_HISPELLUM_333_337__CONDITIONAL_TEMPLE_FESTIVAL.md) |
-| ST-092 | [334 architect learning rule](11_STATION_TRANSFORMATION_REGISTER/ST-092_AFRICA_334__ARCHITECT_LEARNING_IMMUNITY.md) | [334 architect allowance alternate](11_STATION_TRANSFORMATION_REGISTER/ST-092_AFRICA_334__ARCHITECTURE_LEARNING_AND_STIPENDS.md) |
-| ST-093 | [337 crafts/sons/contested issuer](11_STATION_TRANSFORMATION_REGISTER/ST-093_ARTISANS_337__GOLDSMITHS_TEACH_SONS_CONTESTED_ATTRIBUTION.md) | [337 posthumous attribution alternate](11_STATION_TRANSFORMATION_REGISTER/ST-093_337_POSTHUMOUS_CONSTANTINE__ARTISAN_IMMUNITY_AND_TRAINING.md) |
-| ST-094 | [335 original Nicomedia gold](11_STATION_TRANSFORMATION_REGISTER/ST-094_NICOMEDIA_335__ORIGINAL_GOLD_SOLIDUS_NOT_CHRYSOPOEIA.md) | [335 gold coin alternate](11_STATION_TRANSFORMATION_REGISTER/ST-094_NICOMEDIA_335__GOLD_SOLIDUS_NOT_CHRYSOPOEIA.md) |
+Overlapping writing operations produced a *parallel*, separately committed version of each ST-090–ST-094 and an additional language analysis. **These were drafts of the same historical episodes, NOT five additional station transformations.** Their file names were:
 
-**Important:** This is a **one-to-many file-name / one-to-one record-number mapping**. There are **94 distinct Station Transformation IDs** (`ST-001`–`ST-094`) in the canonical register matrix with no missing numbers. There are **five preserved parallel alternative ST files**, so the raw number of Markdown files matching a broad `ST-*.md` pattern can be greater than **94**. Do not increment register to 99 or start future numbering at ST-100. **Next ID is ST-095**.
+- `ST-090_ORKISTOS_331__CIVIC_RECOGNITION_CULT_PAYMENT.md`
+- `ST-091_HISPELLUM_333_337__CONDITIONAL_TEMPLE_FESTIVAL.md`
+- `ST-092_AFRICA_334__ARCHITECTURE_LEARNING_AND_STIPENDS.md`
+- `ST-093_337_POSTHUMOUS_CONSTANTINE__ARTISAN_IMMUNITY_AND_TRAINING.md`
+- `ST-094_NICOMEDIA_335__GOLD_SOLIDUS_NOT_CHRYSOPOEIA.md`
+- `CE_0321-0340__CRAFT_CAPACITY_LEGAL_LANGUAGE_AND_AUTHORITY.md`
 
-## Provenance and caution
+**Reconciliation:** these six redundant files were deliberately deleted from the **working tree** in six Git commits, ending at **`baff7c66a573d5143991c2a8bfe0f0ee1d720935`**. All six remain recoverable from their creation commits and intervening Git history; deletion **is not destruction of historical provenance**. The canonical files remain unmodified by that cleanup. The earlier text of this manifest, which said parallel files were still present on `main`, is superseded by this verified revision.
 
-Both sets appeared as separate GitHub commits on the same branch during this research turn (commit messages `Window 27 research record ST-090` etc. and `Window 27 evidence-controlled station ST-090` etc.). The latter files were made after the original set and retain independent source-critical write-ups. **No files deleted, replaced or silently merged.** The main register and repository README explicitly reference the selected canonical set only.
+## Historical safeguards
 
-- Shared verified project: `bartlanman/The-Read`, `main`, `Investigations/ALCHEMIST_STATION__THERE_TO_HERE/`.
-- The two language documents are distinct **modern analyses**, not independently surviving ancient manuscripts.
-- Preserve the historical negative claim: no secured professionally recognized Alchemist in **321–340 CE**, and `Constantinus` heading on the 2 Aug **337** artisan law conflicts with Constantine's **22 May 337** death. Working explanation remains **CONTESTED**.
+- **Window 27:** original inscription of **30 June 331** is a second Orkistos rescript within a dossier containing earlier documents; Hispellum is **broadly c.333–337**, not a known isolated 335 event.
+- **334** architecture support and **2 August 337** artisan `munera` exemption survive in **later legal compilations**, not original period stone copies. **Constantine died 22 May 337**, so his name on an August 337 law is an attribution problem: **CONTESTED** original issuer, not personal posthumous action.
+- **335** original gold coin proves minting of existing metal, **NOT chrysopoeia**.
+- **No independently authenticated professional Alchemist of 321–340 CE** was established in this sample. Zosimos remains a **c.300 cross-window** named alchemical-commentary witness, not artificially assigned to 335.
 
-## NEXT
-
-**Window 28 — 341–360 CE** should begin at the current verified branch HEAD, read the **canonical register**, use ST-095 for first new warranted record, and treat the parallel Window 27 drafts as supplemental comparisons only, not as another five station transformations. No deletion or re-numbering without deliberate provenance-aware reconciliation.
+**Next:** Window 28 (341–360 CE), new IDs begin **ST-095**, preserve 112 historical windows and link only canonical active paths.
