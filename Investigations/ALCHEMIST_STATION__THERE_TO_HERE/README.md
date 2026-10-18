@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — 24 deep-researched historical windows through 280 CE, 81 Station Transformation Records; next window 281–300 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
+Status: **OPEN INVESTIGATION — 25 deep-researched historical windows through 300 CE, 85 Station Transformation Records; next window 301–320 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -293,3 +293,17 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 **Historical warrant:** public political and legal stations visibly change in the material record, but **no 261–280 named Alchemist, proven elemental gold transmutation, destroyed anti-alchemy library, or alchemical persecution is documented**. The original object need not have retained its original inscribed state across time.
 
 **NEXT WINDOW 25 — 281–300 CE:** date-check Diocletian gold/silver book-burning story, early Zosimos commentary and technical recipes; do not treat later literary retrospective as contemporary order.
+
+
+## Window 25 deep-read checkpoint — 281–300 CE (2026-10-18)
+
+- [Full ten-layer historical investigation: documented Domitius Domitianus rebellion; later Diocletian alchemy book-burning account; Zosimos c.300](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0281-0300_CE__WINDOW.md)
+- [Period source register: original 297 papyri, 297/298 Roman Provincial Coinage, medieval Suda, Dufault, Zosimos witnesses](08_SOURCE_REGISTER/CE_0281-0300__SOURCE_REGISTER.md)
+- [Language/technique/secrecy and access: `chēmeia` and what John of Antioch / Suda actually report](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0281-0300__LANGUAGE_BOOKS_AND_AUTHORITY.md)
+- [Station Transformation Register: ST-082–ST-085; total 85 records](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Source distinction:** Independent original Greek papyri (e.g. **P.Isid.62**, **P.Michael.24**) and original **RPC X 76414/76417** coin types establish rival Egyptian imperial titles **297–298**. The account of **Diocletian burning books about the `chēmeia` of gold and silver** is a **later narrative attributed to John of Antioch (7th century) transmitted by Suda (10th century)**; the original imperial act is **UNVERIFIED**. **Zosimos of Panopolis c.300** is a substantially identifiable alchemical commentator operating in a *reported* world of patronage by Theosebeia and conflict with a priest Neilos; exactly **281–300** is **not securely pinned**, nor is a government alchemist profession.
+
+**Most profound result:** Later historical belief that transformative books were worth suppressing differs from original-period evidence that books were suppressed. Zosimos offers a potentially stronger emerging alchemical intellectual station than the rumored suppression.
+
+**NEXT WINDOW 26 — 301–320 CE:** original and later sources for 303–305 coercion, specific dates of alchemical writing/reader networks, competing claims of legitimate interpretation.
