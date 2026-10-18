@@ -1,6 +1,6 @@
 # STATION TRANSFORMATION REGISTER
 
-**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-099; 28 investigated windows, next 361–380 CE.** See latest Window 28 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-104; 29 investigated windows, next 381–400 CE.** See latest Window 29 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
 
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
@@ -241,3 +241,14 @@ Each record must include:
 - [ST-099: Alexandria 351–355 original copper coin; material artifact not goldmaking](ST-099_ALEXANDRIA_351_355__COPPER_COIN_NOT_TRANSMUTATION.md)
 
 **Current 99 distinct Station Transformation Records, 28 deep-researched historical windows, next 361–380 CE.** All new station comparisons distinguish **normative laws preserved in later 438 legal compilation** from **original material metal**. No verified specific 350s alchemical occupation, experiment or persecution. [Window 28](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0341-0360_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0341-0360__SOURCE_REGISTER.md) · [Language](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0341-0360__GEOMETRAS_MATHEMATICI_AND_LEGAL_ACCESS.md). **Next ST-100.**
+
+
+## Window 29 (361–380 CE) — current checkpoint 2026-10-18
+
+- [ST-100: Themistius Oration VII 366/367: hypothetical bronze→silver→gold publicly intelligible](ST-100_THEMISTIUS_366_367__PUBLIC_HYPOTHETICAL_METAL_TRANSFORMATION.md)
+- [ST-101: Julian's 362 schoolteacher authority rules, separate philosophical letter](ST-101_JULIAN_362__TEACHER_APPROVAL_AND_CULTURAL_AUTHORITY.md)
+- [ST-102: 371 harmless haruspicy versus harmful magic legal distinction](ST-102_371__HARUSPICY_AND_HARMFUL_MAGIC_DISTINCTION.md)
+- [ST-103: c.371/372 or 374 Antioch political divination, not an Alchemist's trial](ST-103_ANTIOCH_371_374__SUCCESSION_DIVINATION_NOT_ALCHEMY.md)
+- [ST-104: actual Valens gold coin 367–375 versus controlled gold export c.374?](ST-104_GOLD_367_375__COIN_AND_EXPORT_NOT_SYNTHESIS.md)
+
+**Current checkpoint: 104 distinct ST records and 29 investigated historical windows through 380 CE.** These entries do not represent five newly identified Alchemists. The **source-critical positive discovery** is Themistius's **366/367 public counterfactual metal-transforming image**. No 361–380 original transmutation sample, dated Alchemist guild office, certified professional or recorded alchemical persecution established. [Window 29](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0361-0380_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0361-0380__SOURCE_REGISTER.md) · [Language](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0361-0380__THEMISTIUS_JULIAN_AND_DIVINATION.md). **Next Window 30, 381–400 CE, next ST-105**.
