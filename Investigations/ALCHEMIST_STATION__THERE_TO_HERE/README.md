@@ -141,3 +141,13 @@ New strongly documented (within a retrospective historical narrative) distinctio
 - [Source register](08_SOURCE_REGISTER/0040-0021_BCE__SOURCE_REGISTER.md)
 
 **Key finding:** Egyptian royal authority is replaced but Strabo reports the **Mouseion priest's office surviving with Augustus as appointer**. Gallus's 29 BCE stele adapts different official messages to three scripts. In **26 BCE** the Han court honors Liu Xiang's scholarship after an earlier failed gold-making claim, while physician **Li Zhuguo**, not Liu, handles the technical/medical `fangji` books. **No specific alchemical metal-transmutation station is confirmed for Egypt in this window.**
+
+
+## Window 10 deep-read checkpoint — 20–1 BCE
+
+- [Historical window 10](02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0020-0001_BCE__WINDOW.md)
+- [Station Transformation Register ST-026 through ST-028](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Language and technique: chamber, catalog, circulating text](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/WINDOW_10__CHAMBER_CATALOGUE_AND_OPEN_TEXT.md)
+- [Window 10 historical sources and dating issues](08_SOURCE_REGISTER/0020-0001_BCE__SOURCE_REGISTER.md)
+
+The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts**, and the **3 BCE popular movement reported by Hanshu** demonstrate three different access mechanisms. No verified original Alchemist office or actual goldmaking in 20–1 BCE.

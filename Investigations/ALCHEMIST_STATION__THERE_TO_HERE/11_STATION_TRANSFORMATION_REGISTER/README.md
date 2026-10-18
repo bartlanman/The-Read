@@ -74,3 +74,10 @@ Each record must include:
 - [ST-025: Liu Xiang becomes textual-collation authority in 26 BCE](ST-025_HAN_LIU_XIANG__26_BCE_BOOK_AUTHORITY.md)
 
 **Research status:** Ancient sources make public authority visible and contestable, yet not a specific Egyptian alchemical profession.
+
+## Window 10 additions (2026-10-18)
+- [ST-026: Dendur's sacred station and uncertain hidden chamber](ST-026_DENDUR_AUGUSTUS__15_10_BCE.md)
+- [ST-027: Liu Xin classifies the writings of extraordinary techniques](ST-027_HAN_LIU_XIN__QILUE_5_BCE.md)
+- [ST-028: The 3 BCE Queen Mother of the West public promise](ST-028_XIWANGMU__3_BCE_OPEN_IMMORTALITY_PROMISE.md)
+
+**Checkpoint:** 28 records. Spatial restriction, classification of knowledge, and mass circulation must not be mistaken for demonstrated alchemical skill.

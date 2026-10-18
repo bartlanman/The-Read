@@ -31,6 +31,9 @@
 | [ST-023](ST-023_GALLUS_PHILAE_29_BCE__TRILINGUAL_AUTHORITY.md) | Roman Egypt, 29–26 BCE | First Roman prefect Cornelius Gallus | Military rebellion, new audiences, imperial scrutiny | Public three-script inscription; later disgrace and suicide | **Political/monumental authority, not an Alchemist** |
 | [ST-024](ST-024_STRABO_MOUSEION_HELIOPOLIS_25_BCE.md) | Alexandria/Heliopolis, c.25–24 BCE | Mouseion priest, older astronomer-priests | Patron moves king→Augustus; changing scholarly environment | Mouseion continues under new appointer; Strabo reports Heliopolis school missing | **Scholar/priest station; no proven secret goldmaking** |
 | [ST-025](ST-025_HAN_LIU_XIANG__26_BCE_BOOK_AUTHORITY.md) | Han China, 26 BCE | Previously failed gold-making claimant now literary official | Court drive to recover/distribute/compare books | Emperor Cheng commissions Liu to collate classics; Li Zhuguo reviews *fangji* | **Textual station, not verified alchemical mastery** |
+| [ST-026](ST-026_DENDUR_AUGUSTUS__15_10_BCE.md) | Roman Egypt, c.15–10 BCE | Emperor in Egyptian ritual depiction; temple personnel | Roman rule and sacred continuity | Dendur built with inner restricted space | **No attested alchemical station** |
+| [ST-027](ST-027_HAN_LIU_XIN__QILUE_5_BCE.md) | Han China, late 1st c BCE | Bibliographic scholar Liu Xin | Loss and diversification of court books | Lost Qilüe classifies technical and immortality arts | **Editorial rank does not prove craft capacity** |
+| [ST-028](ST-028_XIWANGMU__3_BCE_OPEN_IMMORTALITY_PROMISE.md) | Han China, 3 BCE | Anonymous Queen Mother followers/carriers | Drought and public spiritual anxiety | Tokens and promise spread widely; original leaflet lost | **Public claim, not proven life extension or professional Alchemist** |
 
 ## Interpretative pattern at this stage
 - **Authority can be institutionally assigned, revised or defended without creating an alchemical profession.**
@@ -71,3 +74,8 @@ The distinctive new comparative mechanism is **political destruction or foreign 
 
 ## Window 09 — 40–21 BCE
 **The same post-Ptolemaic Mouseion office continues with a new appointing patron (Strabo), while Cornelius Gallus uses three scripts for his first-prefect monument and later loses imperial favor. In Han China Liu Xiang receives a new text-collation station in 26 BCE, decades after a gold-making commission failed. Critically the *fangji* category goes to physician Li Zhuguo.** None of these witnesses establishes a distinct Egyptian Alchemist in this window. [Window 09](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0040-0021_BCE__WINDOW.md).
+
+
+## Window 10 — 20–1 BCE
+
+Three distinct access arrangements appear: **a temple's spatial threshold**, **an imperial catalogue recognizing classes of technical and immortality writings**, and **an openly circulated 3 BCE claim that wearing a writing prevents death**. The reports of the Chinese movement and surviving bibliographic classification come from a later Hanshu tradition, whereas Dendur is a surviving physical monument; do not homogenize the sources. None independently verifies transmutation. [Window 10](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0020-0001_BCE__WINDOW.md).

@@ -48,3 +48,8 @@ The *Hanshu*'s 91 BCE witchcraft affair concerns court accusations and destructi
 ## 60–41 BCE — The lost Huainan texts become an actual workshop commission
 
 *Hanshu* 36 records **Liu Gengsheng / Xiang** presenting rare Huainan goldmaking material (the `枕中鴻寶苑祕書` titles are not unambiguously one book); Emperor Xuan assigns him to **Shangfang** craft/metal work, and after significant expense the method fails (`方不驗`). Officials accuse him of false gold, putting him at risk of execution; his sentence is reduced. Conventional dates c.60–56 BCE require further critical dating of the transmitted biography. Unlike the 144 BCE law, this is **a specific commissioned goldmaking attempt**. The `secret text → technical authority → test → failure → sanction` sequence should now be central to the Chinese parallel history. [Window 08](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0060-0041_BCE__WINDOW.md) · [ST-018](../11_STATION_TRANSFORMATION_REGISTER/ST-018_HAN_LIU_XIANG__SECRET_TEXT_GOLD_TRIAL.md).
+
+
+## Window 10 — classification and distribution (20–1 BCE)
+
+**Liu Xin** completed or advanced a court catalogue, Qilüe, broadly 7–1 BCE (often c.5 BCE), whose original is lost. The later Hanshu Yiwenzhi groups **fangji** into medical canons, recipes, bedchamber arts and **shenxian** immortality writings. Category is not scientific or craft validation. In **3 BCE**, Hanshu reports that Queen Mother of the West messages and tallies moved through communities and promised deathlessness to people who wore the message. This report is a counterexample to universal secrecy of immortality promises, but not a successful alchemical practice. [Window 10](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0020-0001_BCE__WINDOW.md).
