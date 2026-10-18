@@ -106,3 +106,11 @@ Each record must include:
 - [ST-037: Vespasian's alleged Alexandria healings and political recognition](ST-037_VESPASIAN_ALEXANDRIA__70_CE_HEALING_CLAIM.md)
 
 **Checkpoint: 37 records.** Pseudo-Democritus' original composition remains unresolved, not a separately proven practitioner. ST-036 spans two windows by its broad date.
+
+## Window 15 — 81–100 CE additions (2026-10-18)
+- [ST-038 Benevento, 88/89: Egyptian hieroglyphs in Roman Italian cult](ST-038_BENEVENTO_88_89_CE__EGYPTIAN_WRITING_ITALY.md)
+- [ST-039 Domitian, 93–94: philosophers persecuted; no proven anti-alchemy law](ST-039_DOMITIAN_93_94_CE__PHILOSOPHERS_NOT_ALCHEMISTS.md)
+- [ST-040 Domitian's 96 memory erasure: surviving hieroglyphic cartouches](ST-040_DOMITIAN_96_CE__HIEROGLYPHIC_MEMORY_SURVIVES.md)
+- [ST-041 Gan Ying's 97 expedition: possible contact horizon, no recipe lineage](ST-041_GAN_YING_97_CE__CONTACT_NOT_LINEAGE.md)
+
+**Checkpoint: 41 comparative records**. The physical inscription's content and date have higher evidentiary status than reconstructed ancient literacy and motives. **No named alchemical practitioner located in 81–100 CE**.

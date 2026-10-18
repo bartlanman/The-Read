@@ -195,3 +195,13 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Source register](08_SOURCE_REGISTER/CE_0061-0080__SOURCE_REGISTER.md)
 
 **Bounded result:** Pliny was composing in this window and discussed real testing and disputed claims to old textual authority; pseudo-Democritus may have written under Nero but is **not exactly dated, independently named or demonstrably the text attacked by Pliny**. No successful elemental transmutation or formal Alchemist's office is established.
+
+
+## Window 15 checkpoint — 81–100 CE
+
+- [Window 15: Domitian's name surviving memory-erasure in a hieroglyphic Isis monument](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0081-0100_CE__WINDOW.md)
+- [ST-038–ST-041 in the Station Transformation Register](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Language analysis: publicly visible script unreadable to later authorities](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0081-0100__UNREADABLE_PUBLIC_TEXT_AND_ERASURE.md)
+- [Source register: Getty critical epigraphy, Suetonius, philosophy expulsions, Hou Hanshu](08_SOURCE_REGISTER/CE_0081-0100__SOURCE_REGISTER.md)
+
+**Evidentiary milestone:** two ORIGINAL granite obelisks with Egyptian-script date **88/89 CE** and named Roman patron. Domitian's name survives in hieroglyphs notwithstanding later Senate erasure story. But public script opacity is NOT proof of intentional alchemical secrecy. Philosophers expelled c.93–94 were not demonstrably 'alchemists'; Eastern Han Gan Ying in 97 did not reach Rome. Pseudo-Democritus remains an earlier/broadly dated literary candidate, with no new securely dated 81–100 CE Greek transmutational profession.
