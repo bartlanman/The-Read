@@ -1,6 +1,6 @@
 # STATION TRANSFORMATION REGISTER
 
-**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-094; 27 investigated windows, next 341–360 CE.** See latest Window 27 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-099; 28 investigated windows, next 361–380 CE.** See latest Window 28 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
 
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
@@ -229,4 +229,15 @@ Each record must include:
 **Latest checkpoint: 94 station records, 27 deep-researched windows, NEXT Window 28 (341–360 CE)**. The major positive comparator is **actual protected technical teaching**: the legal tradition deliberately excuses `aurifices` and other artisans from `munera` to improve expertise and **educate sons**, though no named alchemical specialist is protected under this title. Preserve original legal-source dates versus compilation and **posthumous Constantine attribution conflict**. Orkistos and Hispellum are original civic inscriptions, while the two craft laws are later codified texts. [Window 27](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0321-0340_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0321-0340__SOURCE_REGISTER.md) · [Language](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0321-0340__CRAFT_TRAINING_POSTHUMOUS_AUTHORITY.md).
 
 
-**Parallel-file control:** Window 27 temporarily had five alternative ST-090–ST-094 files and one alternative language study. They have been **removed from the current tree after reconciliation**, while their content remains **recoverable in Git history**. The main register points to the sole canonical files. [Window 27 Reconciliation Manifest](../WINDOW_27__CANONICAL_AND_PARALLEL_DEPOSIT_MANIFEST.md). **94 distinct IDs; next ID ST-095.**
+**Parallel-file control:** Window 27 temporarily had five alternative ST-090–ST-094 files and one alternative language study. They have been **removed from the current tree after reconciliation**, while their content remains **recoverable in Git history**. The main register points to the sole canonical files. [Window 27 Reconciliation Manifest](../WINDOW_27__CANONICAL_AND_PARALLEL_DEPOSIT_MANIFEST.md). **As of Window 27 there were 94 distinct IDs; Window 28 now extends to 99. Next ID ST-100.**
+
+
+## Window 28 (341–360 CE) — latest checkpoint 2026-10-18
+
+- [ST-095: 344 law protects mechanical/geometry/water engineering teaching](ST-095_MECHANICS_GEOMETERS_344__TEACHING_PROTECTED.md)
+- [ST-096: 341 sacrifice restrictions are not chemical trade laws](ST-096_SACRIFICE_341__RITUAL_NOT_ALCHEMY.md)
+- [ST-097: temple protection and closure prescriptions, dating contested](ST-097_TEMPLES_342_346_354_356__DIFFERENTIATED_RITUAL_POLICY.md)
+- [ST-098: astrologer `mathematicus` threatened 357/358 versus skilled geometer protected 344](ST-098_DIVINATION_357_358__MATHEMATICUS_NOT_GEOMETRA.md)
+- [ST-099: Alexandria 351–355 original copper coin; material artifact not goldmaking](ST-099_ALEXANDRIA_351_355__COPPER_COIN_NOT_TRANSMUTATION.md)
+
+**Current 99 distinct Station Transformation Records, 28 deep-researched historical windows, next 361–380 CE.** All new station comparisons distinguish **normative laws preserved in later 438 legal compilation** from **original material metal**. No verified specific 350s alchemical occupation, experiment or persecution. [Window 28](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0341-0360_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0341-0360__SOURCE_REGISTER.md) · [Language](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0341-0360__GEOMETRAS_MATHEMATICI_AND_LEGAL_ACCESS.md). **Next ST-100.**
