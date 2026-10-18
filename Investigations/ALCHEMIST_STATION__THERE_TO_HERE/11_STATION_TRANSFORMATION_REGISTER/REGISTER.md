@@ -38,6 +38,8 @@
 | [ST-030](ST-030_ROMAN_EGYPT__1_20_CE_TEMPLE_CONTINUITY_AUDIT.md) | Roman Egypt, 1–20 CE | Priestly/temple stations under Roman government | Changed land and fiscal authority; scholarly disagreement over seizure | Institutional continuity and local resource questions require dated papyri | **Open pressure audit, no individual Alchemist identified** |
 | [ST-031](ST-031_DU_SHI__31_CE_WATER_BELLOWS.md) | China, 31 CE | Nanyang governor Du Shi and unnamed ironworkers | Demand for productive metal tools under restored Han | Later historian credits official with labor-saving water-blower system | **Specific useful metallurgy, not a goldmaking Alchemist** |
 | [ST-032](ST-032_ALEXANDRIA_38_CE__CIVIC_STATUS_NOT_ALCHEMY.md) | Roman Egypt, 38 CE | Prefect Flaccus and Alexandrian Jewish civic population | Religious/ethnic hostility and public authority | Severe exclusion and violence in near-contemporary account | **Methodological comparator ONLY, not an alchemical persecution** |
+| [ST-033](ST-033_CLAUDIUS_41_CE__PUBLIC_LETTER.md) | Roman Alexandria, 41 CE | Emperor Claudius and prefect Rectus as public authorizers | Need for a public settlement after 38 CE civic crisis | Prefect orders emperor's Greek letter published; original-period papyrus survives | **Dated public legal authority, NOT an Alchemist** |
+| [ST-034](ST-034_PSEUDO_DEMOCRITUS__DATING_THRESHOLD.md) | Greek-Egyptian textual tradition, possibly after 50 CE | Pseudo-Democritus as attributed technical author; Ostanes as literary master | Valuable colorant arts, demand for old authority, contested textual dating | Lost four books known in later Greek/Syriac; story of temple-hidden secrets; later literary reception | **Strong alchemical textual-station candidate; no proven 41–60 CE composition or formal office** |
 
 ## Interpretative pattern at this stage
 - **Authority can be institutionally assigned, revised or defended without creating an alchemical profession.**
@@ -96,3 +98,8 @@ The strongest source claim is **Du Shi's 31 CE water-powered blast-furnace bello
 The **38 CE Alexandrian crisis** is a separately sourced example of civic identity and state coercion, not alchemical repression. Pseudo-Democritus's later-first-century Greek alchemical texts are not secured within 21–40 CE.
 
 [Window 12](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0021-0040_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0021-0040__SOURCE_REGISTER.md).
+
+
+## Window 13 — 41–60 CE
+
+The *Four Books* attributed to Pseudo-Democritus are a **major candidate for a Greek alchemical textual station**: four connected arts of gold-like metals, silver-like metals, gems and purple dyes are attributed to a celebrated ancient name. The *Physika kai mystika* temple-hidden-book episode represents restricted access to teaching in **literary form**, without an independently excavated secret manuscript or witnessed Ostanes apprenticeship. The more specific modern dating of the corpus (perhaps **Nero 54–68 CE**) **overlaps but exceeds** the window and is not proof of composition by 60 CE. The **41 CE original papyrus** of Claudius' Alexandrian letter illustrates the opposite mechanism—public circulation of authorized wording. [Window 13](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0041-0060_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0041-0060__SOURCE_REGISTER.md).
