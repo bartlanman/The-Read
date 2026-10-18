@@ -45,3 +45,8 @@ Link a person to another only through actual contact, citation, translation or p
 - [ ] Test intentional concealment against explicit disclosure and open recipes.
 - [ ] Compare institutional custody, independent protection, trade value, training, hazard and prestige.
 - [ ] Determine social source of the practitioner's recognized station.
+
+
+## External pressure and station response — retroactive requirement
+
+The original nine-layer report predates the Outside Pressure audit. Revisit this window through the tenth layer: **Who or what outside the station changed its authority, methods, language, patronage, or legitimacy?** Consult [Outside Pressure protocol](../00_METHOD_AND_EVIDENCE/OUTSIDE_PRESSURE_AUDIT.md). For the later seventeenth century, terminology and textbook/public-demonstration pressures become especially relevant; use [OP01, OP04, OP05, OP15] in the [source register](../08_SOURCE_REGISTER/OUTSIDE_PRESSURE__SOURCE_REGISTER.md). This is an open audit, not a claimed verification.

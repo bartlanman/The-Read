@@ -61,3 +61,15 @@ Secrecy is not presumed intrinsic to alchemy. For every 20-year window investiga
 - [Language, technique and allegory](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/)
 - [Historical source master register](08_SOURCE_REGISTER/STACK_20_YEAR_MASTER_SOURCES.md)
 - [Parallel Chinese tradition](06_TRANSMISSION_AND_RECEPTION/CHINESE_PARALLEL__NON_GENEALOGICAL.md)
+
+
+## THE OUTSIDE — pressures on the station and contemporary demarcation
+
+**New layer (2026-10-18):** Track what forces outside the practice make a station change, divide, gain authority, be criticized, or survive in another identity. Crucial case: how early modern chymistry was eventually distinguished into academic chemistry, marginalized chrysopoeia and later occult or cultural readings, without reducing the old field to a caricature of 'pseudoscience'.
+
+- [Complete timeline through the current 2021–2040 window](02_CHRONOLOGY_20_YEAR_WINDOWS/STACK_INDEX__200_BCE_TO_2040_CE.md)
+- [Outside Pressure research dossier](10_OUTSIDE_PRESSURES/README.md)
+- [Tenth-layer protocol](00_METHOD_AND_EVIDENCE/OUTSIDE_PRESSURE_AUDIT.md)
+- [Outside source register](08_SOURCE_REGISTER/OUTSIDE_PRESSURE__SOURCE_REGISTER.md)
+
+**Evidence limitation:** the pre-1701 windows inherit a new required audit, not automatic historically validated results. The post-1700 entries are first-pass pressure scaffolds with sourced dated anchors where available. The current 2021–2040 container contains no asserted future events.

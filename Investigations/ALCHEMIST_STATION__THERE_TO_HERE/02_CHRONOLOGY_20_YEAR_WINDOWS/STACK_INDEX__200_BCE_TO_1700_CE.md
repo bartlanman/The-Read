@@ -117,3 +117,6 @@ The **nine-layer stack** is [defined here](../00_METHOD_AND_EVIDENCE/STACK_FIELD
 - Latin Robert of Chester 1144 has disputed attribution/date despite its conventional historical position.
 - In fifteenth-century and later emblem literature, allegory may deliberately **teach** as well as obscure.
 - Missing-window text is a **research gap**, never a declaration of historical emptiness.
+
+
+> **SUPERSEDED WORKING INDEX (preserved):** The timeline has been extended beyond 1700 through the current partial window. Use the [200 BCE–2040 CE master index](STACK_INDEX__200_BCE_TO_2040_CE.md) for the active research stack. This older file remains to preserve provenance and its earlier 95-window scope.

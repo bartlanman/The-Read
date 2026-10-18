@@ -53,3 +53,16 @@ Refer to [the secrecy protocol](../00_METHOD_AND_EVIDENCE/SECRECY_AUDIT_PROTOCOL
 ## Use the nine-layer full-stack convention
 
 All window entries additionally cover: (i) technique and apparatus; (ii) exact language / allegory / decoding; (iii) motive-specific secrecy audit; (iv) explicit public or contrary evidence; (v) claimed vs documented station; and (vi) provenance of translation / manuscript. See [protocol](../00_METHOD_AND_EVIDENCE/STACK_FIELD_PROTOCOL.md) and [language inquiry](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/README.md).
+
+
+## 10 — THE OUTSIDE: Pressure → Station response (mandatory for all new windows)
+
+- Who or what outside the station applies pressure?
+- What contemporary event or evidence changes the conditions of legitimacy?
+- What precisely is challenged: technique, explanatory theory, ethical standing, legal license, institutional title or reputation?
+- Did the practitioner adapt, resist, leave, acquire another title, publish more openly, or become marginalized?
+- Which operations or knowledge survive under a different station, and which claims are contradicted or rejected?
+- Which words were used *at that time*, and which labels were added much later (e.g. 'pseudoscience')?
+- What text, rule, experiment or institution documents the change and what counterexample remains?
+
+Audit standard: [Outside Pressure](../00_METHOD_AND_EVIDENCE/OUTSIDE_PRESSURE_AUDIT.md).

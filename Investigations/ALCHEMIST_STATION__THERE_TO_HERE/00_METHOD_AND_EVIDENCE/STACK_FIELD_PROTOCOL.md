@@ -30,3 +30,8 @@
 
 ## Completion grades
 **FIRST PASS** = a research container with scholarly anchor/caveats, **SOURCED DETAIL** = verified primary/witness close reading, **CROSSING VERIFIED** = station transition demonstrated by multiple independently controlled sources.
+
+
+## Tenth required layer — THE OUTSIDE
+
+**OUTSIDE PRESSURE → STATION RESPONSE.** The original nine layers remain; every new window must also examine how changing political, institutional, scientific, economic, technological, public and linguistic conditions altered the legitimacy or identity of practitioners. The older 95 windows are **pending retroactive evaluation**, not silently judged complete. See [Outside Pressure protocol](OUTSIDE_PRESSURE_AUDIT.md) and [case study](../10_OUTSIDE_PRESSURES/README.md).
