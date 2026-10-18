@@ -16,6 +16,13 @@
 - **GRADE: original period documentary witnesses as *reported and indexed in a specialist prosopography***; exact Greek readings and physical storage of each papyrus have NOT been re-inspected for this dossier. Therefore do not claim first-hand diplomatic readings or reproduce invented original Greek quotations. The date sequence makes usurper-regnal recognition in Egypt much more secure than the later alchemical suppression tale.
 - **Caution:** the specialist entry notes **all main literary sources** assign rebellion leadership to **Achilleus**, contrasting **Domitianus on actual coins and papyri**. This is not a source conflict to erase; it may reflect successive/simultaneous roles or narrative compression, and political reconstruction remains debated.
 
+## [W25-P02] P.Michael.24 — actual 2 December 297 Tebtynis land lease
+
+- [DDbDP *p.michael.24* transcription/metadata](https://egyptianinscriptions.org/object/139753) and [HGV edition metadata](https://egyptianinscriptions.org/object/39814), **Trismegistos TM 12342**: same document presented as two records, **NOT two independent papyri**. Date **2 December 297**, original Greek papyrus from **Tebtynis (Arsinoites)**. Legal petition of Aurelius Pamoun requesting lease of five grain-producing arouras from Aurelius Herakleides; says tenant provides seed and draught cattle, other terms/obligations. The **second regnal year** establishes local contemporary date context for Domitius Domitianus.
+- **GRADE: ORIGINAL PERIOD GREEK DOCUMENT** through critical edition, with exact HGV date; **NO chemical instructions, professional Alchemist title, identified goldmaking or reference to burning books.** This is a legal-economic counterexample to conflating `year 2` with an alchemical credential.
+- **Source name caution:** `P.Michael.24` (DDbDP `p.michael;;24`) is the explicit edition for this lease. A specialist prosopographical shorthand `P. Mich. 24` must not be confused with an unrelated `P.Michigan` edition without exact bibliographical reconciliation.
+
+
 ## [W25-T01] Sixth/seventh-century narrative of Diocletian burning “alchemy” books: John of Antioch → Suda
 
 - [Suda On Line, Chi 280, **Χημεία** (“alchemy”), Greek transliteration and vetted English translation](https://cs.uky.edu/~raphael/sol/sol-entries/chi/280).
@@ -56,6 +63,12 @@
 - **Leiden X and Stockholm** surviving physical papyri are generally **late third/fourth-century or fourth-century** recipe witnesses; operations include metal coloring/imitation, dyes, stones/glass. **Neither physical manuscript has been pinned with a secure in-document 297 date**. Gold/silver appearance is **not proof of elemental transmutation**.
 - Counterevidence against *universal secrecy* is the existence of written procedural recipes, irrespective of their medieval/modern reception. Do not suggest a “burning” destroyed ALL copies or that surviving texts prove they escaped an order.
 - Differentiating original manufacturing skill from **claims of authentic gold production** requires independent chemical and archaeological evidence; none obtained for an identified 297 alchemical workshop.
+
+## [W25-S06] Sutherland (1955), Diocletian's monetary reform and uncertain sequencing
+
+- C. H. V. Sutherland, “Diocletian’s Reform of the Coinage: a Chronological Note,” *Journal of Roman Studies* **45** (1955), pp.116–118, DOI **10.2307/298751**. [Cambridge journal abstract](https://www.cambridge.org/core/journals/journal-of-roman-studies/article/abs/diocletians-reform-of-the-coinage-a-chronological-note1/FB52386DD903DBE7959EAE7C2F1AD6BC).
+- Reconstructs distinct late-third-century reforms from coin **weight/denomination observations**. Gold standard around **286**, silver issue and large copper **nummus** adoption not all the same date. A coin-weight revision is not evidence of an alchemical success or method and does not prove reform was the **sole cause** of the Egyptian revolt.
+- **GRADE: MODERN NUMISMATIC STUDY**, grounded in original physical minted objects; **not itself a contemporary law**. Before attaching a precise 294/297 policy to a particular Egyptian artisan, find a dated local contemporary record of implementation.
 
 ## Open tests / remainder
 
