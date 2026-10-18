@@ -55,6 +55,10 @@
 | [ST-047](ST-047_ANTINOOPOLIS_130_133__CIVIC_STATION.md) | Egypt, 130–133 CE | Hadrian as city founder; early Antinoites | Emperor grants new civic arrangement | Oct 130 foundation, original 133 settlement papyri | **Legal station ≠ chemistry** |
 | [ST-048](ST-048_ZHANG_HENG_132__SEISMOSCOPE_DESCRIPTION_VS_OBJECT.md) | Eastern Han, 132 CE | Zhang Heng credited as instrument maker | State observation of earthquakes | Later history describes device; original LOST | **Reconstruction ≠ recovered instrument** |
 | [ST-049](ST-049_HADRIAN_SERVIANUS__LATER_FORGED_CRAFT_LETTER.md) | Later Roman reception of alleged 2nd-c Hadrian | Pseudonymous imperial letter attributed to Hadrian | Desire to narrate Alexandrian trades | Late Historia Augusta text on glassworkers and cups | **FORGERY, not genuine Hadrianic evidence** |
+| [ST-050](ST-050_SOKNOPAIOS_159_160__PRIEST_ELIGIBILITY.md) | Roman Egypt, 159–160 CE | Panephremmis priest; Pasis accuser; Soknopaios elders and Roman officials | Enforce ritual dress/grooming and eligibility | Original BGU I 16 oath; investigation outcome missing | **Priestly standing, NOT Alchemist licence** |
+| [ST-051](ST-051_ANTINOOPOLIS_155__WORKSHOP_LEASE.md) | Antinoopolis, 154/155 CE | House/workshop lessee/lessor | Urban property access and production premises | Original P.Tebt. II 613 lists appurtenant workshops | **Specific trade and hands-on capacity UNKNOWN** |
+| [ST-052](ST-052_GALEN_157__GLADIATOR_MEDICAL_STATION.md) | Pergamum, 157 CE | Galen, doctor to gladiators | Recognition of trained medical expertise | Named teachers/study travels and post via self-authored texts | **Doctor, not Alchemist; autobiographical sources** |
+| [ST-053](ST-053_ALEXANDRIA_144_145__DATED_CULT_COIN.md) | Alexandria, 144/145 CE | Antonine mint and unnamed artisans | Recognized coinage and local cult representation | Surviving RPC IV.4 787 coin with year-8 date/Harpocrates | **Material object, no transmutation** |
 
 ## Interpretative pattern at this stage
 - **Authority can be institutionally assigned, revised or defended without creating an alchemical profession.**
@@ -136,3 +140,8 @@ Original granite obelisks dated to **Domitian's eighth year (88/89 CE)** preserv
 **121–140:** A first-person *poetic claim* about a stone's sound survives on physical 130 CE stone, an emperor's *legal founding* of a new polis is shown in original 133 papyri, a Chinese technical machine is *reported much later* for 132, and an alleged Hadrian letter about crafts is demonstrably *forged much later*. [Window 17](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0121-0140_CE__WINDOW.md).
 
 **Rule retained:** Material object / date / speaker / skill / institutional permission / physical outcome / later reception must be audited separately.
+
+
+## Window 18 — 141–160 CE
+
+**Three independently useful stations are visible**: a priest's **eligibility** examined under Roman oversight (BGU I 16, 159/160; surviving oath incomplete), **access to productive premises** under Antinoopolis property law (P.Tebt II 613, 154/155), and a recognized physician's **medical competence/appointment** (Galen, 157, largely from his own later writings). The **144/145 original Alexandrian coin** anchors matter, cult symbolism and imperial issuing authority. **None** verifies a named Alchemist's profession or successful transmutation. [Window 18](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0141-0160_CE__WINDOW.md).

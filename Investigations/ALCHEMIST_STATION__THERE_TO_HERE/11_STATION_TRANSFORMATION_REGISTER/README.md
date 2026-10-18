@@ -126,3 +126,11 @@ Each record must include:
 - [ST-049 Forged 'Hadrian' letter is a late reception trap](ST-049_HADRIAN_SERVIANUS__LATER_FORGED_CRAFT_LETTER.md)
 
 **Now 49 station records**; ST-045 identity contested, ST-049 is retrospective and NOT a contemporaneous 121–140 event.
+
+## Window 18 records — 141–160 CE (2026-10-18)
+- [ST-050: Panephremmis and priestly eligibility inquiry (159–160)](ST-050_SOKNOPAIOS_159_160__PRIEST_ELIGIBILITY.md)
+- [ST-051: Antinoopolis house with workshops (154/155)](ST-051_ANTINOOPOLIS_155__WORKSHOP_LEASE.md)
+- [ST-052: Galen's recognized appointment, physician to gladiators (157)](ST-052_GALEN_157__GLADIATOR_MEDICAL_STATION.md)
+- [ST-053: Antonine Alexandrian dated coin with Harpocrates (144/145)](ST-053_ALEXANDRIA_144_145__DATED_CULT_COIN.md)
+
+**Checkpoint: 53 comparative Station Transformation Records**. These are priestly, legal/workspace, medical and monetary comparison stations—not evidence of a formal 141–160 CE Alchemist occupation.

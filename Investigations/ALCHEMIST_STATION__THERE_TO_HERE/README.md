@@ -217,3 +217,13 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Window 17 language and forged Hadrian audit](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0121-0140__MEMNON_PUBLIC_VOICE_AND_FALSE_HADRIAN_LETTER.md)
 
 **Critical:** Original 130 CE Greek poetry cannot prove divine 'speech'. The 133 papyri confirm a newly established civic station. The *Historia Augusta* 'Hadrian' letter and its color-changing-cup claim is a **late forgery**, not an eyewitness Hadrianic craft record. An alchemical practitioner with a period-dated 121–140 CE original still has NOT been identified.
+
+
+## Window 18 complete — 141–160 CE
+
+- [Window 18: Regulated priest, rented production premises and Galen's medical standing](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0141-0160_CE__WINDOW.md)
+- [Historical source register: period Greek papyri, Alexandrian coin and Galen chronology](08_SOURCE_REGISTER/CE_0141-0160__SOURCE_REGISTER.md)
+- [Language and secrecy audit: distinct thresholds for priests, workshops and physicians](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0141-0160__PRIEST_WORKSHOP_PHYSICIAN.md)
+- [Station Transformation Register ST-050–ST-053](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Historical restriction:** BGU I 16's ending is lost; never assert final guilty verdict or paid fine. P.Tebt. II 613 identifies *workshops* but **no known trade**. Galen's early appointment is reconstructed substantially from his own later testimony, not an extant job contract. None establishes an Antonine Alchemist profession.
