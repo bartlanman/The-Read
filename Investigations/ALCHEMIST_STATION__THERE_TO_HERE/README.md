@@ -172,3 +172,14 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Sources](08_SOURCE_REGISTER/CE_0021-0040__SOURCE_REGISTER.md)
 
 **Research verdict:** later Chinese history credits Nanyang administrator Du Shi in **31 CE** with deploying water-powered bellows for useful iron agriculture tools; artisans unnamed and original apparatus not recovered. Philo's 38 CE account concerns persecution of Alexandrian Jews **not** alchemists. Greek pseudo-Democritus's likely later first-century texts cannot be prematurely placed in 21–40 CE.
+
+
+## Window 13 completed — 41–60 CE
+
+- [Window 13: Greek Pseudo-Democritus dating, secrecy narrative and original 41 CE papyrus](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0041-0060_CE__WINDOW.md)
+- [ST-033: Public Claudius letter from Alexandria](11_STATION_TRANSFORMATION_REGISTER/ST-033_CLAUDIUS_41_CE__PUBLIC_LETTER.md)
+- [ST-034: Candidate Greek alchemical textual station, Pseudo-Democritus](11_STATION_TRANSFORMATION_REGISTER/ST-034_PSEUDO_DEMOCRITUS__DATING_THRESHOLD.md)
+- [Hidden books versus public authority: language case study](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0041-0060__THE_HIDDEN_BOOKS_AND_THE_PUBLIC_LETTER.md)
+- [Source register](08_SOURCE_REGISTER/CE_0041-0060__SOURCE_REGISTER.md)
+
+**Historical warrant:** no original Pseudo-Democritus manuscript or independently named Greek Alchemist is secured in 41–60 CE. Critical dating points broadly to the later first century, **possibly within Nero 54–68**, spanning this and the **61–80 CE** window. The temple column containing Ostanes' alleged books is a **later preserved literary story** of secret transmission, not an excavated fact. The original-period 41 CE papyrus is a strong contrasting example of an institution authorizing *public* dissemination of a document.
