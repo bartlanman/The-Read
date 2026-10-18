@@ -335,3 +335,6 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 **Most profound finding:** institutional authority protects *becoming more capable and educating successors*, not simply recognizing an end-product. This is a direct comparator for how alchemical knowledge could eventually gain a distinct station, but the 337 law does NOT label an Alchemist.
 
 **NEXT — Window 28, 341–360 CE:** review 344 technical education and 340s/350s rituals/divination legal conflicts individually; compare to independently dated alchemical practice without anachronistic synthesis.
+
+
+**Window 27 provenance note:** The repository retains parallel research write-ups for ST-090–ST-094 (two filenames per historical record) and two language analyses. These are **alternative versions, not additional station cases**. The canonical register is ST-001–ST-094; **next record ST-095**, not ST-100. See [Window 27 Canonical and Parallel Deposit Manifest](WINDOW_27__CANONICAL_AND_PARALLEL_DEPOSIT_MANIFEST.md). No alternate drafts were deleted.
