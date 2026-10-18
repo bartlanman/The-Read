@@ -206,3 +206,16 @@ https://preview.wellcomecollection.org/works/mervmpw3
 - [Dufault 2019](https://escholarship.org/uc/item/2ks0g83x) **Zosimos** broadly c.300, cannot be placed in a specifically dated 350s incident; Leiden X/Stockholm broad, Themistius **367** lies in next 361–380 window.
 
 **Source verdict:** **Legislative classification and technical-learning protection ATTESTED in later codified ancient law; independent original coin material ATTESTED; NO SECURELY NAMED 341–360 PROFESSIONAL ALCHEMIST or anti-alchemy repression.** ST-095–099 comparison records each identify a different station/Outside mechanism. Next ST-100.
+
+
+## Window 29 — 361–380 CE: publicly intelligible hypothetical transmutation, not an Alchemist license
+
+[Full W29 research source register](CE_0361-0380__SOURCE_REGISTER.md) controls **W29-T01–T05**, **W29-O01**, and **W29-S01/S02**.
+
+- [Themistius Oration 7, 145.12–146.11, discussed by Dufault 2019 pp.100–102](https://escholarship.org/content/qt2ks0g83x/qt2ks0g83x.pdf) describes hypothetical **bronze→silver→gold** while praising Emperor Valens for reconciling political enemies after 366. Delivery **usually 367, possibly 366/367**, no named actual successful goldmaking.
+- [Julian **17 June 362** schoolteacher approval CTh XIII.3.5](https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh13.html) and [**separate** Julian Greek explanatory letter](https://en.wikisource.org/wiki/The_Works_of_the_Emperor_Julian/Letters/Letter_36) reveal cultural gatekeeping; no proof state recognized an Alchemist teacher.
+- [CTh IX.16.9 **29 May 371**](https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh09.html): `haruspicinam ... maleficiorum` differentiates haruspicy from harmful magic. IX.16.8 `mathematicorum tractatus` has **365 / 370 / 373 contested dating**, not simple once-for-all prohibition.
+- [Ammianus *Res Gestae* XXIX.1–2](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Ammian/29%2A.html): named Antioch alleged political diviners Theodorus/Hilarius and ring-letter `THEOD-`, events **371/372 or 374 disputed**. Later-fourth-century historian, not original trial docket; not a chrysopoeia case.
+- [Valens struck gold Berlin 18202344](https://ikmk.smb.museum/object?id=18202344) **367–375 broad**, and [CJ IV.63.2](https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm) **c.374? gold export restriction** (sixth-century codified law, date not secure) show control of **existing material gold**, not its synthetic creation.
+
+**Source outcome:** The **concept of metallic change** acquires a named public fourth-century witness outside an alchemical manual, while no actual **361–380** authorized Alchemist or transmutation result is established. **Next Window 30 — 381–400, next Station ID ST-105**.
