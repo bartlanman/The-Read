@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — 25 deep-researched historical windows through 300 CE, 85 Station Transformation Records; next window 301–320 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
+Status: **OPEN INVESTIGATION — 26 deep-researched historical windows through 320 CE, 89 Station Transformation Records; next window 321–340 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -307,3 +307,17 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 **Most profound result:** Later historical belief that transformative books were worth suppressing differs from original-period evidence that books were suppressed. Zosimos offers a potentially stronger emerging alchemical intellectual station than the rumored suppression.
 
 **NEXT WINDOW 26 — 301–320 CE:** original and later sources for 303–305 coercion, specific dates of alchemical writing/reader networks, competing claims of legitimate interpretation.
+
+
+## Window 26 — 301–320 CE ten-layer deep-read checkpoint (2026-10-18)
+
+- [Window 26: actual goldworker regulation, 303 Christian scripture persecution, 311/313 status reversals and Zosimos dating](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0301-0320_CE__WINDOW.md)
+- [Original Aphrodisias stone / Lactantius / Eusebius / date-controlled alchemy source register](08_SOURCE_REGISTER/CE_0301-0320__SOURCE_REGISTER.md)
+- [Language, technique, secrecy and access: goldwork versus `chēmeia`; Christian scripture versus Egyptian recipe books](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0301-0320__GOLDWORKERS_SCRIPTURES_AND_AUTHORITY.md)
+- [Station Transformation Register: ST-086–ST-089, total 89](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Concrete positive evidence:** The Roman state publicly regulates gold- and other craft-work in the **301 Price Edict** locally preserved as original Latin stone **at Aphrodisias** (about 40% of a composite c.1,400 price/wage item edict survives there, Crawford et al. 2023). **Different documented event**: **Lactantius and Eusebius** report **303 destruction of CHRISTIAN sacred texts**, not alchemical texts. **311 Galerius** and **313 Licinius** reauthorize worship and property through quoted measures (no original law autograph). **Zosimos c.300** is an earlier positive named alchemical-commentary candidate, but his **301–320** exact dates, government office, results and participation in persecution remain unverified.
+
+**Most profound distinction:** State-sanctioned craftwork, book-targeted persecution, and the authority of a named alchemical exegete are **three separate station mechanisms**. Their spatial and chronological proximity does not establish one persecuted, state-certified Alchemist guild.
+
+**NEXT Window 27 — 321–340 CE:** investigate new Christian imperial privileges and actual economic/workshop texts without projecting later chemical distinctions, school or persecution traditions onto the evidence.
