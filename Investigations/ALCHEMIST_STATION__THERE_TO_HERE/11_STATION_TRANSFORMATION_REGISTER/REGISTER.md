@@ -15,6 +15,10 @@
 | [ST-007](ST-007_HAN_LUAN_DA__113_112_BCE.md) | Han court, c.113–112 BCE | Luan Da, fangshi and former royal workshop officer | Imperial patronage, promise of gold/flood solution, later verification | Awarded seals, offices, fief and marriage; later executed | **Exceptional station created and dissolved**, not demonstrated goldmaking |
 | [ST-008](ST-008_HAN_GONGSUN_QING__STATION_SURVIVAL.md) | Han court, c.113–110 BCE | Gongsun Qing, textual/ritual claims | Failures of earlier specialists and distrust | Retained court standing by relocating proof into delayed signs and ancient lore | Recognized specialist, not proven material alchemist |
 | [ST-009](ST-009_EGYPT_CLEOPATRA_III__105_BCE.md) | Egypt, c.105/104 BCE | Cleopatra III, queen and cult priestly institution | Dynastic contest and inherited office boundaries | Queen serves as eponymous priest | Political/religious station transition, not alchemy |
+| [ST-010](ST-010_HAN_WUGU_91_BCE.md) | Han China, 91 BCE | Court investigators, imperial family, contested ritual accusations | Witchcraft charges and dynastic fear | Political/official stations shattered by investigations | **Not an alchemical guild purge** |
+| [ST-011](ST-011_LUNTAI_89_BCE_SOURCE_CONFLICT.md) | Han China, 89 BCE | Sovereign / policy advisers; older fangshi patronage | War failures, fiscal strain, disputed late narrative | Luntai proposal rejected; later story of total fangshi dismissal CONTESTED | **No secure anti-alchemy edict** |
+| [ST-012](ST-012_SALT_IRON_81_BCE.md) | Han China, 81 BCE | State/private iron and salt producers, literati and officials | Debate over state industry, product quality, public welfare | Court debate represented in later dialogue | **Production jurisdiction contested, not alchemist status** |
+| [ST-013](ST-013_PTOLEMAIC_88_BCE.md) | Ptolemaic Egypt, c.88 BCE | Competing kings and temple-related authority | Dynastic overthrow | Ptolemy IX restored after Ptolemy X removed | **No documented Egyptian alchemical station** |
 
 ## Interpretative pattern at this stage
 - **Authority can be institutionally assigned, revised or defended without creating an alchemical profession.**
@@ -36,3 +40,8 @@ A historically attributable practitioner **who undertakes or claims material tra
 
 ## Window 05 insight
 **The court may build a station with titles, seals and marriage before the promised capacity is independently shown, and revoke it after failure.** Luan explicitly invokes the risk of Shaoweng's execution as a reason experts might keep their arts secret. But this is also a bargaining claim, not evidence of a general anti-alchemy law. See [Window 05](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0120-0101_BCE__WINDOW.md).
+
+
+## Window 06 audit — 100–81 BCE
+
+[Read Window 06](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0100-0081_BCE__WINDOW.md): **judging dangerous claims**, **a contested account of dismissal**, and **a public debate on the control of manufacturing** are different mechanisms. Critical distinction: the alleged 89 BCE expulsion of fangshi is in the much later *Zizhi tongjian*, not the *Hanshu*'s Luntai edict; avoid turning a historical narrative of the end of a station into evidence of its actual disappearance.

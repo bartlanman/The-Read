@@ -42,3 +42,11 @@ Each record must include:
 **Current status:** ST-004 Li Shaojun (c.133 BCE) now has a source-critical record showing socially recognized transformative claims but *no proven goldmaking*. ST-005 Liu An (139–122 BCE) tracks separate elite patronage and the limits of lost textual attributions. **Next window:** 120–101 BCE.
 
 **Window 05 completed (2026-10-18):** Shaoweng, Luan Da, and Gongsun Qing provide narrative evidence of danger, self-protective language, patron-created status, verification, executions, and continuing demand for specialists. Cleopatra III independently demonstrates an institutional station's altered eligibility in Ptolemaic Egypt. Do not confuse these two lineages or claim that the alchemical promise succeeded.
+
+## Window 06 register additions (2026-10-18)
+- [ST-010: The 91 BCE witchcraft crisis](ST-010_HAN_WUGU_91_BCE.md)
+- [ST-011: The contested 89 BCE dismissal story](ST-011_LUNTAI_89_BCE_SOURCE_CONFLICT.md)
+- [ST-012: 81 BCE salt and iron production controversy](ST-012_SALT_IRON_81_BCE.md)
+- [ST-013: Egyptian succession c.88 BCE](ST-013_PTOLEMAIC_88_BCE.md)
+
+**Next individual alchemical authority candidates:** Pseudo-Democritus and Zosimos after detailed re-dating, tentatively ST-014 onward. Do not assign numbers that conflict with real deposited records.

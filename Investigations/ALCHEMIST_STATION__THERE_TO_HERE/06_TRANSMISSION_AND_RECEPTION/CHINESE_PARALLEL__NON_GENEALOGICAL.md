@@ -38,3 +38,8 @@ See [Window 04](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0140-0121_BCE__WI
 ## Window 05 — Court danger, rank and restricted methods (c.113–110 BCE)
 
 Shiji 28 reports that Luan Da argued other fangshi would fall silent if they met the execution suffered by Shaoweng. He demanded recognized guest status, seals and elite ties to become a credible envoy of extraordinary methods. Emperor Wu granted privileges, later investigated his claims and had him executed. After Luan's rise numerous people reportedly claimed secret arts. **This is evidence for a social and political *use of secrecy language*, not for verified transmutation.** See [Window 05](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0120-0101_BCE__WINDOW.md) and [ST-007](../11_STATION_TRANSFORMATION_REGISTER/ST-007_HAN_LUAN_DA__113_112_BCE.md).
+
+
+## Window 06 — 100–81 BCE: from extraordinary claim to public economic argument
+
+The *Hanshu*'s 91 BCE witchcraft affair concerns court accusations and destruction, **not a general trial of alchemical workers**. The 89 BCE Luntai edict is about costly military policy; *Zizhi tongjian* later describes a broad purge of immortality-seeking *fangshi*, but this dramatic episode is contested by source critics. In **81 BCE** the court debates the state monopoly on **iron and salt**, a significant change in the public scrutiny of material productive authority. These are **three different kinds of outside pressure**. See [Window 06](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0100-0081_BCE__WINDOW.md) and [sources](../08_SOURCE_REGISTER/0100-0081_BCE__SOURCE_REGISTER.md).

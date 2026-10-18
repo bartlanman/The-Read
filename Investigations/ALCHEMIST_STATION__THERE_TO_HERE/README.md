@@ -102,3 +102,12 @@ New strongly documented (within a retrospective historical narrative) distinctio
 - [Deep read: Window 05](02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0120-0101_BCE__WINDOW.md)
 - [Station records ST-006–ST-009](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
 - [Source register](08_SOURCE_REGISTER/0120-0101_BCE__SOURCE_REGISTER.md)
+
+
+## Deep read checkpoint — Window 06
+
+- [100–81 BCE: Court accusations, the Luntai edict, and the Salt–Iron debate](02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0100-0081_BCE__WINDOW.md)
+- [ST-010 through ST-013](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Source register](08_SOURCE_REGISTER/0100-0081_BCE__SOURCE_REGISTER.md)
+
+**Verified caution:** 89 BCE *fangshi* dismissal is a contested **later chronicle** claim, not an explicit clause of the *Hanshu* Luntai edict. Real salt and iron production controversy is not proof of ancient gold transmutation.
