@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — 27 deep-researched historical windows through 340 CE, 94 Station Transformation Records; next window 341–360 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
+Status: **OPEN INVESTIGATION — 28 deep-researched historical windows through 360 CE, 99 Station Transformation Records; next window 361–380 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -337,4 +337,16 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 **NEXT — Window 28, 341–360 CE:** review 344 technical education and 340s/350s rituals/divination legal conflicts individually; compare to independently dated alchemical practice without anachronistic synthesis.
 
 
-**Window 27 provenance note:** Overlapping deposits briefly created alternate files for ST-090–ST-094 and an alternate language analysis. Those six redundant active files were subsequently **removed from the working tree, but remain recoverable in Git history**; the canonical register links one live file per record number. The distinct total is **94**, and the next is **ST-095**. See [Window 27 Canonical Deposit and Reconciliation Manifest](WINDOW_27__CANONICAL_AND_PARALLEL_DEPOSIT_MANIFEST.md).
+**Window 27 provenance note:** Overlapping deposits briefly created alternate files for ST-090–ST-094 and an alternate language analysis. Those six redundant active files were subsequently **removed from the working tree, but remain recoverable in Git history**; the canonical register links one live file per record number. That was the **Window 27 checkpoint of 94**; **Window 28 now has 99 distinct IDs** and the next is **ST-100**. See [Window 27 Canonical Deposit and Reconciliation Manifest](WINDOW_27__CANONICAL_AND_PARALLEL_DEPOSIT_MANIFEST.md).
+
+
+## Window 28 deep-read checkpoint — 341–360 CE (2026-10-18)
+
+- [Full ten-layer investigation on protected geometers vs forbidden diviners and ritual claims](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0341-0360_CE__WINDOW.md)
+- [344/357 Latin laws, temple dating controversy and original 351–355 copper coin — source register](08_SOURCE_REGISTER/CE_0341-0360__SOURCE_REGISTER.md)
+- [Language/access and secrecy: `geometra` ≠ `mathematicus` astrologer; `elementa turbare` is a legal accusation](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0341-0360__GEOMETRAS_MATHEMATICI_AND_LEGAL_ACCESS.md)
+- [Station Transformation Register ST-095–ST-099, total 99](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Most significant distinction:** government **344** legislation publicly protects instructors who can do practical engineering and water measurement; government **357–358** law threatens court/ritual prognosticators (`mathematici`, `haruspices`, `magi`). Sources classify **different actions and social audiences**, not a generic “mathematics” profession changing from legal to illegal. **342/346 and 346/354 temple-law dates remain CONTESTED.** A threat in a **later codification** does not prove an actual case against a chemical practitioner. No original 341–360 professionally named Alchemist identified.
+
+**Next Window 29 (361–380 CE):** test Julian's policy and **Themistius's 367 metallic transmutation language** against composition and surviving witness, not backdate to 357. **Next ID ST-100.**
