@@ -161,3 +161,14 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Window 11 sources](08_SOURCE_REGISTER/CE_0001-0020__SOURCE_REGISTER.md)
 
 **Explicit guard:** pseudo-Democritus's first-century composition is broad and critical dating points after the period 1–20 CE; do not treat him as a secure window-11 contemporary.
+
+
+## Window 12 — 21–40 CE deep-read checkpoint
+
+- [Window 12: Du Shi, water-driven iron foundries and Roman Alexandrian civic crisis](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0021-0040_CE__WINDOW.md)
+- [ST-031: Du Shi and the problem of whose invention gets named](11_STATION_TRANSFORMATION_REGISTER/ST-031_DU_SHI__31_CE_WATER_BELLOWS.md)
+- [ST-032: Alexandria, 38 CE, independent civic-exclusion comparator only](11_STATION_TRANSFORMATION_REGISTER/ST-032_ALEXANDRIA_38_CE__CIVIC_STATUS_NOT_ALCHEMY.md)
+- [Material technique and official credit: language study](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0021-0040__CREDIT_AND_MATERIAL_CAPACITY.md)
+- [Sources](08_SOURCE_REGISTER/CE_0021-0040__SOURCE_REGISTER.md)
+
+**Research verdict:** later Chinese history credits Nanyang administrator Du Shi in **31 CE** with deploying water-powered bellows for useful iron agriculture tools; artisans unnamed and original apparatus not recovered. Philo's 38 CE account concerns persecution of Alexandrian Jews **not** alchemists. Greek pseudo-Democritus's likely later first-century texts cannot be prematurely placed in 21–40 CE.
