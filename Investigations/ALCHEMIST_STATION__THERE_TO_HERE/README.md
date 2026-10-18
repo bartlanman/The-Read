@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — 23 deep-researched historical windows through 260 CE, 78 Station Transformation Records; next window 261–280 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
+Status: **OPEN INVESTIGATION — 24 deep-researched historical windows through 280 CE, 81 Station Transformation Records; next window 281–300 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -279,3 +279,17 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 **Strongest witnesses:** original **RPC VIII 3329 (248/249)** and distinct original **P.Oxy. IV 658 (14 June 250)** / **P.Mich. III 157 (17 June 250)**. These establish material issue and institutional certification of public ritual, not certified gold-transmutation. The late-antique “Egyptian Magi” accusation is a transmitted polemical label, not evidence of an actual 250s alchemical guild or persecution. **NO SECURE 241–260 CE ALCHEMIST FOUND**; the later Greek alchemical manuscript tradition must not be backdated. Gallienus's post-Valerian religious restitution is **260/after**, not confidently pinned within this twenty-year interval.
 
 **NEXT WINDOW 24 — 261–280 CE:** prioritize the 276 verso will on Africanus's broadly dated papyrus and investigate the earliest independently dateable witnesses connecting a named alchemical writer, actual operation, teaching and recognized social station. Preserve China's separate lineage and the remainder.
+
+
+## Window 24 deep-read checkpoint — 261–280 CE (2026-10-18)
+
+- [Full ten-layer evidence-controlled Window 24: Alexandrian monetary authority, tooled Zenobia date, reused Africanus manuscript](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0261-0280_CE__WINDOW.md)
+- [Source register: Ashmolean/RPC original coins, BL Papyrus 2040/276 will, explicit copy-date controls](08_SOURCE_REGISTER/CE_0261-0280__SOURCE_REGISTER.md)
+- [Language/technique/secrecy: public titles, alloy vs transmutation, `L E` vs tooled `L Δ`, original roll/verso reuse](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0261-0280__METAL_AUTHORITY_AND_REUSED_TEXT.md)
+- [Station Transformation Register ST-079–ST-081; 81 indexed records](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Strongest original-period witnesses:** **Gallienus Alexandria coin HCR31547 263/264**, **Aurelian/Vaballathus HCR31960 270/271**, **Zenobia's 272 type RPC X 75758**, **Aurelian 273/274 RPC X 75719**, and **276 will on reverse of *Kestoi* Book 18, BL Papyrus 2040**. The latter is ONE physical document with two distinct uses; the *Kestoi* Book 18 recto is palaeographically dated 225–275/276 and does not contain the separate transmitted geometrical ingredient substitutions. The Zenobia specimen **HCR32033** is cataloged **TOOLED**, reversing a sign after striking: do not infer an original year-four issue from its present `L Δ`.
+
+**Historical warrant:** public political and legal stations visibly change in the material record, but **no 261–280 named Alchemist, proven elemental gold transmutation, destroyed anti-alchemy library, or alchemical persecution is documented**. The original object need not have retained its original inscribed state across time.
+
+**NEXT WINDOW 25 — 281–300 CE:** date-check Diocletian gold/silver book-burning story, early Zosimos commentary and technical recipes; do not treat later literary retrospective as contemporary order.
