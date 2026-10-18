@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — 28 deep-researched historical windows through 360 CE, 99 Station Transformation Records; next window 361–380 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
+Status: **OPEN INVESTIGATION — 29 deep-researched historical windows through 380 CE, 104 Station Transformation Records; next window 381–400 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -350,3 +350,17 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 **Most significant distinction:** government **344** legislation publicly protects instructors who can do practical engineering and water measurement; government **357–358** law threatens court/ritual prognosticators (`mathematici`, `haruspices`, `magi`). Sources classify **different actions and social audiences**, not a generic “mathematics” profession changing from legal to illegal. **342/346 and 346/354 temple-law dates remain CONTESTED.** A threat in a **later codification** does not prove an actual case against a chemical practitioner. No original 341–360 professionally named Alchemist identified.
 
 **Next Window 29 (361–380 CE):** test Julian's policy and **Themistius's 367 metallic transmutation language** against composition and surviving witness, not backdate to 357. **Next ID ST-100.**
+
+
+## Window 29 deep-read checkpoint — 361–380 CE (2026-10-18)
+
+- [Complete ten-layer dossier: Themistius 366/367, Julian 362, 371 haruspicy, Antioch divination, late Roman gold](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0361-0380_CE__WINDOW.md)
+- [Original author/later manuscript and legal-code source register](08_SOURCE_REGISTER/CE_0361-0380__SOURCE_REGISTER.md)
+- [Language/technique/secrecy: Themistius hypothetical metal shift versus documented political and economic transformations](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0361-0380__THEMISTIUS_JULIAN_AND_DIVINATION.md)
+- [ST-100–ST-104 station comparisons, cumulative 104](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Core source:** [Dufault 2019](https://escholarship.org/content/qt2ks0g83x/qt2ks0g83x.pdf), pp.100–102 and **Themistius Oration 7 145.12–146.11**. A genuinely ancient public speaker describes **hypothetical bronze→silver→gold** as a political analogy (Valens's clemency); this is **not a contemporary workshop claim or a successfully demonstrated event**. Date usually **367**, some ambiguity **366/367**. Julian's 362 teacher approval (via later Theodosian Code), distinct religious explanatory letter, Valens succession-divination trials (Ammianus, c.371/372 or 374), **371** harmless-haruspicina statutory distinction, and original gold coins / contested c.374 export controls are **separate social authorities**.
+
+**Most profound finding:** public intelligibility of an extraordinary transformation is not itself public recognition or competence of a practitioner. **No named 361–380 state-authorized Alchemist and no proof of successful elemental conversion**.
+
+**NEXT Window 30 — 381–400 CE**, including Greek alchemical commentator attribution problems Olympiodorus/Synesius and state policies. **Next record ST-105.**
