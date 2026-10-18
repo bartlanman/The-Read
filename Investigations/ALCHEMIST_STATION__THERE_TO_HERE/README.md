@@ -41,3 +41,12 @@ Start with **200 BCE–400 CE** in uninterrupted 20-year intervals to examine th
 A dated window is a research container, *not* proof of an event. No source = no positive historical claim. Preserve competing chronologies, and mark the differences between a text's presumed composition, its earliest surviving manuscript, the writer's claimed antiquity, and its later reception.
 
 This project begins as a scaffold. Prior discussion supplies questions and candidate leads; none is silently promoted into a verified repository fact.
+
+
+## Cross-cutting research question — secrecy and authorization
+
+Secrecy is not presumed intrinsic to alchemy. For every 20-year window investigate whether restricted access was due to state/temple authority, fear of punishment, trade value, the need for practiced capability, physical or claimed spiritual danger, prestige/legitimacy, or accidental textual opacity. Multiple mechanisms may overlap. A later story is **not** contemporary proof.
+
+- [Why was the knowledge secret? — hypothesis register](03_PERCEPTION_AND_STATION/SECRECY__COMPETING_CAUSES.md)
+- [Secrecy evidence protocol](00_METHOD_AND_EVIDENCE/SECRECY_AUDIT_PROTOCOL.md)
+- [Secrecy source register](08_SOURCE_REGISTER/SECRECY__SOURCE_REGISTER.md)

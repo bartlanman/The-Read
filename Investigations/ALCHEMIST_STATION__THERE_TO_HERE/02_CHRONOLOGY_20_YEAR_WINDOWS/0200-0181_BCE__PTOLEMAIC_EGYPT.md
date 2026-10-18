@@ -96,3 +96,12 @@ See ../08_SOURCE_REGISTER/0200-0181_BCE__SOURCE_REGISTER.md for [P01–P04, S01�
 
 ## Research status
 **First pass complete, not a closed thesis.** Next chronological window: **180–161 BCE**. Continue pursuing evidence for craft-station boundaries and keep text composition separate from later manuscript transmission.
+
+
+## Secrecy audit — added 2026-10-18
+
+**Do not conflate temple authority with secret alchemy.** This period's Memphis and Philae decrees publicly advertise priestly titles, ritual privileges and material interests; they provide **no secure direct evidence** of a secret alchemical station, a concealed transmutation curriculum, punishment for independent alchemists, or danger-based qualification.
+
+The six competing explanations (institutional monopoly, persecution, economic value, required capability, danger, prestige) are **UNVERIFIED for alchemical practice in 200–181 BCE**. In this window the contrast between institutional recordkeeping and later secrecy narratives is a question, *not an inferred continuous genealogy*.
+
+See [secrecy hypothesis register](../03_PERCEPTION_AND_STATION/SECRECY__COMPETING_CAUSES.md); [secrecy source register](../08_SOURCE_REGISTER/SECRECY__SOURCE_REGISTER.md). Zosimos's later account of ancient Egyptian royal restriction must be treated as retrospective testimony, not direct documentation for this interval.

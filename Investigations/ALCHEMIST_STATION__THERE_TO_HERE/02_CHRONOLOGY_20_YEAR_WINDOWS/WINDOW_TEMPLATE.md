@@ -34,3 +34,18 @@ Names, relations, sources, and whether relationships are attested or only inferr
 - Primary sources with exact passages and editions:
 - Secondary scholarly sources:
 - Direct manuscript or catalog witnesses:
+
+
+## Secrecy, access, qualification and danger — required audit
+Refer to [the secrecy protocol](../00_METHOD_AND_EVIDENCE/SECRECY_AUDIT_PROTOCOL.md). Leave **NO SECURE EVIDENCE** rather than infer a secret from a gap.
+
+- **What is kept secret (if anything)?**
+- **Who controls or conceals it; who is excluded?**
+- **Institutional custody or independent practitioner's survival?**
+- **Contemporary evidence for penalty, suppression or persecution?**
+- **Economic/political value and who benefits?**
+- **Required practical capacity, training or interpretive judgment?**
+- **Physical hazard vs. *claimed* spiritual/moral danger?**
+- **Secrecy as prestige, authority claim, gatekeeping or stage of initiation?**
+- **What procedures, names or teachings are demonstrably public?**
+- **Source date vs narrated period; contrary evidence; verdict by category?**
