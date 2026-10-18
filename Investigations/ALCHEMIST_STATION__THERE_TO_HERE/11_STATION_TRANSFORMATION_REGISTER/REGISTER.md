@@ -59,6 +59,11 @@
 | [ST-051](ST-051_ANTINOOPOLIS_155__WORKSHOP_LEASE.md) | Antinoopolis, 154/155 CE | House/workshop lessee/lessor | Urban property access and production premises | Original P.Tebt. II 613 lists appurtenant workshops | **Specific trade and hands-on capacity UNKNOWN** |
 | [ST-052](ST-052_GALEN_157__GLADIATOR_MEDICAL_STATION.md) | Pergamum, 157 CE | Galen, doctor to gladiators | Recognition of trained medical expertise | Named teachers/study travels and post via self-authored texts | **Doctor, not Alchemist; autobiographical sources** |
 | [ST-053](ST-053_ALEXANDRIA_144_145__DATED_CULT_COIN.md) | Alexandria, 144/145 CE | Antonine mint and unnamed artisans | Recognized coinage and local cult representation | Surviving RPC IV.4 787 coin with year-8 date/Harpocrates | **Material object, no transmutation** |
+| [ST-054](ST-054_GALEN_162_166__PUBLIC_ANATOMY_AND_DEMONSTRATION.md) | Rome, 162–166 CE | Galen, public medical anatomist | Elite medical competition, pressure to demonstrate | Self-authored accounts of public anatomical/nerve interventions | **Displayed bodily effect, not alchemical goldmaking** |
+| [ST-055](ST-055_ANTONINE_EPIDEMIC_165_180__EXPERTISE_LIMIT.md) | Roman Empire, c.165–180+ | Galen and other medical practitioners | Epidemic, imperial/military movement | Ancient illness testimony, modern disagreement on pathogen | **Real disease; exact cause NOT secured** |
+| [ST-056](ST-056_GALEN_176_180__THERIAC_IMPERIAL_MEDICINE.md) | Imperial Rome, 176–180 CE | Galen as court physician/compounder | Imperial trust and special medicaments | Theriac preparation in Oxford reconstruction of Galen corpus | **Material compounding, not demonstrated universal antidote** |
+| [ST-057](ST-057_AVIDIUS_CASSIUS_175__PAPYRUS_ACCESSION.md) | Roman Egypt, April 175 CE | Prefect Calvisius Statianus and imperial claimant Avidius Cassius | Succession fear, short-lived political usurpation | Original damaged Greek P.Amst. I 27 edict | **Public recognition can expire; NOT Alchemist station** |
+| [ST-058](ST-058_BOUKOLOI_172_173__REVOLT_NOT_ALCHEMY.md) | Egyptian Delta, c.172–173 CE | Rural communities/rebels and Roman authorities | Agrarian, hydrological, fiscal and political pressures | Later hostile narratives, modern revision | **Real unrest, no alchemical persecution demonstrated** |
 
 ## Interpretative pattern at this stage
 - **Authority can be institutionally assigned, revised or defended without creating an alchemical profession.**
@@ -145,3 +150,8 @@ Original granite obelisks dated to **Domitian's eighth year (88/89 CE)** preserv
 ## Window 18 — 141–160 CE
 
 **Three independently useful stations are visible**: a priest's **eligibility** examined under Roman oversight (BGU I 16, 159/160; surviving oath incomplete), **access to productive premises** under Antinoopolis property law (P.Tebt II 613, 154/155), and a recognized physician's **medical competence/appointment** (Galen, 157, largely from his own later writings). The **144/145 original Alexandrian coin** anchors matter, cult symbolism and imperial issuing authority. **None** verifies a named Alchemist's profession or successful transmutation. [Window 18](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0141-0160_CE__WINDOW.md).
+
+
+## Window 19 — 161–180 CE
+
+**Practical demonstration, medical risk, compounding, and state proclamation come apart.** Galen's visible anatomy demonstrations (162–166) provide an effect for spectators, but are sourced mainly in his interested first-person narrative. The Antonine epidemic reveals severe limits of diagnosis—the supposed modern pathogen is disputed. Galen's preparation of theriac for Marcus Aurelius (176–180) is recognizable **pharmaceutical practice**, not verified universal efficacy. The damaged original **April 175 P.Amst. I 27** shows prefect Calvisius Statianus publicly proclaiming Avidius Cassius emperor, even though the claimant's station soon disappears. Boukoloi violence is **not** an anti-alchemical purge. [Window 19](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0161-0180_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0161-0180__SOURCE_REGISTER.md).

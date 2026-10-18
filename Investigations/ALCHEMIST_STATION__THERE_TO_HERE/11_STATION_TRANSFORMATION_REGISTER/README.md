@@ -134,3 +134,12 @@ Each record must include:
 - [ST-053: Antonine Alexandrian dated coin with Harpocrates (144/145)](ST-053_ALEXANDRIA_144_145__DATED_CULT_COIN.md)
 
 **Checkpoint: 53 comparative Station Transformation Records**. These are priestly, legal/workspace, medical and monetary comparison stations—not evidence of a formal 141–160 CE Alchemist occupation.
+
+## Window 19 — 161–180 CE (2026-10-18)
+- [ST-054: Galen's 162–166 public anatomical demonstrations](ST-054_GALEN_162_166__PUBLIC_ANATOMY_AND_DEMONSTRATION.md)
+- [ST-055: Antonine epidemic and bounded medical expertise](ST-055_ANTONINE_EPIDEMIC_165_180__EXPERTISE_LIMIT.md)
+- [ST-056: Galen's imperial theriac preparation, 176–180](ST-056_GALEN_176_180__THERIAC_IMPERIAL_MEDICINE.md)
+- [ST-057: April 175 original papyrus proclaiming Avidius Cassius](ST-057_AVIDIUS_CASSIUS_175__PAPYRUS_ACCESSION.md)
+- [ST-058: Boukoloi uprising, not alchemical repression](ST-058_BOUKOLOI_172_173__REVOLT_NOT_ALCHEMY.md)
+
+**Checkpoint: 58 Station Transformation Records.** All comparative, not evidence of a professionally named 161–180 Alchemist. Ancient epidemic pathogen unverified.

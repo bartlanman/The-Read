@@ -227,3 +227,13 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Station Transformation Register ST-050–ST-053](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
 
 **Historical restriction:** BGU I 16's ending is lost; never assert final guilty verdict or paid fine. P.Tebt. II 613 identifies *workshops* but **no known trade**. Galen's early appointment is reconstructed substantially from his own later testimony, not an extant job contract. None establishes an Antonine Alchemist profession.
+
+
+## Window 19 — 161–180 CE deep-read checkpoint
+
+- [Window 19: Galen demonstration, plague uncertainty, theriac, original 175 papyrus](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0161-0180_CE__WINDOW.md)
+- [Station Transformation Register ST-054–ST-058](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Language/technique audit: physiological demonstration, compound and official proclamation](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0161-0180__DEMONSTRATION_COMPOUND_AND_PROCLAMATION.md)
+- [Historical source register](08_SOURCE_REGISTER/CE_0161-0180__SOURCE_REGISTER.md)
+
+**Warrant:** a demonstrable bodily effect is different from its narrator's whole theory; an epidemic is real even if its precise pathogen remains unknown; a professionally mixed antidote is not proof of universal efficacy; a prefect can publicly proclaim an emperor whose reign ends within months. **No 161–180 Greek Alchemist office proved.**
