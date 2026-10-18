@@ -151,3 +151,17 @@ https://preview.wellcomecollection.org/works/mervmpw3
 - **Diocletian's later alleged destruction of gold/silver writing belongs to Window 25 only after checking earliest extant testimony**. Leiden X/Stockholm and Zosimos dates cannot be narrowed to 261–280 based on overlap alone.
 
 **Verdict:** NO SECURE ALCHEMIST identified in this period's inspected original witnesses; mint and legal-documentary changes are comparator stations, not demonstrated origins of alchemy.
+
+
+## Window 25 — 281–300 CE: original political witnesses versus late alchemical persecution allegation
+
+**Full [CE_0281-0300__SOURCE_REGISTER](CE_0281-0300__SOURCE_REGISTER.md)**: `W25-O01`, `W25-P01/P02`, `W25-T01`, `W25-S01–S06`.
+
+- **Original 297 records**: [*Prosopography of the Later Roman Empire* Domitius Domitianus](https://connectinglateantiquities.org/text.html?id=plre-1-domitianus-6), indexing **P.Isid.139, 99, 62, P.Thead.26** and others; [*P.Michael.24* original 2 December 297 land lease edition](https://egyptianinscriptions.org/object/139753). Distinguish original regnal dating from later Achilleus-centered narratives.
+- **Original 297/298 coins** [RPC X 76414](https://rpc.ashmus.ox.ac.uk/type/76414) and [76417](https://rpc.ashmus.ox.ac.uk/type/76417): `ΔΟΜΙΤΙΑΝΟϹ ϹΕΒ`, `L Β`, state title and metal; **not goldmaking**.
+- **Late narrative of alleged Diocletian book-burning**: [*Suda* Chi 280](https://cs.uky.edu/~raphael/sol/sol-entries/chi/280) / [Delta 1156](https://www.cs.uky.edu/~raphael/sol/sol-entries/delta/1156), drawing on **John of Antioch c.610–626** (Dufault 2019 pp.94–95); no contemporary original 297 edict/confiscation/identified burned text. These Suda entries are **not two independent attestations of historical action**.
+- **Zosimos around 300**: [Dufault 2019](https://escholarship.org/uc/item/2ks0g83x), chapter 6, and [Cambridge *Alchemy Reader*](https://www.cambridge.org/core/books/abs/alchemy-reader/zosimos-of-panopolis-fl-c-300-ad-of-virtue-lessons-13/0FD98882E6321A144B49317EFDB33647); independently nameable technical commentator, transmitted chiefly medieval Greek MSS, Theosebeia patroness and Neilos rival **as narrated**. Cross-window c.300, **not a dated 299 event or state license**.
+- **Material recipe horizon**: [Cambridge *Alchemy Reader*, Leiden X/Stockholm](https://www.cambridge.org/core/books/abs/alchemy-reader/anonymous-late-third-century-ad-from-leyden-papyrus-x-and-the-stockholm-papyrus/B9648991C8B475894FB7F48982B151F4). Late-third-century / early-fourth-century copying estimate, not a dated 297 original contract or successful elemental transmutation.
+- **Different legal matter:** possible Diocletian anti-Manichaean rescript in *Collatio legum* 15.3 debated **297 vs 302**, must not be conflated with Suda narrative or 303 Christian persecution (next window).
+
+**Status:** The revolt's public station ATTESTED; claimed Diocletianic suppression of alchemical books RETROSPECTIVE/UNVERIFIED; Zosimos named alchemical-commentary station c.300 SOURCE-SUPPORTED, precise window chronology UNKNOWN.
