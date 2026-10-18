@@ -47,6 +47,14 @@
 | [ST-039](ST-039_DOMITIAN_93_94_CE__PHILOSOPHERS_NOT_ALCHEMISTS.md) | Rome/Italy, c.93–94 CE | Roman philosophers and aristocratic networks | Domitian political suspicion, repression | Philosophers expelled, some punished; categories disputed | **NOT evidence of persecution of alchemists** |
 | [ST-040](ST-040_DOMITIAN_96_CE__HIEROGLYPHIC_MEMORY_SURVIVES.md) | Italy/Rome, 96 CE | Emperor's memorial names; readers of Latin/Greek/Egyptian | Postassassination Senate memory-erasure order | Egyptian cartouches on Benevento obelisks survive | **Public text preserved through unreadability / uneven erasure, cause not proved** |
 | [ST-041](ST-041_GAN_YING_97_CE__CONTACT_NOT_LINEAGE.md) | Han western regions, 97 CE | Ban Chao's envoy Gan Ying, Da Qin as distant referent | Imperial diplomacy and intermediaries | Mission traveled far west but did not reach Rome | **No actual Greek–Han alchemy lineage evidenced** |
+| [ST-042](ST-042_RUTILIUS_LUPUS_110_CE__BRICKSTAMP.md) | Rome, 110/116 CE | M. Rutilius Lupus brickworks owner | Industrial production | Original dated stamps; workers unnamed | **Owner ≠ artisan** |
+| [ST-043](ST-043_RUTILIUS_LUPUS_113_117__PREFECT_PAPYRUS.md) | Egypt, 113–117 CE | Rutilius Lupus provincial prefect | Administration and property disputes | Original P.Brem. 4 Greek petition | **Office ≠ chemical skill** |
+| [ST-044](ST-044_EGYPT_115_117__WAR_AND_DOCUMENTARY_RUPTURE.md) | Egypt, 115–117 CE | Jewish communities, Roman authorities | Real anti-Jewish attacks, uprising and military suppression | Family letters and papyri preserve disruption | **Not proven anti-alchemy persecution** |
+| [ST-045](ST-045_BENEVENTO_TO_PREFECT__IDENTITY_WATCH.md) | Italy→Egypt, 88/89–117 CE | Benevento dedicator vs possible namesake official | Intellectual pressure to link similar names | Same-person proposal **UNVERIFIED** | **No proven alchemical station** |
+| [ST-046](ST-046_MEMNON_BALBILLA_130_CE__STONE_AND_INTERPRETER.md) | Thebes, Nov 130 CE | Julia Balbilla interprets sounding stone | Emperor's visit and Greek mythic prestige | Original dated Greek epigrams on sculpture | **Stone sound ≠ divine proof** |
+| [ST-047](ST-047_ANTINOOPOLIS_130_133__CIVIC_STATION.md) | Egypt, 130–133 CE | Hadrian as city founder; early Antinoites | Emperor grants new civic arrangement | Oct 130 foundation, original 133 settlement papyri | **Legal station ≠ chemistry** |
+| [ST-048](ST-048_ZHANG_HENG_132__SEISMOSCOPE_DESCRIPTION_VS_OBJECT.md) | Eastern Han, 132 CE | Zhang Heng credited as instrument maker | State observation of earthquakes | Later history describes device; original LOST | **Reconstruction ≠ recovered instrument** |
+| [ST-049](ST-049_HADRIAN_SERVIANUS__LATER_FORGED_CRAFT_LETTER.md) | Later Roman reception of alleged 2nd-c Hadrian | Pseudonymous imperial letter attributed to Hadrian | Desire to narrate Alexandrian trades | Late Historia Augusta text on glassworkers and cups | **FORGERY, not genuine Hadrianic evidence** |
 
 ## Interpretative pattern at this stage
 - **Authority can be institutionally assigned, revised or defended without creating an alchemical profession.**
@@ -119,3 +127,12 @@ Pliny's first-century text describes a **real craft/test distinction**: gilding 
 
 ## Window 15 — 81–100 CE
 Original granite obelisks dated to **Domitian's eighth year (88/89 CE)** preserve his hieroglyphic names even after a later Roman account says the Senate ordered imperial memorial erasure in **96 CE**. The survivorship of difficult-to-read public script is material fact; **deliberate protection against that later order is not evidenced**. Persecution of philosophers **c.93–94 CE** must not be repackaged as anti-alchemy persecution. Gan Ying's **97 CE** aborted mission is a *contact horizon*, not a proof of transmitted alchemical recipes. [Window 15](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0081-0100_CE__WINDOW.md).
+
+
+## Windows 16–17 — 101–140 CE
+
+**101–120:** Dated industrial brick stamps and a period Greek prefectural petition both refer to M. Rutilius Lupus, while possible identification with Benevento's 88/89 sacred benefactor remains *UNVERIFIED*. The 115–117 conflict's severe harm to Jewish communities is real but is NOT evidence Maria the Jewess practiced alchemy or was persecuted at that time. [Window 16](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0101-0120_CE__WINDOW.md).
+
+**121–140:** A first-person *poetic claim* about a stone's sound survives on physical 130 CE stone, an emperor's *legal founding* of a new polis is shown in original 133 papyri, a Chinese technical machine is *reported much later* for 132, and an alleged Hadrian letter about crafts is demonstrably *forged much later*. [Window 17](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0121-0140_CE__WINDOW.md).
+
+**Rule retained:** Material object / date / speaker / skill / institutional permission / physical outcome / later reception must be audited separately.

@@ -68,3 +68,8 @@ Wang Mang's Xin rule ended in **23 CE**; Eastern Han was established in **25 CE*
 ## Window 15 — 97 CE: attempted contact with Da Qin, not demonstrated technical transmission
 
 The *Hou Hanshu* (fifth-century compilation of earlier events) says **Ban Chao sent Gan Ying in 97 CE** to learn about **Da Qin**, normally read as the Roman world. He reached **Tiaozhi** near a sea, variously reconstructed in/around the Persian Gulf, but **never reached Rome**. This establishes a historical **geographical contact horizon** and mediation through western peoples. **It does not establish shared Chinese/Greek chemical recipes, traveling alchemical masters, direct institutional collaboration, or any actual apprenticeship**. Keep Han and Greco-Egyptian alchemical station formation **NON-GENEALOGICAL** until contemporary matching sources appear. [Window 15](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0081-0100_CE__WINDOW.md) · [ST-041](../11_STATION_TRANSFORMATION_REGISTER/ST-041_GAN_YING_97_CE__CONTACT_NOT_LINEAGE.md).
+
+
+## Window 17 — 132 CE Zhang Heng seismoscope: technical station, no alchemical ancestry
+
+**Zhang Heng** was credited by a much later `Hou Hanshu` narrative with creating a bronze `候風地動儀` earthquake-indicating device in **132 CE**. The original machine is missing; modern mechanical designs vary. Anecdotes of subsequent confirmation, often attached to a **134 CE Longxi earthquake**, must remain retrospective rather than an independently preserved operation log. This is a **Han technical authority** story, not a document showing Greek–Chinese alchemical teaching. [Window 17](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0121-0140_CE__WINDOW.md) · [ST-048](../11_STATION_TRANSFORMATION_REGISTER/ST-048_ZHANG_HENG_132__SEISMOSCOPE_DESCRIPTION_VS_OBJECT.md).

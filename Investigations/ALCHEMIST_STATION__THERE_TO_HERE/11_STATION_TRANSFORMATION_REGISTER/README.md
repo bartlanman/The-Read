@@ -114,3 +114,15 @@ Each record must include:
 - [ST-041 Gan Ying's 97 expedition: possible contact horizon, no recipe lineage](ST-041_GAN_YING_97_CE__CONTACT_NOT_LINEAGE.md)
 
 **Checkpoint: 41 comparative records**. The physical inscription's content and date have higher evidentiary status than reconstructed ancient literacy and motives. **No named alchemical practitioner located in 81–100 CE**.
+
+## Windows 16–17 (101–140 CE) — checkpoint October 18, 2026
+- [ST-042 Brickworks and physical stamps 110/116](ST-042_RUTILIUS_LUPUS_110_CE__BRICKSTAMP.md)
+- [ST-043 Rutilius Lupus as Egypt prefect in original papyrus](ST-043_RUTILIUS_LUPUS_113_117__PREFECT_PAPYRUS.md)
+- [ST-044 115–117 Egyptian conflict and witness letters](ST-044_EGYPT_115_117__WAR_AND_DOCUMENTARY_RUPTURE.md)
+- [ST-045 Cross-period personal identity remains unverified](ST-045_BENEVENTO_TO_PREFECT__IDENTITY_WATCH.md)
+- [ST-046 Balbilla and Memnon stone 130 CE](ST-046_MEMNON_BALBILLA_130_CE__STONE_AND_INTERPRETER.md)
+- [ST-047 130–133 Antinoopolis founded and settled](ST-047_ANTINOOPOLIS_130_133__CIVIC_STATION.md)
+- [ST-048 132 Zhang Heng seismoscope (original missing)](ST-048_ZHANG_HENG_132__SEISMOSCOPE_DESCRIPTION_VS_OBJECT.md)
+- [ST-049 Forged 'Hadrian' letter is a late reception trap](ST-049_HADRIAN_SERVIANUS__LATER_FORGED_CRAFT_LETTER.md)
+
+**Now 49 station records**; ST-045 identity contested, ST-049 is retrospective and NOT a contemporaneous 121–140 event.

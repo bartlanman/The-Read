@@ -205,3 +205,15 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 - [Source register: Getty critical epigraphy, Suetonius, philosophy expulsions, Hou Hanshu](08_SOURCE_REGISTER/CE_0081-0100__SOURCE_REGISTER.md)
 
 **Evidentiary milestone:** two ORIGINAL granite obelisks with Egyptian-script date **88/89 CE** and named Roman patron. Domitian's name survives in hieroglyphs notwithstanding later Senate erasure story. But public script opacity is NOT proof of intentional alchemical secrecy. Philosophers expelled c.93–94 were not demonstrably 'alchemists'; Eastern Han Gan Ying in 97 did not reach Rome. Pseudo-Democritus remains an earlier/broadly dated literary candidate, with no new securely dated 81–100 CE Greek transmutational profession.
+
+
+## Window 16–17 verified checkpoints (101–140 CE)
+
+- [Window 16 (101–120): Dated bricks, prefect papyri and actual war](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0101-0120_CE__WINDOW.md)
+- [Window 16 source register](08_SOURCE_REGISTER/CE_0101-0120__SOURCE_REGISTER.md)
+- [Window 17 (121–140): Memnon, Antinoopolis, Zhang Heng, Hadrian letter](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0121-0140_CE__WINDOW.md)
+- [Window 17 source register](08_SOURCE_REGISTER/CE_0121-0140__SOURCE_REGISTER.md)
+- [ST-042–ST-049 transformation records](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Window 17 language and forged Hadrian audit](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0121-0140__MEMNON_PUBLIC_VOICE_AND_FALSE_HADRIAN_LETTER.md)
+
+**Critical:** Original 130 CE Greek poetry cannot prove divine 'speech'. The 133 papyri confirm a newly established civic station. The *Historia Augusta* 'Hadrian' letter and its color-changing-cup claim is a **late forgery**, not an eyewitness Hadrianic craft record. An alchemical practitioner with a period-dated 121–140 CE original still has NOT been identified.
