@@ -36,6 +36,8 @@
 | [ST-028](ST-028_XIWANGMU__3_BCE_OPEN_IMMORTALITY_PROMISE.md) | Han China, 3 BCE | Anonymous Queen Mother followers/carriers | Drought and public spiritual anxiety | Tokens and promise spread widely; original leaflet lost | **Public claim, not proven life extension or professional Alchemist** |
 | [ST-029](ST-029_WANG_MANG__7_20_CE_MONEY_AND_AUTHORITY.md) | China, 7–20 CE | Xin monetary ruler and skillful coin makers | New dynasty, currency issuance rules and private casting | Coin materials/forms/face values assigned by state; prohibited private casting | **Material craft and nominal authority, not Alchemist** |
 | [ST-030](ST-030_ROMAN_EGYPT__1_20_CE_TEMPLE_CONTINUITY_AUDIT.md) | Roman Egypt, 1–20 CE | Priestly/temple stations under Roman government | Changed land and fiscal authority; scholarly disagreement over seizure | Institutional continuity and local resource questions require dated papyri | **Open pressure audit, no individual Alchemist identified** |
+| [ST-031](ST-031_DU_SHI__31_CE_WATER_BELLOWS.md) | China, 31 CE | Nanyang governor Du Shi and unnamed ironworkers | Demand for productive metal tools under restored Han | Later historian credits official with labor-saving water-blower system | **Specific useful metallurgy, not a goldmaking Alchemist** |
+| [ST-032](ST-032_ALEXANDRIA_38_CE__CIVIC_STATUS_NOT_ALCHEMY.md) | Roman Egypt, 38 CE | Prefect Flaccus and Alexandrian Jewish civic population | Religious/ethnic hostility and public authority | Severe exclusion and violence in near-contemporary account | **Methodological comparator ONLY, not an alchemical persecution** |
 
 ## Interpretative pattern at this stage
 - **Authority can be institutionally assigned, revised or defended without creating an alchemical profession.**
@@ -85,3 +87,12 @@ Three distinct access arrangements appear: **a temple's spatial threshold**, **a
 
 ## Window 11 — 1–20 CE
 The physically surviving **7 CE bronze coin inlaid with gold** and **14 CE copper coin** show skilled fabrication, while state reforms legally specify which object circulates at which value. **Metal mastery, political issuance authority, and a claim of transmutation are three different operations.** Roman Egyptian priestly land confiscation is debated rather than securely established province-wide. Critically, **later first-century pseudo-Democritean alchemical works must not be squeezed into 1–20 CE** merely because their broad dating says 'first century.' [Window 11](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0001-0020_CE__WINDOW.md).
+
+
+## Window 12 — 21–40 CE
+
+The strongest source claim is **Du Shi's 31 CE water-powered blast-furnace bellows**, remembered by fifth-century `Hou Hanshu`: mechanical power improves foundry labor and produces agricultural tools. The **administrator receives the name** but builders and operators are unknown. This separates material competence, government implementation, and later attribution.
+
+The **38 CE Alexandrian crisis** is a separately sourced example of civic identity and state coercion, not alchemical repression. Pseudo-Democritus's later-first-century Greek alchemical texts are not secured within 21–40 CE.
+
+[Window 12](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0021-0040_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0021-0040__SOURCE_REGISTER.md).
