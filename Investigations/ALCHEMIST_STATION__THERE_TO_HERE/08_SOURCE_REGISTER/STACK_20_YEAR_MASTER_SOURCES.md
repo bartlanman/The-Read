@@ -136,3 +136,18 @@ https://preview.wellcomecollection.org/works/mervmpw3
 - [Dufault (2019)](https://escholarship.org/uc/item/2ks0g83x): Zosimos **approximately 300**, while named earlier specialist Maria has uncertain biographical dates; modern synthesis does **not** prove either active 241–260.
 
 **Station outcome:** `NO SECURE ALCHEMIST IDENTIFIED`; comparisons concern monetary office, sacrifice certification, actual persecution of Christian clergy, and unreliable outsider designation `magoi`. [Window 23 dossier](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0241-0260_CE__WINDOW.md).
+
+
+## Window 24 (261–280 CE) — source-controlled original objects and later copying
+
+**Full register:** [CE_0261-0280__SOURCE_REGISTER.md](CE_0261-0280__SOURCE_REGISTER.md), with identifiers `W24-O00–O03`, `W24-P01`, and `W24-S01–S05`. This is new documentation, NOT a revision of earlier H-series chronology.
+
+- **Gallienus** Alexandrian billon tetradrachm **263/264**, [Ashmolean HCR31547](https://hcr.ashmus.ox.ac.uk/coin/hcr31547), regnal year `L ΙΑ`.
+- **Aurelian + Vaballathus** original **270/271** Alexandria struck billon [Ashmolean HCR31960](https://hcr.ashmus.ox.ac.uk/coin/hcr31960), [RPC X 75751](https://rpc.ashmus.ox.ac.uk/type/75751).
+- **Zenobia Augusta 272** original type year five `L E`: [RPC X 75758](https://rpc.ashmus.ox.ac.uk/type/75758). Distinguish altered actual [HCR32033](https://hcr.ashmus.ox.ac.uk/coin/hcr32033) whose current `L Δ` follows **documented tooling**—**not** original date of issue. Tooling agent/time unknown.
+- **Aurelian 273/274** original year-five coin type [RPC X 75719](https://rpc.ashmus.ox.ac.uk/type/75719). Political names change on coinage while artisans remain anonymous.
+- **British Library Papyrus 2040:** original **`P.Oxy III 412` recto** Africanus *Kestoi* Book 18, copied within a **broad 225–275/276** date range, reused **276** on back for **`P.Oxy VI 907`**, Hermogenes alias Eudaemon's will. [British Library catalogue](https://searcharchives.bl.uk/catalog/040-002105408), [Kyprianos M759](https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/manuscript/kyp-m759/). Original recto copy date unresolved; the separate coded *Kestoi* ingredients **NOT** on Book 18 papyrus.
+- [Suski 2018](https://bibliotekarzpodlaski.pl/index.php/bp/article/view/131) **contests simple attribution of Library of Alexandria's destruction to Aurelian**: no independently attested alchemical purge emerges from this.
+- **Diocletian's later alleged destruction of gold/silver writing belongs to Window 25 only after checking earliest extant testimony**. Leiden X/Stockholm and Zosimos dates cannot be narrowed to 261–280 based on overlap alone.
+
+**Verdict:** NO SECURE ALCHEMIST identified in this period's inspected original witnesses; mint and legal-documentary changes are comparator stations, not demonstrated origins of alchemy.
