@@ -1,6 +1,6 @@
 # STATION TRANSFORMATION REGISTER
 
-**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-085; 25 investigated windows, next 301–320 CE.** See [latest Window 23 entries](#window-23-241260-ce--2026-10-18). Earlier checkpoint notes below remain archival, not current state.
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-089; 26 investigated windows, next 321–340 CE.** See latest Window 26 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
 
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
@@ -206,3 +206,13 @@ Each record must include:
 - [ST-085: Zosimos around 300 — named alchemical commentary in competitive patronage, no exact 299 date](ST-085_ZOSIMOS_300__SCHOLARLY_COMMENTARY_PATRONAGE_BOUNDARY.md)
 
 **Current total 85 records; 25 deep-researched historical windows.** **The 297 rebellion is independently material/documentary; the alchemy-book-burning story is retrospective and UNVERIFIED.** Zosimos is a **c.300 cross-window positive commentary-station candidate**, not an authenticated 297 state-licensed Alchemist. [Window 25](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0281-0300_CE__WINDOW.md) · [Source register](../08_SOURCE_REGISTER/CE_0281-0300__SOURCE_REGISTER.md) · [Language and access](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0281-0300__LANGUAGE_BOOKS_AND_AUTHORITY.md). **Next 301–320 CE**.
+
+
+## Window 26 (301–320 CE) — current checkpoint 2026-10-18
+
+- [ST-086: Original AD 301 Aphrodisias price inscription publicly values goldworking](ST-086_APHRODISIAS_301__GOLDWORKERS_PUBLIC_TARIFF_NOT_ALCHEMIST.md)
+- [ST-087: Near-contemporary 303 Christian scripture/church destruction, not alchemical texts](ST-087_NICOMEDIA_303__SCRIPTURE_DESTRUCTION_NOT_ALCHEMY.md)
+- [ST-088: Galerius posted toleration order, 30 April 311, for Christian assembly](ST-088_GALERIUS_311__RELIGIOUS_STATION_TOLERATED_NOT_ALCHEMY.md)
+- [ST-089: Licinius's 13 June 313 Nicomedia letter on worship choice and restitution](ST-089_LICINIUS_313__NICOMEDIA_RESTITUTION_NOT_ALCHEMY.md)
+
+**Latest checkpoint: 89 Station Transformation Records; 26 deep-researched chronological windows through 320 CE; next 321–340 CE.** Goldworkers' public economic station in a genuine 301 original inscription **is not** proof they were Alchemists; near-contemporary testimonies concerning **Christian** scriptures burned 303 do not authenticate the **seventh-century Suda** story of Diocletian's destruction of **gold/silver** treatises. Zosimos's c.300 technical commentary/patronage world remains **cross-window undated** and ST-085 is **not duplicated**. [Window 26](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0301-0320_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0301-0320__SOURCE_REGISTER.md) · [Language/Outside audit](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0301-0320__GOLDWORKERS_SCRIPTURES_AND_AUTHORITY.md).
