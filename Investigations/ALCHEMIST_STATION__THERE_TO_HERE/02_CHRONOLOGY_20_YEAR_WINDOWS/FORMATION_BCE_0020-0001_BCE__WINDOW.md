@@ -1,44 +1,66 @@
-# 20–1 BCE — Historical window 10
+# Window 10 — 20–1 BCE: Sacred Chamber, Classified Knowledge, and a Public Immortality Promise
 
-**Status:** OPEN / no individually assigned secure alchemical event yet  
-**Scope:** Formation and antecedents of Greek alchemical station; parallel cultures explicitly marked.  
-**Window:** 20–1 BCE, exactly 20 inclusive years; all cross-window claims remain BROAD.  
-**Reference standard:** [source register](../08_SOURCE_REGISTER/STACK_20_YEAR_MASTER_SOURCES.md), [methods](../00_METHOD_AND_EVIDENCE/STACK_FIELD_PROTOCOL.md).
+**Status:** SOURCE-ANCHORED TEN-LAYER DEEP PASS; Egyptian physical monument, later Chinese dynastic testimony and bibliographic scholarship. **No secure Alchemist office or proven transmutation.**
+**Date span:** 20–1 BCE inclusive. Egypt/Nubia and Han China are separate histories.
 
-## 01 — THERE: documented or inherited conditions
-Hellenistic/Ptolemaic Egypt provides royal and temple institutions, multilingual administration, workshop production and Greek/Egyptian philosophical or ritual settings. These are *antecedents*, not proof of a named alchemist.
+## 01 — THERE: inherited world
+**Egypt:** The Ptolemaic monarchy was gone but Augustus continued Egyptian royal ritual presentation. The surviving **Temple of Dendur**, constructed c.15–10 BCE, completed by 10 BCE according to the Metropolitan Museum's curatorial essay, combined Roman sponsorship with older sacred forms and honored Isis, Pedesi and Pihor in Lower Nubia. It belonged to an area under Philae's religious authority. Museum automatically inserted catalog labels sometimes say *10 CE* instead of *10 BCE*; register that metadata inconsistency. [W10-E01–E03]
+**China:** Imperial book collation began in 26 BCE. Liu Xiang's son **Liu Xin** completed the lost **Qilüe / Seven Epitomes**, usually placed in the last years BCE, sometimes c.5 BCE. The **3 BCE** drought and Queen Mother of the West (Xiwangmu) movement occurred under Emperor Ai. [W10-C01–C03, W10-H01–H02]
 
-## 02 — Material technique, workshop, apparatus
-No newly datable technique has yet been assigned from the reviewed sources. Existing craft traditions are background, not a new discovery for this window.
+## 02 — TECHNIQUE: demonstrated capacity
+Dendur's sandstone blocks, raised and sunk reliefs, paint and hieroglyphs attest organized artistic and construction skills. No gold-making laboratory, elixir or named alchemical worker is documented. The temple has a small chamber within its rear sanctuary wall, accessed externally; its function is unknown, possibly storage of cult equipment. [W10-E02]
+The imperial Han editors actually collated and classified writings. The later *Hanshu Yiwenzhi* divides **fangji**, recipes/techniques, into medical canons (醫經), canonical remedies (經方), bedchamber methods (房中), and transcendence/immortality (神仙). **Categorizing these claims is not evidence they worked.** [W10-C02–C04]
+In 3 BCE people reportedly circulated tally-like **籌** tokens and writings, worshiped and danced. Wearing a text could be claimed to avert death, but no experiment or survival from death was demonstrated. [W10-H01–H02]
 
-## 03 — Language, lexicon, allegory and translation
-Test original terms, homonym/polysemy, cover-names, myth, rhetoric, diagram, allegory and late copying. A modern obscurity is **not automatically an ancient intentional secret**. Compare [language protocol](../00_METHOD_AND_EVIDENCE/ALLEGORY_AND_TECHNIQUE_AUDIT.md).
+## 03 — LANGUAGE, ALLEGORY, TRANSLATION
+**Egypt:** Dendur's cartouches render Augustus as *Pharaoh*, *Autokrator* and *Kaisaros* in Egyptian hieroglyphic settings. Plant and solar motifs express sacred order, not proven reagent names. A hidden **architectural** chamber is not automatically a hidden **technical lexicon**. [W10-E03]
+**Chinese imperial catalog:** `Qilüe` creates an authoritative classification, but the exact original is lost; `Hanshu` is a later abridged witness, not a facsimile. Words for immortality name a class of writings, **not a certified occupational station**.
+**Chinese popular writing:** `母告百姓，佩此書者不死` — 'The Mother tells the people that whoever wears this writing will not die.' The message itself is asserted to confer protection; it is not an encrypted metalmaking instruction. [W10-H02]
 
-## 04 — Secrecy, custody, value, capacity, hazard
-Rate separately: **institutional monopoly / practitioner fear / commercial value / tacit skilled competence / physical or claimed spiritual danger / authority performance / accidental textual loss**. No general secrecy motive is proven by the period name. Compare [secrecy protocol](../00_METHOD_AND_EVIDENCE/SECRECY_AUDIT_PROTOCOL.md).
+## 04 — SECRECY, VALUE, CAPABILITY, DANGER
+- **Institutional custody:** temple rooms and court archive organize physical/textual access. Attested in objects/text traditions; technical monopoly not established.
+- **Persecution:** no documented anti-Alchemist suppression in either setting.
+- **Economic prestige:** ruler sponsors temple and library; not proof of guarded profitable chemistry.
+- **Capacity threshold:** building and philological editing require skill; popular talisman-carrying does **not** require a verified skilled goldmaker.
+- **Danger:** drought and anxiety may explain the 3 BCE response; chemical safety-based secrecy is unverified.
+- **Prestige:** ruler's sacred image, state-classified texts, and popular claim to transcendent authority are three different legitimacy strategies.
+- **Textual absence:** lost original Qilüe and original talisman do **not** prove deliberate encryption.
 
-## 05 — Perception
-Ask what contemporary observers actually said about transformation, alteration, imitation, divine revelation, nature or the legitimacy of a craft. Distinguish source voice from our inference.
+## 05 — PERCEPTION
+Temple reliefs visualize Augustus as valid sacred ruler. Han bibliographers offer educated distinctions between text domains. The *Hanshu* portrays a popular movement whose followers and critics understood a written immortality promise differently. The annals and Five-Elements text come from the **same later compiled history**, not separate contemporary eyewitnesses.
 
-## 06 — Station
-Do sources show a **craftworker**, **ritual official**, **patron**, **writer**, **teacher**, **authorized specialist**, or **named alchemist**? Never collapse the categories. No specific named station is inferred without direct evidence.
+## 06 — STATION
+Augustus holds political kingship as represented in Egyptian ritual language; priests and artisans are functional but not identifiable as Alchemists. Liu Xin is a recognized **editor/bibliographer**, not an established metalmaking practitioner. Anonymous adherents to Xiwangmu's promise gain perceived access without a named credentialed expert. **Distinct Alchemist title: NO SECURE EVIDENCE.**
 
-## 07 — Practitioners, institutions and lineage
-Link a person to another only through actual contact, citation, translation or plausible textual reception; pseudonymous authority is not a real apprenticeship.
+## 07 — LINEAGE
+Roman authority → Egyptian temple idiom is a sponsorship and symbolic continuity, not a master/pupil chain of metalworkers.
+Liu Xiang → Liu Xin → lost Qilüe → Ban Gu's later Hanshu Yiwenzhi is a **textual/archival transmission line**, with loss and editorial change; no validation of Liu Xiang's earlier failed goldmaking trial.
+3 BCE talismans move via an **unnamed distribution network**, not a recovered specialist-to-specialist tradition. Egypt–China transmission not evidenced.
 
-## 08 — Texts and dated historical anchors
-**NO SECURELY ASSIGNED EVENT IN THIS FIRST PASS.** This marks a research gap, not evidence that no alchemical actors, books or practices existed.
+## 08 — MANIFESTATIONS, DATES, WITNESSES
+| Witness | Event or object date | Manuscript/witness status |
+|---|---|---|
+| **Dendur** | c.15–10 BCE; Met essay completion 10 BCE | Surviving original architectural material |
+| **Qilüe**, Liu Xin | late 1st c BCE; approx. 5 BCE in one specialist account | Original LOST; categories reconstructed in later Hanshu |
+| **Hanshu Yiwenzhi** | Transmits older catalog | First/second-century CE compilation, later copies |
+| **Hanshu Aidi ji** | 3 BCE Xiwangmu token movement | First/second-century CE compilation |
+| **Hanshu Wuxingzhi** | 3 BCE circulated immortality message | Another section of SAME compiled work |
 
-**References present here:** None tied to a securely assigned event; refer to the register for broader period studies.
+## 09 — HERE, WARRANT AND REMAINDER
+**What changes:** a Roman emperor publicly performs older sacred authority; a scholarly compiler establishes formal *recognition by category* for technical/immortality literature; an anonymous public movement conveys a textual claim to transcend mortality **without restricted royal training**.
+**Not proved:** gold transmutation, successful immortality, Alchemist professional identity, decoding of temple symbols, a prosecuting authority suppressing technical manuscripts, connection between Egyptian and Chinese traditions.
 
-## 09 — HERE: transition, provisional synthesis and remainder
-**Provisional HERE:** No independently warranted new station-transition can yet be assigned.
+## 10 — THE OUTSIDE: pressure on the station
+| Pressure | Response | Remaining uncertainty |
+|---|---|---|
+| Need to legitimize foreign Roman rule | Augustus shown as Egyptian pharaoh in Dendur | Local craftspeople and temple officers' actual names |
+| Temple rituals require graded spaces | Restricted innermost sanctuary/chamber | Actual purpose of hidden chamber |
+| State collection faces loss and diversity | Liu Xin orders knowledge into Qilüe categories | Exact original entries and chronology |
+| Drought and fear of mortality in 3 BCE | Widely traveling token/writing cult; 'wear this and not die' | Origin, transmission agents, beliefs, outcomes |
 
-**REMAINDER:** Additional primary editions, datable manuscripts, contemporary lexica, workshop records, economic documents and hostile/official legal evidence are required. Absence of a source in this first pass is never an assertion of historical absence.
+### Most profound finding
+**Access is not one operation. A chamber can limit who enters; a catalog can determine what counts as a field; a freely copied message can claim to confer power on whoever carries it. None by itself demonstrates the capacity it promises.**
 
-### Research checklist
-- [ ] Validate actual period wording against primary witness and earliest copy.
-- [ ] Distinguish composition / copy / attribution / later translation.
-- [ ] Test intentional concealment against explicit disclosure and open recipes.
-- [ ] Compare institutional custody, independent protection, trade value, training, hazard and prestige.
-- [ ] Determine social source of the practitioner's recognized station.
+**Next:** 1–20 CE; investigate Roman-Egyptian continuity and Han political upheaval, retaining chronology and source-quality controls.
+
+[Sources](../08_SOURCE_REGISTER/0020-0001_BCE__SOURCE_REGISTER.md) · [Records](../11_STATION_TRANSFORMATION_REGISTER/REGISTER.md).
