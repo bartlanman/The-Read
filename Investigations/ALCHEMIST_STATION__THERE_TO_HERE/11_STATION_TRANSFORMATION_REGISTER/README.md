@@ -58,3 +58,11 @@ Each record must include:
 - [ST-017: Huan Kuan's later account of a former manufacturing dispute](ST-017_HUAN_KUAN__TEXTUAL_STATION.md)
 
 **Next window:** 60–41 BCE. Professional alchemist authority not documented for Window 07.
+
+## Window 08 records (2026-10-18)
+- [ST-018: Liu Xiang — rare text, Shangfang workshop, failed goldmaking, prosecution](ST-018_HAN_LIU_XIANG__SECRET_TEXT_GOLD_TRIAL.md)
+- [ST-019: Rabirius as Egyptian fiscal officer](ST-019_EGYPT_RABIRIUS__DIOIKETES_55_54_BCE.md)
+- [ST-020: Cleopatra VII's political station](ST-020_EGYPT_CLEOPATRA_VII__51_41_BCE.md)
+- [ST-021: Later alchemical Cleopatra name, not contemporary queen's authored text](ST-021_RECEPTION_CLEOPATRA_ALCHEMIST__NOT_QUEEN.md)
+
+**Caution:** ST-021 is explicitly **retrospective reception**, not a 60–41 BCE historical encounter. The period's major early alchemical technical account is Chinese, not an Egypt–China transmission.

@@ -121,3 +121,13 @@ New strongly documented (within a retrospective historical narrative) distinctio
 - [Source register](08_SOURCE_REGISTER/0080-0061_BCE__SOURCE_REGISTER.md)
 
 **Status:** documented politically contested sovereign stations and later reports of technical-text translation, but **no independently documented distinct Alchemist's station** in this interval.
+
+
+## Deep read checkpoint — Window 08, 60–41 BCE
+
+- [Historical inquiry: Liu Xiang and Cleopatra-era Egypt](02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0060-0041_BCE__WINDOW.md)
+- [Station Transformation Register ST-018–ST-021](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Text/technique: secret Huainan gold books, Shangfang trial and Cleopatra pseudo-attribution](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/WINDOW_08__LIU_XIANG_SECRET_BOOK_TO_SHANGFANG.md)
+- [Sources and dating conflicts](08_SOURCE_REGISTER/0060-0041_BCE__SOURCE_REGISTER.md)
+
+**New strongest direct-to-practice source claim:** *Hanshu* 36 connects Liu Xiang's restricted textual access, imperial workshop commission, failed attempt and legal consequence. **Not proved:** any successful goldmaking or queen Cleopatra VII's authorship of later Greek alchemical texts.
