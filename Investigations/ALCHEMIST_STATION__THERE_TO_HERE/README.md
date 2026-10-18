@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — 26 deep-researched historical windows through 320 CE, 89 Station Transformation Records; next window 321–340 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
+Status: **OPEN INVESTIGATION — 27 deep-researched historical windows through 340 CE, 94 Station Transformation Records; next window 341–360 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -321,3 +321,17 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 **Most profound distinction:** State-sanctioned craftwork, book-targeted persecution, and the authority of a named alchemical exegete are **three separate station mechanisms**. Their spatial and chronological proximity does not establish one persecuted, state-certified Alchemist guild.
 
 **NEXT Window 27 — 321–340 CE:** investigate new Christian imperial privileges and actual economic/workshop texts without projecting later chemical distinctions, school or persecution traditions onto the evidence.
+
+
+## Window 27 deep-read checkpoint — 321–340 CE (2026-10-18)
+
+- [Full ten-layer investigation: Orkistos/Hispellum inscriptions, 334/337 specialist-training laws, 335 gold coin](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0321-0340_CE__WINDOW.md)
+- [Original civic monuments, transmitted legal texts, conflicting 337 attribution and actual 335 solidus: source register](08_SOURCE_REGISTER/CE_0321-0340__SOURCE_REGISTER.md)
+- [Specialized craft, `munera`, training sons, social recognition and posthumous legal authority—language/access audit](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0321-0340__CRAFT_TRAINING_POSTHUMOUS_AUTHORITY.md)
+- [Station Transformation Register ST-090–ST-094, 94 total](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Original period facts:** Orkistos's second rescript dated **30 June 331**, Hispellum conditional civic-cult rescript dated approximately **333–337**, a real **335 Nicomedia gold solidus**. **Later transmitted law** CTh 13.4.1 dated **334** provides architectural training incentives; CTh 13.4.2/CJ 10.66.1 dated **2 August 337** orders exemptions for a wide range of skilled workers, including goldsmiths and gilders, **in order to become more skilled and teach sons**. **Attribution contested:** standard text calls issuer Constantine, already **dead 22 May 337**. It is not demonstrated that he personally issued that August law. The law protects **capacity and transmission**, not a named Alchemist occupation or actual chemical transmutation.
+
+**Most profound finding:** institutional authority protects *becoming more capable and educating successors*, not simply recognizing an end-product. This is a direct comparator for how alchemical knowledge could eventually gain a distinct station, but the 337 law does NOT label an Alchemist.
+
+**NEXT — Window 28, 341–360 CE:** review 344 technical education and 340s/350s rituals/divination legal conflicts individually; compare to independently dated alchemical practice without anachronistic synthesis.
