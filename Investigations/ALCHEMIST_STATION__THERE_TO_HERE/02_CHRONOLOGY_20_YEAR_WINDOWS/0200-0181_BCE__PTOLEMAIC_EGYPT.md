@@ -105,3 +105,7 @@ See ../08_SOURCE_REGISTER/0200-0181_BCE__SOURCE_REGISTER.md for [P01–P04, S01�
 The six competing explanations (institutional monopoly, persecution, economic value, required capability, danger, prestige) are **UNVERIFIED for alchemical practice in 200–181 BCE**. In this window the contrast between institutional recordkeeping and later secrecy narratives is a question, *not an inferred continuous genealogy*.
 
 See [secrecy hypothesis register](../03_PERCEPTION_AND_STATION/SECRECY__COMPETING_CAUSES.md); [secrecy source register](../08_SOURCE_REGISTER/SECRECY__SOURCE_REGISTER.md). Zosimos's later account of ancient Egyptian royal restriction must be treated as retrospective testimony, not direct documentation for this interval.
+
+## 20-year master-stack integration (2026-10-18)
+
+**Secrecy and language audit:** the multilingual priestly decrees are public ritual/legal writing; nothing here confirms an alchemical code-name, initiatory recipe or hidden treatise in 200–181 BCE. Institutional status and material value are documented, but a distinct alchemical social title and intentional chemical allegory are **NO SECURE EVIDENCE** for this interval. Keep later texts, including Pseudo-Democritus, Zosimos and medieval Arabic lexica, in their own date ranges. See [nine-layer protocol](../00_METHOD_AND_EVIDENCE/STACK_FIELD_PROTOCOL.md).

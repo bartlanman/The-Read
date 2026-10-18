@@ -50,3 +50,14 @@ Secrecy is not presumed intrinsic to alchemy. For every 20-year window investiga
 - [Why was the knowledge secret? — hypothesis register](03_PERCEPTION_AND_STATION/SECRECY__COMPETING_CAUSES.md)
 - [Secrecy evidence protocol](00_METHOD_AND_EVIDENCE/SECRECY_AUDIT_PROTOCOL.md)
 - [Secrecy source register](08_SOURCE_REGISTER/SECRECY__SOURCE_REGISTER.md)
+
+## The complete 20-year research stack
+
+[Open the 95-window stack index](02_CHRONOLOGY_20_YEAR_WINDOWS/STACK_INDEX__200_BCE_TO_1700_CE.md). Each interval has nine fields: inherited conditions; technique; language and allegory; secrecy/threshold; perception; station; lineage; texts; warranted HERE plus remainder. The initial formation period is 200 BCE–400 CE. The larger view extends to 1700 CE to capture Arabic, Latin, early-modern and Newtonian textual reception.
+
+**Crucial:** this is a *research scaffold with selected sourced anchors*, **not** a claim that 95 windows received equal primary-source close reading. Broad dates appear in multiple windows with their uncertainty intact. No-source windows are explicit gaps.
+
+- [Nine-layer research protocol](00_METHOD_AND_EVIDENCE/STACK_FIELD_PROTOCOL.md)
+- [Language, technique and allegory](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/)
+- [Historical source master register](08_SOURCE_REGISTER/STACK_20_YEAR_MASTER_SOURCES.md)
+- [Parallel Chinese tradition](06_TRANSMISSION_AND_RECEPTION/CHINESE_PARALLEL__NON_GENEALOGICAL.md)

@@ -49,3 +49,7 @@ Refer to [the secrecy protocol](../00_METHOD_AND_EVIDENCE/SECRECY_AUDIT_PROTOCOL
 - **Secrecy as prestige, authority claim, gatekeeping or stage of initiation?**
 - **What procedures, names or teachings are demonstrably public?**
 - **Source date vs narrated period; contrary evidence; verdict by category?**
+
+## Use the nine-layer full-stack convention
+
+All window entries additionally cover: (i) technique and apparatus; (ii) exact language / allegory / decoding; (iii) motive-specific secrecy audit; (iv) explicit public or contrary evidence; (v) claimed vs documented station; and (vi) provenance of translation / manuscript. See [protocol](../00_METHOD_AND_EVIDENCE/STACK_FIELD_PROTOCOL.md) and [language inquiry](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/README.md).

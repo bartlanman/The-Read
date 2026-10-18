@@ -95,3 +95,7 @@ The goal is not to presuppose a single answer, but to reconstruct changing combi
 Source register: [Secrecy sources](../08_SOURCE_REGISTER/SECRECY__SOURCE_REGISTER.md).
 
 **Research state:** interpretation and methodological hypothesis, with evidence-backed anchor leads; not an affirmed origin theory.
+
+## Language can be a mechanism of secrecy but need not be
+
+Add [language/technique/allegory](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/README.md) to each 20-year audit. Test technical cover-names against **contemporaneous glosses**, separate pseudonymous authority from ownership, and track whether translation/copying itself caused opacity. A difficult symbol is not proof of deliberate encryption, and allegory can teach and express sincere philosophy as well as withhold.
