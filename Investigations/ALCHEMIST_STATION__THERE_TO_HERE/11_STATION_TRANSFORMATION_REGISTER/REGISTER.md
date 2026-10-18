@@ -34,6 +34,8 @@
 | [ST-026](ST-026_DENDUR_AUGUSTUS__15_10_BCE.md) | Roman Egypt, c.15–10 BCE | Emperor in Egyptian ritual depiction; temple personnel | Roman rule and sacred continuity | Dendur built with inner restricted space | **No attested alchemical station** |
 | [ST-027](ST-027_HAN_LIU_XIN__QILUE_5_BCE.md) | Han China, late 1st c BCE | Bibliographic scholar Liu Xin | Loss and diversification of court books | Lost Qilüe classifies technical and immortality arts | **Editorial rank does not prove craft capacity** |
 | [ST-028](ST-028_XIWANGMU__3_BCE_OPEN_IMMORTALITY_PROMISE.md) | Han China, 3 BCE | Anonymous Queen Mother followers/carriers | Drought and public spiritual anxiety | Tokens and promise spread widely; original leaflet lost | **Public claim, not proven life extension or professional Alchemist** |
+| [ST-029](ST-029_WANG_MANG__7_20_CE_MONEY_AND_AUTHORITY.md) | China, 7–20 CE | Xin monetary ruler and skillful coin makers | New dynasty, currency issuance rules and private casting | Coin materials/forms/face values assigned by state; prohibited private casting | **Material craft and nominal authority, not Alchemist** |
+| [ST-030](ST-030_ROMAN_EGYPT__1_20_CE_TEMPLE_CONTINUITY_AUDIT.md) | Roman Egypt, 1–20 CE | Priestly/temple stations under Roman government | Changed land and fiscal authority; scholarly disagreement over seizure | Institutional continuity and local resource questions require dated papyri | **Open pressure audit, no individual Alchemist identified** |
 
 ## Interpretative pattern at this stage
 - **Authority can be institutionally assigned, revised or defended without creating an alchemical profession.**
@@ -79,3 +81,7 @@ The distinctive new comparative mechanism is **political destruction or foreign 
 ## Window 10 — 20–1 BCE
 
 Three distinct access arrangements appear: **a temple's spatial threshold**, **an imperial catalogue recognizing classes of technical and immortality writings**, and **an openly circulated 3 BCE claim that wearing a writing prevents death**. The reports of the Chinese movement and surviving bibliographic classification come from a later Hanshu tradition, whereas Dendur is a surviving physical monument; do not homogenize the sources. None independently verifies transmutation. [Window 10](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0020-0001_BCE__WINDOW.md).
+
+
+## Window 11 — 1–20 CE
+The physically surviving **7 CE bronze coin inlaid with gold** and **14 CE copper coin** show skilled fabrication, while state reforms legally specify which object circulates at which value. **Metal mastery, political issuance authority, and a claim of transmutation are three different operations.** Roman Egyptian priestly land confiscation is debated rather than securely established province-wide. Critically, **later first-century pseudo-Democritean alchemical works must not be squeezed into 1–20 CE** merely because their broad dating says 'first century.' [Window 11](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0001-0020_CE__WINDOW.md).

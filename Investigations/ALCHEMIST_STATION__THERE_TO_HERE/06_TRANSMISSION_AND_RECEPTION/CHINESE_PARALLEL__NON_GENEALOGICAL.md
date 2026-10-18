@@ -53,3 +53,8 @@ The *Hanshu*'s 91 BCE witchcraft affair concerns court accusations and destructi
 ## Window 10 — classification and distribution (20–1 BCE)
 
 **Liu Xin** completed or advanced a court catalogue, Qilüe, broadly 7–1 BCE (often c.5 BCE), whose original is lost. The later Hanshu Yiwenzhi groups **fangji** into medical canons, recipes, bedchamber arts and **shenxian** immortality writings. Category is not scientific or craft validation. In **3 BCE**, Hanshu reports that Queen Mother of the West messages and tallies moved through communities and promised deathlessness to people who wore the message. This report is a counterexample to universal secrecy of immortality promises, but not a successful alchemical practice. [Window 10](../02_CHRONOLOGY_20_YEAR_WINDOWS/FORMATION_BCE_0020-0001_BCE__WINDOW.md).
+
+
+## Window 11 (1–20 CE) — The metal does not change when its legal value changes
+
+Wang Mang's **7 CE bronze knife coin with gold inlay** and **14 CE copper-alloy huoquan** survive in the British Museum. Currency reforms in **7, 9, 10, 14 and 20 CE** redefined how money was named, valued, issued and restricted; `一刀平五千` assigned **face value**, not chemical composition. Later *Hanshu* describes penalties for `私鑄` unauthorized coin casting. **Craft capability, sovereign permission to issue, and true transmutation must be kept distinct.** No evidence of a licensed or persecuted Alchemist's profession follows from monetary regulation. [Window 11](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0001-0020_CE__WINDOW.md).

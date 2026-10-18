@@ -151,3 +151,13 @@ New strongly documented (within a retrospective historical narrative) distinctio
 - [Window 10 historical sources and dating issues](08_SOURCE_REGISTER/0020-0001_BCE__SOURCE_REGISTER.md)
 
 The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts**, and the **3 BCE popular movement reported by Hanshu** demonstrate three different access mechanisms. No verified original Alchemist office or actual goldmaking in 20–1 BCE.
+
+
+## Window 11 complete — 1–20 CE
+
+- [Deep read: Wang Mang's money reforms, numismatic evidence and Roman Egyptian temple pressure](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0001-0020_CE__WINDOW.md)
+- [ST-029 and ST-030 comparative station records](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+- [Metal, words and value language audit](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0001-0020__METAL_VALUE_AND_LEGAL_STATION.md)
+- [Window 11 sources](08_SOURCE_REGISTER/CE_0001-0020__SOURCE_REGISTER.md)
+
+**Explicit guard:** pseudo-Democritus's first-century composition is broad and critical dating points after the period 1–20 CE; do not treat him as a secure window-11 contemporary.

@@ -81,3 +81,9 @@ Each record must include:
 - [ST-028: The 3 BCE Queen Mother of the West public promise](ST-028_XIWANGMU__3_BCE_OPEN_IMMORTALITY_PROMISE.md)
 
 **Checkpoint:** 28 records. Spatial restriction, classification of knowledge, and mass circulation must not be mistaken for demonstrated alchemical skill.
+
+## Window 11 records (2026-10-18)
+- [ST-029: Wang Mang's currency, metal and legal authority](ST-029_WANG_MANG__7_20_CE_MONEY_AND_AUTHORITY.md)
+- [ST-030: Roman Egypt's temples, institutional continuity and land-source dispute](ST-030_ROMAN_EGYPT__1_20_CE_TEMPLE_CONTINUITY_AUDIT.md)
+
+**Checkpoint:** 30 station transformation / comparison records. Both new cases have no attested Alchemist title.
