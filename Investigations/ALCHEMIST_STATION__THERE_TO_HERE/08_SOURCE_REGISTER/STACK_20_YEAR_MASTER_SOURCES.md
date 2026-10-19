@@ -232,3 +232,16 @@ https://preview.wellcomecollection.org/works/mervmpw3
 - [Theodosian obelisk original c.390 Latin/Greek base inscriptions](https://www.livius.org/articles/place/constantinople-istanbul/constantinople-photos/constantinople-hippodrome/constantinople-hippodrome-obelisk-of-theodosius/) attest engineering/imperial memory, and duration texts differ **30/32 days**; no elemental conversion.
 
 **Verdict:** **Actual ritual station legally pressured and in 396 privileges explicitly removed; a later literature portrays Serapis priest as alchemical interlocutor, but NO securely attested 381–400 professional Alchemist, persecution of a goldmaking practitioner or proven elemental conversion**. **Next W31 — 401–420, ST-111**.
+
+
+## Window 31 — 401–420 CE: genuine Hypatia/Synesius technical and intellectual network
+
+[W31 complete critical source register](CE_0401-0420__SOURCE_REGISTER.md) identifies `W31-P01–P05`, `W31-S01–S02`.
+
+- [Synesius authentic Letter 15 to Hypatia](https://www.livius.org/sources/content/synesius/synesius-letter-015/): describes a proposed graduated **brass `hydroscope`** for comparing waters/liquids; **modern date `c.402` is approximate and disputed**. **Request**, not proved manufacture/invention or successful chrysopoeia.
+- [Synesius Letter 154](https://www.livius.org/sources/content/synesius/synesius-letter-154/): entrusts Hypatia with evaluation of **`Dion` and `On Dreams`** drafts before publication; exact composition date uncertain **c.404–413**; editorial judgment not a secret chemical oath. Mentions [`On the Gift` earlier silver astrolabe for Paeonius, c.397–398](https://publishing.cdlib.org/ucpressebooks/public/book/barbarians-and-politics-at-the-court-of-arcadius.html): **older outside window** event.
+- [Synesius Letter 105](https://www.livius.org/sources/content/synesius/synesius-letter-105/): philosophical reservations before office. Cameron/Long 1993 reconstruction: **bishop election c.410, consecration 411, death ~413**, dates not original epigraphic proof.
+- [Socrates Scholasticus *HE* VII.15](https://www.newadvent.org/fathers/26017.htm): **March 415** Hypatia murder, **historian wrote c.440**; named teacher publicly respected, civil/political conflict, neither chemical-transmutation charge nor original period courtroom record.
+- [W30 pseudo-Synesius / Dioscorus register](CE_0381-0400__SOURCE_REGISTER.md): medieval alchemical textual heading with **contested author and dating**, must not be identified with genuine bishop/student solely by name. Theon/Hypatia mathematical superscriptions also later copy chains.
+
+**Verdict:** an authentic named teacher–pupil network documents instrument **proposal** and intellectual evaluation, plus recognized religious office and later tragic teacher death; **NO verified 401–420 professional Alchemist or empirical elemental conversion**. **NEXT Window 32, 421–440; ST-115.**
