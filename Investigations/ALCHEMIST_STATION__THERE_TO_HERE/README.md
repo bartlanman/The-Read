@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — 31 deep-researched historical windows through 420 CE, 114 Station Transformation Records; next window 421–440 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
+Status: **OPEN INVESTIGATION — 32 deep-researched historical windows through 440 CE, 121 Station Transformation Records; next window 441–460 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -388,3 +388,10 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 **Positive documentary result:** A **known philosopher (Synesius of Cyrene)** makes a **specific technical instrument request** to an identifiable former teacher **Hypatia** in Letter 15 and **trusts her to decide readiness of his writings** in Letter 154. The texts demonstrate a real student-teacher relationship and **recognized technical/intellectual authority**, but neither proves a brass instrument was manufactured, that Hypatia invented it, or that a metal was transmuted. Letter 105 and career evidence show Synesius **became bishop c.410/411**, died **probably c.413**. Hypatia was **murdered March 415** under Alexandrian civic/church conflict; **Socrates composed his account around 440**, not contemporaneous court deposition. Those acts are NOT a known Alchemist persecution, and the medieval “alchemical Synesius to Dioscorus” remains **disputed attribution**.
 
 **Most profound:** **a station's authority becomes visible when real others entrust it with instruments and judging knowledge; that authority may coexist with personal danger and does not itself prove membership in an Alchemist profession**. NEXT Window 32 **421–440 CE**, next ID ST-115.
+
+
+## Window 32 — 421–440 CE (2026-10-18)
+
+[Completed ten-layer historical investigation](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0421-0440_CE__WINDOW.md) · [Primary and scholarly source control](08_SOURCE_REGISTER/CE_0421-0440__SOURCE_REGISTER.md) · [Language, secrecy and editor/teacher authority](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0421-0440__AUTHORIZED_EDITION_TEACHING_AND_BOOK_DESTRUCTION.md) · [ST-115–ST-121](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md).
+
+**Central discovery:** The Roman state assigned authorization to **public teaching** (425), **designated law editors** empowered to change inherited texts (429/435), and the resulting binding **Theodosian Code** (438/439). A **435 law explicitly ordered Nestorius's doctrinal books searched out and burned**, but no alchemical text appears. An original **exagium solidi** shows a recognized gold coin weight standard, not elemental synthesis. The historical **Hypatia murder March 415** is recounted by **Socrates c.440**, a new historical witness rather than a new victim. No secure professional Alchemist in 421–440. **Next Window 33, ST-122.**
