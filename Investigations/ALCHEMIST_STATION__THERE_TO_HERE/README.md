@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — 32 deep-researched historical windows through 440 CE, 121 Station Transformation Records; next window 441–460 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
+Status: **OPEN INVESTIGATION — 33 deep-researched historical windows through 460 CE, 125 Station Transformation Records; next window 461–480 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -395,3 +395,8 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 [Completed ten-layer historical investigation](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0421-0440_CE__WINDOW.md) · [Primary and scholarly source control](08_SOURCE_REGISTER/CE_0421-0440__SOURCE_REGISTER.md) · [Language, secrecy and editor/teacher authority](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0421-0440__AUTHORIZED_EDITION_TEACHING_AND_BOOK_DESTRUCTION.md) · [ST-115–ST-121](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md).
 
 **Central discovery:** The Roman state assigned authorization to **public teaching** (425), **designated law editors** empowered to change inherited texts (429/435), and the resulting binding **Theodosian Code** (438/439). A **435 law explicitly ordered Nestorius's doctrinal books searched out and burned**, but no alchemical text appears. An original **exagium solidi** shows a recognized gold coin weight standard, not elemental synthesis. The historical **Hypatia murder March 415** is recounted by **Socrates c.440**, a new historical witness rather than a new victim. No secure professional Alchemist in 421–440. **Next Window 33, ST-122.**
+
+
+## Window 33 checkpoint — 441–460 CE
+
+[Ten-layer research](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0441-0460_CE__WINDOW.md) · [Detailed sources](08_SOURCE_REGISTER/CE_0441-0460__SOURCE_REGISTER.md) · [Language and access](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0441-0460__INSCRIPTIONS_TEXT_SUPPRESSION_AND_MATERIAL_CUSTODY.md) · [ST-122–125](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md). The **447 original bilingual wall inscriptions** constitute materially direct evidence of civic building authority credited to Constantine; later Cyrus attribution is not merged. **448** book censorship and **451** church office regulation are not alchemical restrictions. **Late-450s Majorian** protects civic stone buildings, precise issue date 458/459 unresolved. **No secure named Alchemist**. Next Window 34, ST-126.
