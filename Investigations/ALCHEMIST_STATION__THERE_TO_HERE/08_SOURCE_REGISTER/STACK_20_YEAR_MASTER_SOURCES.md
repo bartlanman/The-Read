@@ -245,3 +245,8 @@ https://preview.wellcomecollection.org/works/mervmpw3
 - [W30 pseudo-Synesius / Dioscorus register](CE_0381-0400__SOURCE_REGISTER.md): medieval alchemical textual heading with **contested author and dating**, must not be identified with genuine bishop/student solely by name. Theon/Hypatia mathematical superscriptions also later copy chains.
 
 **Verdict:** an authentic named teacher–pupil network documents instrument **proposal** and intellectual evaluation, plus recognized religious office and later tragic teacher death; **NO verified 401–420 professional Alchemist or empirical elemental conversion**. **NEXT Window 32, 421–440; ST-115.**
+
+
+## Window 32 — 421–440 CE: teacher, official editor, and textual suppression
+
+[Full historical witness register](CE_0421-0440__SOURCE_REGISTER.md) controls CTh XIV.9.3 **27 Feb 425** (31 public chairs, actual staff unverified); CTh I.1.5 **26 Mar 429** / I.1.6 **20 Dec 435** (official compilation and permissible editorial changes); CTh XVI.5.66 **3 Aug 435** (specifically Nestorian theological books to be searched/burned, not alchemical recipes); February/December **438** promulgation and Senate reception and **1 Jan 439** general code effect. Physical source: British Museum **1987,0703.24** original `EXAGIVM SOLIDI` c.425–430 (gold weight standard) and separate Berlin gold coin 18213856 and BM Alexandria copper coin 1995,0201.83, not elemental transmutation. Socrates c.439–440 authored historical testimony about **March 415** Hypatia. **No securely dated 421–440 Alchemist, original chrysopoeia result or anti-alchemy book burning.** Next W33, ST-122.
