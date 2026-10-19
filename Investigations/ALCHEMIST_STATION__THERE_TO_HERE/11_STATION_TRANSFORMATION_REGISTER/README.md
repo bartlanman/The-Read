@@ -1,6 +1,6 @@
 # STATION TRANSFORMATION REGISTER
 
-**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-110; 30 investigated windows, next 401–420 CE.** See latest Window 30 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-114; 31 investigated windows, next 421–440 CE.** See latest Window 31 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
 
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
@@ -264,3 +264,13 @@ Each record must include:
 - [ST-110: Undated Synesius/Dioscorus medieval manuscript portrays alchemical commentary and a Serapis priest—NOT verified 390 event](ST-110_SYNESIUS_DIOSCORUS__UNVERIFIED_PRE_391_ALCHEMICAL_PRIEST.md)
 
 **Current 110 distinct records; 30 deep-researched windows through 400 CE; next 401–420 CE and ST-111.** Roman administration issued **16 June 391** restrictions specifically to Egyptian offices; Serapeum fell **ca.391/392**, but an original 391 alchemy book-burning directive, named alchemy victim and direct independent evidence connecting the *Synesius-to-Dioscorus* dialogue to the destroyed institution remain **UNVERIFIED**. The dialogue's original date/author is disputed and **medieval physical texts cannot be turned into a precisely dated 390 encounter**. [Window 30](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0381-0400_CE__WINDOW.md) · [Source register](../08_SOURCE_REGISTER/CE_0381-0400__SOURCE_REGISTER.md) · [Language audit](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0381-0400__SERAPIS_PRIEST_CUSTODY_AND_LATE_MANUSCRIPT.md).
+
+
+## Window 31 (401–420 CE) — current checkpoint 2026-10-18
+
+- [ST-111 Synesius asks Hypatia to arrange a brass hydroscope, Letter 15](ST-111_SYNESIUS_HYPATIA_HYDROSCOPE__REQUEST_NOT_DELIVERY.md) — an **attested request**, completed instrument not verified
+- [ST-112 manuscript publication judgment entrusted to Hypatia, Letter 154](ST-112_SYNESIUS_HYPATIA__EDITORIAL_JUDGMENT_AS_STATION.md) — an **attested submission**, not alchemical censorship
+- [ST-113 genuine Synesius philosopher→bishop c.410–413, Letter 105](ST-113_SYNESIUS_410_413__PHILOSOPHER_BECOMES_BISHOP.md) — an actual office transition, **not alchemical Synesius attribution**
+- [ST-114 Hypatia murdered March 415, Socrates authored ~440](ST-114_HYPATIA_MARCH_415__TEACHER_MURDER_NOT_ALCHEMY.md) — violent loss of known teacher, **not documented Alchemist persecution**
+
+**Current ST count 114; 31 deep-researched windows; NEXT Window 32 (421–440) and ST-115.** Source discipline: Letter 15 often dated `c.402` but exact assignment disputed; Letter 154 uncertain early-fifth-century date; older c.397–398 silver astrolabe is NOT 413 evidence; Socrates **writing c.440** narrates **415**, while historical Synesius probably died **c.413**. Disputed alchemical *Synesius–Dioscorus* original date/author remains UNVERIFIED. [Window 31](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0401-0420_CE__WINDOW.md) · [Primary and scholarly sources](../08_SOURCE_REGISTER/CE_0401-0420__SOURCE_REGISTER.md) · [Language/audience/access](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0401-0420__HYDROSCOPE_HYPATIA_AND_AUTHORIAL_BOUNDARIES.md).
