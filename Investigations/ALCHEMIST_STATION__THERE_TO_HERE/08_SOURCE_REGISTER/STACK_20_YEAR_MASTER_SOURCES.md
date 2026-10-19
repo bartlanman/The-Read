@@ -219,3 +219,16 @@ https://preview.wellcomecollection.org/works/mervmpw3
 - [Valens struck gold Berlin 18202344](https://ikmk.smb.museum/object?id=18202344) **367–375 broad**, and [CJ IV.63.2](https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ4.htm) **c.374? gold export restriction** (sixth-century codified law, date not secure) show control of **existing material gold**, not its synthetic creation.
 
 **Source outcome:** The **concept of metallic change** acquires a named public fourth-century witness outside an alchemical manual, while no actual **361–380** authorized Alchemist or transmutation result is established. **Next Window 30 — 381–400, next Station ID ST-105**.
+
+
+## Window 30 — 381–400 CE: Serapis priestly standing and the limits of alchemical manuscript attribution
+
+[Complete critical W30 source register](CE_0381-0400__SOURCE_REGISTER.md): `W30-T01–T05`, `W30-O01`, `W30-A01/A02`, `W30-N01`.
+
+- [CTh XVI.10.7–18 transmitted ancient laws](https://droitromain.univ-grenoble-alpes.fr/Constitutiones/CTh16.html): **382** art-valued shrine open without sacrifice; **16 Jun 391** Egyptian law to **Evagrius/Romanus** restricts ritual and shrine access (not original Serapeum demolition order); **8 Nov 392** private rites restricted; **7 Dec 396** legal privileges of priests/hierophants withdrawn; **399** some rural temples marked for demolition and some public festivals/buildings preserved without illegal sacrifice. Codex **438**, later manuscripts, not individual original contemporary inscriptions.
+- [Sabottka, *Das Serapeum in Alexandria*, 2008](https://www.cealex.org/publication/das-serapeum/): actual sanctuary; histories of demolition **ca.391/392** by [Rufinus ca.402](https://penelope.uchicago.edu/~grout/encyclopaedia_Romana/greece/paganism/serapeum.html), Eunapius late fourth/early fifth, Socrates/Sozomen fifth century. **Not** an original 391 alchemical-library inventory. Actual library state and chemical books lost **CONTESTED**.
+- [Synesius to Dioscorus, priest of Serapis, CAAG II 56.20–69.11](https://pinakes-dev.irht.cnrs.fr/notices/bibliographie/J8SKCZW8/) critically treated by **Martelli/Dorandi 2011**. Later medieval original surviving manuscript witnesses; composition and authorship **UNKNOWN**, bishop Synesius attribution challenged. Title is **literary relationship**, not a securely dated 390 apprenticeship.
+- [Stanford Encyclopedia of Philosophy: Olympiodorus](https://plato.stanford.edu/entries/olympiodorus/) distinguishes disputed alchemical author from sixth-century Olympiodorus philosopher; **NO positive 390 biography established**.
+- [Theodosian obelisk original c.390 Latin/Greek base inscriptions](https://www.livius.org/articles/place/constantinople-istanbul/constantinople-photos/constantinople-hippodrome/constantinople-hippodrome-obelisk-of-theodosius/) attest engineering/imperial memory, and duration texts differ **30/32 days**; no elemental conversion.
+
+**Verdict:** **Actual ritual station legally pressured and in 396 privileges explicitly removed; a later literature portrays Serapis priest as alchemical interlocutor, but NO securely attested 381–400 professional Alchemist, persecution of a goldmaking practitioner or proven elemental conversion**. **Next W31 — 401–420, ST-111**.
