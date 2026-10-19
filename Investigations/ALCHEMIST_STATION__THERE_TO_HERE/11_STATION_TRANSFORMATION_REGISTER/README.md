@@ -1,6 +1,6 @@
 # STATION TRANSFORMATION REGISTER
 
-**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-121; 32 investigated windows, next 441–460 CE.** See latest Window 32 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-125; 33 investigated windows, next 461–480 CE.** See latest Window 32 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
 
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
@@ -287,3 +287,13 @@ Each record must include:
 - [ST-121: Socrates c.440 narrates 415 Hypatia death](ST-121_SOCRATES_439_440__HYPATIA_HISTORY_NOT_NEW_DEATH.md)
 
 **121 distinct records; 32 completed deep investigations; next 441–460 CE and ST-122.** [Window 32](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0421-0440_CE__WINDOW.md) · [Source register](../08_SOURCE_REGISTER/CE_0421-0440__SOURCE_REGISTER.md) · [Language](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0421-0440__AUTHORIZED_EDITION_TEACHING_AND_BOOK_DESTRUCTION.md). No named Alchemist or chemical transmutation demonstrated.
+
+
+## Window 33 complete — 441–460 CE
+
+- [ST-122: 447 original walls, named prefect Constantine](ST-122_447__CONSTANTINE_WALL_RECONSTRUCTION_NOT_ALCHEMY.md)
+- [ST-123: 448 Porphyry writings restricted, not alchemy](ST-123_448__PORPHYRY_BOOK_SUPPRESSION_NOT_ALCHEMY.md)
+- [ST-124: 451 council, ordination rules and distinct Dioscorus](ST-124_451__CHALCEDON_OFFICE_AND_DIOSCORUS_HOMONYM.md)
+- [ST-125: Majorian late-450s public building stone protection](ST-125_458_459__MAJORIAN_PUBLIC_STONE_NOT_TRANSMUTATION.md)
+
+**125 distinct IDs; 33 investigated windows; next Window 34 (461–480 CE), ST-126.** [Ten-layer dossier](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0441-0460_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0441-0460__SOURCE_REGISTER.md) · [Language](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0441-0460__INSCRIPTIONS_TEXT_SUPPRESSION_AND_MATERIAL_CUSTODY.md).
