@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — 29 deep-researched historical windows through 380 CE, 104 Station Transformation Records; next window 381–400 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
+Status: **OPEN INVESTIGATION — 30 deep-researched historical windows through 400 CE, 110 Station Transformation Records; next window 401–420 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -364,3 +364,15 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 **Most profound finding:** public intelligibility of an extraordinary transformation is not itself public recognition or competence of a practitioner. **No named 361–380 state-authorized Alchemist and no proof of successful elemental conversion**.
 
 **NEXT Window 30 — 381–400 CE**, including Greek alchemical commentator attribution problems Olympiodorus/Synesius and state policies. **Next record ST-105.**
+
+
+## Window 30 deep-read checkpoint — 381–400 CE (2026-10-18)
+
+- [Full ten-layer study of actual priestly status, Serapeum loss and text-attributed alchemical dialogue](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0381-0400_CE__WINDOW.md)
+- [Original/later material sources, Roman legal chronology, Serapeum narratives and Martelli-Dorandi manuscript/source audit](08_SOURCE_REGISTER/CE_0381-0400__SOURCE_REGISTER.md)
+- [Language, technique, secrecy, cult office and literary persona audit: Dioscorus, Serapis and Synesius](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0381-0400__SERAPIS_PRIEST_CUSTODY_AND_LATE_MANUSCRIPT.md)
+- [Station Transformation Register ST-105–ST-110; total 110](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Critical findings:** **391** empire regulates rituals in Egypt by name (law to Evagrius/Romanus), and real **Serapeum sanctuary destruction** follows around **391/392** (the precise order, active library and books lost are disputed). **396** law withdraws privileges of defined **priests and hierophants**. **399** laws order some rural buildings removed yet preserve civic festivals/art and other non-sacrificial buildings. A later-transmitted Greek alchemical work *Synesius to Dioscorus, priest of Serapis* portrays learned technical-priestly exchange, but **its original authorship and composition date are not proven to be 390, and the priest is NOT independently recorded as a victim**. Olympiodorus alchemist commentary cannot be assigned securely to 390. **NO securely identified 381–400 Alchemist occupation, victim, or elemental transmutation.**
+
+**Most profound result:** an institution's **legal standing may collapse**, yet **its perceived interpretive authority may survive in later literature**, without establishing continuous actual priestly chemical practice. **NEXT Window 31 — 401–420 CE**, separate genuine Synesius of Cyrene / Hypatia's death 415 from disputed alchemical manuscripts. **Next ST-111.**
