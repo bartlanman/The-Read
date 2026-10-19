@@ -2,7 +2,7 @@
 
 **The making of a station, its historical lineage, and the texts that manifested from it.**
 
-Status: **OPEN INVESTIGATION — 30 deep-researched historical windows through 400 CE, 110 Station Transformation Records; next window 401–420 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
+Status: **OPEN INVESTIGATION — 31 deep-researched historical windows through 420 CE, 114 Station Transformation Records; next window 421–440 CE (2026-10-18).** Historical sections below retain their original dated checkpoints.
 Repository: `bartlanman/The-Read`
 
 ## Founding inquiry
@@ -376,3 +376,15 @@ The **Met's Dendur object**, the **late-BCE catalog reconstructed in later texts
 **Critical findings:** **391** empire regulates rituals in Egypt by name (law to Evagrius/Romanus), and real **Serapeum sanctuary destruction** follows around **391/392** (the precise order, active library and books lost are disputed). **396** law withdraws privileges of defined **priests and hierophants**. **399** laws order some rural buildings removed yet preserve civic festivals/art and other non-sacrificial buildings. A later-transmitted Greek alchemical work *Synesius to Dioscorus, priest of Serapis* portrays learned technical-priestly exchange, but **its original authorship and composition date are not proven to be 390, and the priest is NOT independently recorded as a victim**. Olympiodorus alchemist commentary cannot be assigned securely to 390. **NO securely identified 381–400 Alchemist occupation, victim, or elemental transmutation.**
 
 **Most profound result:** an institution's **legal standing may collapse**, yet **its perceived interpretive authority may survive in later literature**, without establishing continuous actual priestly chemical practice. **NEXT Window 31 — 401–420 CE**, separate genuine Synesius of Cyrene / Hypatia's death 415 from disputed alchemical manuscripts. **Next ST-111.**
+
+
+## Window 31 checkpoint — 401–420 CE (2026-10-18)
+
+- [Full ten-layer Window 31: Hypatia, Synesius letters, apparatus and institutional threat](02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0401-0420_CE__WINDOW.md)
+- [Primary and scholarly witnesses: authentic letters, Socrates VII.15, careful event vs composition dates](08_SOURCE_REGISTER/CE_0401-0420__SOURCE_REGISTER.md)
+- [Language, technique, access: hydroscope, manuscript review, pastoral reticence and mistaken alchemical identities](09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0401-0420__HYDROSCOPE_HYPATIA_AND_AUTHORIAL_BOUNDARIES.md)
+- [Station Transformations ST-111–114, cumulative 114](11_STATION_TRANSFORMATION_REGISTER/REGISTER.md)
+
+**Positive documentary result:** A **known philosopher (Synesius of Cyrene)** makes a **specific technical instrument request** to an identifiable former teacher **Hypatia** in Letter 15 and **trusts her to decide readiness of his writings** in Letter 154. The texts demonstrate a real student-teacher relationship and **recognized technical/intellectual authority**, but neither proves a brass instrument was manufactured, that Hypatia invented it, or that a metal was transmuted. Letter 105 and career evidence show Synesius **became bishop c.410/411**, died **probably c.413**. Hypatia was **murdered March 415** under Alexandrian civic/church conflict; **Socrates composed his account around 440**, not contemporaneous court deposition. Those acts are NOT a known Alchemist persecution, and the medieval “alchemical Synesius to Dioscorus” remains **disputed attribution**.
+
+**Most profound:** **a station's authority becomes visible when real others entrust it with instruments and judging knowledge; that authority may coexist with personal danger and does not itself prove membership in an Alchemist profession**. NEXT Window 32 **421–440 CE**, next ID ST-115.
