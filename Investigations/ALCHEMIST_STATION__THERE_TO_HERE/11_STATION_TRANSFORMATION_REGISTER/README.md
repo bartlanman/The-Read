@@ -1,6 +1,6 @@
 # STATION TRANSFORMATION REGISTER
 
-**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-104; 29 investigated windows, next 381–400 CE.** See latest Window 29 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-110; 30 investigated windows, next 401–420 CE.** See latest Window 30 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
 
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
@@ -252,3 +252,15 @@ Each record must include:
 - [ST-104: actual Valens gold coin 367–375 versus controlled gold export c.374?](ST-104_GOLD_367_375__COIN_AND_EXPORT_NOT_SYNTHESIS.md)
 
 **Current checkpoint: 104 distinct ST records and 29 investigated historical windows through 380 CE.** These entries do not represent five newly identified Alchemists. The **source-critical positive discovery** is Themistius's **366/367 public counterfactual metal-transforming image**. No 361–380 original transmutation sample, dated Alchemist guild office, certified professional or recorded alchemical persecution established. [Window 29](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0361-0380_CE__WINDOW.md) · [Sources](../08_SOURCE_REGISTER/CE_0361-0380__SOURCE_REGISTER.md) · [Language](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0361-0380__THEMISTIUS_JULIAN_AND_DIVINATION.md). **Next Window 30, 381–400 CE, next ST-105**.
+
+
+## Window 30 (381–400 CE) — latest checkpoint 2026-10-18
+
+- [ST-105: 382 Temple artwork publicly valued but sacrifices prohibited](ST-105_382__TEMPLE_ART_PRESERVED_WITHOUT_SACRIFICE.md)
+- [ST-106: 391 Egypt-specific imperial prohibition, no alchemy language](ST-106_EGYPT_391__TEMPLE_RITUAL_LAW_NOT_ALCHEMY.md)
+- [ST-107: Serapeum ca.391/392 physical destruction, book-loss claims unverified](ST-107_SERAPEUM_391_392__DESTRUCTION_AND_UNPROVEN_BOOK_LOSS.md)
+- [ST-108: 396 privileges of priests/hierophants formally withdrawn](ST-108_PRIOR_PRIESTLY_PRIVILEGES_396__REVOKED.md)
+- [ST-109: 399 differences between rural-temple demolition, festivals and retained public buildings](ST-109_399__RURAL_DEMOLITION_CIVIC_FESTIVAL_PRESERVATION.md)
+- [ST-110: Undated Synesius/Dioscorus medieval manuscript portrays alchemical commentary and a Serapis priest—NOT verified 390 event](ST-110_SYNESIUS_DIOSCORUS__UNVERIFIED_PRE_391_ALCHEMICAL_PRIEST.md)
+
+**Current 110 distinct records; 30 deep-researched windows through 400 CE; next 401–420 CE and ST-111.** Roman administration issued **16 June 391** restrictions specifically to Egyptian offices; Serapeum fell **ca.391/392**, but an original 391 alchemy book-burning directive, named alchemy victim and direct independent evidence connecting the *Synesius-to-Dioscorus* dialogue to the destroyed institution remain **UNVERIFIED**. The dialogue's original date/author is disputed and **medieval physical texts cannot be turned into a precisely dated 390 encounter**. [Window 30](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0381-0400_CE__WINDOW.md) · [Source register](../08_SOURCE_REGISTER/CE_0381-0400__SOURCE_REGISTER.md) · [Language audit](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0381-0400__SERAPIS_PRIEST_CUSTODY_AND_LATE_MANUSCRIPT.md).
