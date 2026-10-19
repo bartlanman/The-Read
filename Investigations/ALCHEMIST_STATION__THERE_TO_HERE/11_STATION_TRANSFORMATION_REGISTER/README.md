@@ -1,6 +1,6 @@
 # STATION TRANSFORMATION REGISTER
 
-**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-114; 31 investigated windows, next 421–440 CE.** See latest Window 31 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
+**CURRENT VERIFIED CHECKPOINT (2026-10-18): ST-001–ST-121; 32 investigated windows, next 441–460 CE.** See latest Window 32 entries at end of this index. Earlier checkpoint notes below remain archival, not current state.
 
 **Purpose:** A longitudinal evidence register linked to the twenty-year THERE → HERE chronology. Identify moments when a *capacity*, its *social perception*, its *authorization*, or the surrounding world changed.
 
@@ -274,3 +274,16 @@ Each record must include:
 - [ST-114 Hypatia murdered March 415, Socrates authored ~440](ST-114_HYPATIA_MARCH_415__TEACHER_MURDER_NOT_ALCHEMY.md) — violent loss of known teacher, **not documented Alchemist persecution**
 
 **Current ST count 114; 31 deep-researched windows; NEXT Window 32 (421–440) and ST-115.** Source discipline: Letter 15 often dated `c.402` but exact assignment disputed; Letter 154 uncertain early-fifth-century date; older c.397–398 silver astrolabe is NOT 413 evidence; Socrates **writing c.440** narrates **415**, while historical Synesius probably died **c.413**. Disputed alchemical *Synesius–Dioscorus* original date/author remains UNVERIFIED. [Window 31](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0401-0420_CE__WINDOW.md) · [Primary and scholarly sources](../08_SOURCE_REGISTER/CE_0401-0420__SOURCE_REGISTER.md) · [Language/audience/access](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0401-0420__HYDROSCOPE_HYPATIA_AND_AUTHORIAL_BOUNDARIES.md).
+
+
+## Window 32 — latest 2026-10-18 checkpoint
+
+- [ST-115: 423 law restrains sacrifice, protects peaceful people](ST-115_423__RITUAL_RESTRICTIONS_AND_PEACEFUL_PERSONS.md)
+- [ST-116: 425 law authorizes public teaching posts](ST-116_425__PUBLIC_TEACHING_31_CHAIRS.md)
+- [ST-117: 425–430 gold coin weight benchmark](ST-117_425_430__EXAGIUM_GOLD_WEIGHT_STANDARD.md)
+- [ST-118: 429–435 compilers empowered to change text](ST-118_429_435__AUTHORIZED_LEGAL_EDITORS.md)
+- [ST-119: 435 command burns named theological books, not alchemy](ST-119_435__NESTORIAN_BOOK_BURNING_NOT_ALCHEMY.md)
+- [ST-120: 438/439 binding legal code and Senate](ST-120_438_439__THEODOSIAN_CODE_PUBLIC_AUTHORITY.md)
+- [ST-121: Socrates c.440 narrates 415 Hypatia death](ST-121_SOCRATES_439_440__HYPATIA_HISTORY_NOT_NEW_DEATH.md)
+
+**121 distinct records; 32 completed deep investigations; next 441–460 CE and ST-122.** [Window 32](../02_CHRONOLOGY_20_YEAR_WINDOWS/CE_0421-0440_CE__WINDOW.md) · [Source register](../08_SOURCE_REGISTER/CE_0421-0440__SOURCE_REGISTER.md) · [Language](../09_LANGUAGE_TECHNIQUE_AND_ALLEGORY/CE_0421-0440__AUTHORIZED_EDITION_TEACHING_AND_BOOK_DESTRUCTION.md). No named Alchemist or chemical transmutation demonstrated.
