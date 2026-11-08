@@ -12,6 +12,10 @@ This folder defines a repeatable **Symbol Read → Symbolic Atlas → Contempora
 - **The Read root [README](../../README.md)** — repository entrypoint and canonical `JOURNEY → PREDICTION → ACT → MEMORY` sequence.
 - **[Earned Paragraph Protocol](../EARNED_PARAGRAPH_PROTOCOL.md)** — applies to the canonical Read's final prose, not a creative license for symbolic claims.
 
+## Working Symbol Index
+
+The initial [searchable Symbol Index](Index/README.md) catalogs Spiral, Threshold, and their first collision with source links, typed propositions and relationships. Use the [JSON catalog](Index/symbols.json) and [Python search tool](Index/search_index.py) from a local checkout; local queries create retrieval logs, while historical encounter ledgers remain separately reviewed. The six reference collections are named lenses, not imported datasets.
+
 ## Run it
 
 Say **`Symbol Read: Spiral`** to research a symbol from earliest recoverable evidence through its contemporary lives and articulate its *fundamental form, human encounter, and proposed relational capacity*.
