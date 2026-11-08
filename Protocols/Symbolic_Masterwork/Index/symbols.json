@@ -1,0 +1,237 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-11-07",
+  "description": "Local searchable index of Symbolic Masterwork records. Links point to research files; not a database of imported cultural collections.",
+  "symbols": [
+    {
+      "id": "SYM-0001",
+      "name": "Spiral",
+      "kind": "symbol",
+      "status": "research_first_pass",
+      "aliases": [
+        "coil",
+        "spiral form"
+      ],
+      "keywords": [
+        "turning",
+        "radial displacement",
+        "recurrence",
+        "continuity",
+        "change",
+        "Newgrange",
+        "Tarxien",
+        "Gournia"
+      ],
+      "formal_structure": "A turning path with changing distance from a reference point.",
+      "fundamental_proposition": {
+        "text": "Continuity through changed relation.",
+        "epistemic_type": "OUR INTERPRETATION",
+        "verified_as_historical_meaning": false
+      },
+      "contexts": [
+        {
+          "label": "Newgrange passage-tomb engravings",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "Tarxien temple reliefs",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "Minoan Gournia ceramic motif",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        }
+      ],
+      "traditions": [
+        "Irish Neolithic passage-tomb art",
+        "Maltese prehistoric temple art",
+        "Minoan pottery"
+      ],
+      "relations": [
+        {
+          "target": "SYM-0002",
+          "relation": "combined_in",
+          "via": "MW-0001"
+        }
+      ],
+      "files": {
+        "read": "../Examples/Spiral/SYMBOL_READ.md",
+        "atlas": "../Examples/Spiral/ATLAS_AND_ENCOUNTERS.md",
+        "masterwork": "../Examples/Spiral/MASTERWORK.md"
+      },
+      "encounter_ledger": "../Examples/Spiral/ATLAS_AND_ENCOUNTERS.md",
+      "visual_status": "original SVG study, not adopted",
+      "unresolved": [
+        "Origins of earliest spiral imagery unknown",
+        "Cross-cultural transmission not established",
+        "Several reference collection entries not accessed"
+      ]
+    },
+    {
+      "id": "SYM-0002",
+      "name": "Threshold",
+      "kind": "symbol",
+      "status": "research_first_pass",
+      "aliases": [
+        "limen",
+        "doorway",
+        "gate",
+        "boundary"
+      ],
+      "keywords": [
+        "crossing",
+        "distinction",
+        "passage",
+        "liminality",
+        "Janus",
+        "torii",
+        "pylon",
+        "access"
+      ],
+      "formal_structure": "A perceptible distinction between sides, states or regions, with a possibility of passage.",
+      "fundamental_proposition": {
+        "text": "Passage across a consequential distinction.",
+        "epistemic_type": "OUR INTERPRETATION",
+        "verified_as_historical_meaning": false
+      },
+      "contexts": [
+        {
+          "label": "Roman Janus: doors, beginnings",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "Torii in Shinto shrine contexts",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "Egyptian temple entrances",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "Anthropological liminality",
+          "epistemic_type": "SOURCE INTERPRETATION"
+        }
+      ],
+      "traditions": [
+        "Roman religious imagery",
+        "Shinto shrine architecture",
+        "Egyptian temple architecture",
+        "Modern anthropology"
+      ],
+      "relations": [
+        {
+          "target": "SYM-0001",
+          "relation": "combined_in",
+          "via": "MW-0001"
+        }
+      ],
+      "files": {
+        "read": "../Examples/Threshold/SYMBOL_READ.md",
+        "atlas": "../Examples/Threshold/ATLAS_AND_ENCOUNTERS.md"
+      },
+      "encounter_ledger": "../Examples/Threshold/ATLAS_AND_ENCOUNTERS.md",
+      "visual_status": "separate final standalone mark not generated",
+      "unresolved": [
+        "Earliest threshold representation not determined",
+        "No six-collection complete review",
+        "Crossing need not change capacity"
+      ]
+    },
+    {
+      "id": "MW-0001",
+      "name": "The Altered Horizon",
+      "kind": "masterwork_collision",
+      "status": "creative_candidate",
+      "aliases": [
+        "Spiral x Threshold",
+        "Spiral × Threshold"
+      ],
+      "keywords": [
+        "collision",
+        "future perception",
+        "crossing",
+        "continuity",
+        "minimalist",
+        "monochrome",
+        "visual benchmark"
+      ],
+      "inputs": [
+        "SYM-0001",
+        "SYM-0002"
+      ],
+      "formal_structure": "A spiral and a crossing axis; the preferred study is minimalist and monochrome.",
+      "fundamental_proposition": {
+        "text": "A passage may change the field of subsequent possible recognitions.",
+        "epistemic_type": "CREATIVE PROPOSITION",
+        "verified_as_historical_meaning": false
+      },
+      "contexts": [],
+      "traditions": [],
+      "relations": [
+        {
+          "target": "SYM-0001",
+          "relation": "derived_from"
+        },
+        {
+          "target": "SYM-0002",
+          "relation": "derived_from"
+        }
+      ],
+      "files": {
+        "masterwork": "../Examples/Collision_Spiral_Threshold/MASTERWORK.md",
+        "benchmark": "../Examples/Collision_Spiral_Threshold/VISUAL_BENCHMARK.md",
+        "early_svg": "../Examples/Collision_Spiral_Threshold/ALTERED_HORIZON.svg"
+      },
+      "encounter_ledger": null,
+      "visual_status": "User prefers minimal monotone raster shown in conversation; exact preferred image not yet committed to repo; earlier SVG is not that image.",
+      "unresolved": [
+        "Visual perceptual transformation not demonstrated",
+        "No documented cultural adoption"
+      ]
+    }
+  ],
+  "reference_collections": [
+    {
+      "id": "REF-ARAS",
+      "name": "ARAS / The Book of Symbols",
+      "function": "Archetypal and experiential interpretations",
+      "imported": false
+    },
+    {
+      "id": "REF-WARBURG",
+      "name": "Warburg / Mnemosyne Atlas",
+      "function": "Image migration and visual cultural memory",
+      "imported": false
+    },
+    {
+      "id": "REF-CIRLOT",
+      "name": "Cirlot / A Dictionary of Symbols",
+      "function": "Comparative symbolic interpretation",
+      "imported": false
+    },
+    {
+      "id": "REF-CHEVALIER",
+      "name": "Chevalier & Gheerbrant / Dictionary of Symbols",
+      "function": "Cross-cultural meanings and differences",
+      "imported": false
+    },
+    {
+      "id": "REF-ICONCLASS",
+      "name": "Iconclass",
+      "function": "Iconographic classification",
+      "imported": false
+    },
+    {
+      "id": "REF-GETTY",
+      "name": "Getty emblem and iconography resources",
+      "function": "Emblematic design and image-inscription relationships",
+      "imported": false
+    }
+  ],
+  "policy": {
+    "retrieval": "Every retrieval requires an Encounter Record; CLI search logs query and matched records to a local JSONL file.",
+    "evidence": "Do not promote interpretations, creative propositions, or repeated AI descriptions into historical evidence.",
+    "collection_access": "These are named resources for future consultation, not harvested or locally imported datasets.",
+    "rights": "Store metadata and bibliographic links, not unlicensed source images."
+  }
+}
