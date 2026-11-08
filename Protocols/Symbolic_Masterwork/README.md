@@ -6,6 +6,8 @@ This folder defines a repeatable **Symbol Read → Symbolic Atlas → Contempora
 
 ## Start here
 
+- **[Visual Genesis Protocol](VISUAL_GENESIS_PROTOCOL.md)** — distinct artistic operations, concept iterations, condensation, benchmark, selection and visual integrity.
+- **[Spiral × Threshold preferred visual benchmark](Examples/Collision_Spiral_Threshold/VISUAL_BENCHMARK.md)** — approved minimalist monotone direction and limits of that approval.
 - **[Full governing protocol](SYMBOLIC_MASTERWORK_PROTOCOL.md)** — mandatory rules, stages, six reference collections, design, cultural memory and quality gates.
 - **The Read root [README](../../README.md)** — repository entrypoint and canonical `JOURNEY → PREDICTION → ACT → MEMORY` sequence.
 - **[Earned Paragraph Protocol](../EARNED_PARAGRAPH_PROTOCOL.md)** — applies to the canonical Read's final prose, not a creative license for symbolic claims.
