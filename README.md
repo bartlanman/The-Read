@@ -2,6 +2,10 @@
 
 **Current output addition (2026-10-23):** [Protocols/EARNED_PARAGRAPH_PROTOCOL.md](Protocols/EARNED_PARAGRAPH_PROTOCOL.md)
 
+## Symbolic Masterwork — companion protocol
+
+A new, separate symbolic research and creative route is documented in [Protocols/Symbolic_Masterwork/README.md](Protocols/Symbolic_Masterwork/README.md) and its [full protocol](Protocols/Symbolic_Masterwork/SYMBOLIC_MASTERWORK_PROTOCOL.md). It traces symbols **There → Here → Fundamental**, audits six reference collections and relevant symbolic traditions, records **every** resource/Index encounter, and guides the creation and cultural tracking of contemporary symbolic Masterworks. It **does not** replace or amend the canonical Read or its constitutional sources.
+
 ## Running The Read
 
 Run the current canonical sequence:
