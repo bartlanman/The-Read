@@ -188,6 +188,74 @@
         "Visual perceptual transformation not demonstrated",
         "No documented cultural adoption"
       ]
+    },
+    {
+      "id": "SYM-0003",
+      "name": "Mirror",
+      "kind": "symbol",
+      "status": "research_first_pass",
+      "aliases": [
+        "reflection",
+        "looking glass",
+        "speculum"
+      ],
+      "keywords": [
+        "reflection",
+        "recognition",
+        "illusion",
+        "prudence",
+        "vanity",
+        "self",
+        "symmetry",
+        "presence",
+        "difference",
+        "bronze",
+        "obsidian"
+      ],
+      "formal_structure": "Contingent optical image arising from the relation among object, surface, illumination, and viewer.",
+      "fundamental_proposition": {
+        "text": "Presence through difference.",
+        "epistemic_type": "OUR INTERPRETATION",
+        "verified_as_historical_meaning": false
+      },
+      "contexts": [
+        {
+          "label": "Anatolian polished obsidian mirrors",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "Egyptian New Kingdom Hathor-emblem mirrors",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "Chinese inscribed bronze mirrors",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "European prudence/truth and vanity/illusion motifs",
+          "epistemic_type": "SOURCE INTERPRETATION"
+        }
+      ],
+      "traditions": [
+        "Anatolian archaeological manufacture",
+        "Egyptian New Kingdom",
+        "Chinese bronze mirror traditions",
+        "European allegorical iconography"
+      ],
+      "relations": [],
+      "files": {
+        "read": "../Examples/Mirror/SYMBOL_READ.md",
+        "atlas": "../Examples/Mirror/ATLAS_AND_ENCOUNTERS.md",
+        "masterwork": "../Examples/Mirror/MASTERWORK.md",
+        "visual": "../Examples/Mirror/BETWEEN_IMAGE.svg"
+      },
+      "encounter_ledger": "../Examples/Mirror/ATLAS_AND_ENCOUNTERS.md",
+      "visual_status": "First monochrome candidate: The Between Image; not user-approved or culturally adopted",
+      "unresolved": [
+        "First human self-recognition cannot be inferred from earliest manufacture",
+        "Six-collection entries incomplete",
+        "Current mark not validated by participants"
+      ]
     }
   ],
   "reference_collections": [
