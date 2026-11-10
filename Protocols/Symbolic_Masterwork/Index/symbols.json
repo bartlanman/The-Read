@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-11-07",
+  "updated": "2026-11-09",
   "description": "Local searchable index of Symbolic Masterwork records. Links point to research files; not a database of imported cultural collections.",
   "symbols": [
     {
@@ -255,6 +255,75 @@
         "First human self-recognition cannot be inferred from earliest manufacture",
         "Six-collection entries incomplete",
         "Current mark not validated by participants"
+      ]
+    },
+    {
+      "id": "SYM-0004",
+      "name": "Relay",
+      "kind": "symbol",
+      "status": "research_first_pass",
+      "aliases": [
+        "handoff",
+        "transmission",
+        "succession",
+        "relais"
+      ],
+      "keywords": [
+        "transfer",
+        "replacement",
+        "handoff",
+        "continuity",
+        "agency",
+        "succession",
+        "electromagnetic",
+        "torch",
+        "hounds",
+        "signal",
+        "fire",
+        "responsibility"
+      ],
+      "formal_structure": "A succession across distinct agents or stations that continues or activates an operation.",
+      "fundamental_proposition": {
+        "text": "Continuity through transferred agency.",
+        "epistemic_type": "OUR INTERPRETATION",
+        "verified_as_historical_meaning": false
+      },
+      "contexts": [
+        {
+          "label": "French and English hunting relay practices",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "Classical Athenian torch races",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "Joseph Henry electromagnetic relay",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        },
+        {
+          "label": "Modern Olympic torch relay since 1936",
+          "epistemic_type": "HISTORICAL EVIDENCE"
+        }
+      ],
+      "traditions": [
+        "Medieval hunting",
+        "Greek torch race",
+        "Electrical engineering",
+        "Modern Olympic ceremonial practice"
+      ],
+      "relations": [],
+      "files": {
+        "read": "../Examples/Relay/SYMBOL_READ.md",
+        "atlas": "../Examples/Relay/ATLAS_AND_ENCOUNTERS.md",
+        "masterwork": "../Examples/Relay/MASTERWORK.md"
+      },
+      "encounter_ledger": "../Examples/Relay/ATLAS_AND_ENCOUNTERS.md",
+      "visual_status": "First monochromatic raster study generated in conversation, not approved; exact raster not committed",
+      "unresolved": [
+        "Six-collection entries incomplete",
+        "Visual reading as handoff not established",
+        "No documented community adoption"
       ]
     }
   ],
